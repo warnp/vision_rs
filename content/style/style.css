@@ -1,0 +1,45 @@
+body {
+  background-color: rgb(50, 50, 50);
+}
+
+.photo {
+  /*height: 80%;*/
+  /*width: 80%;*/
+  text-align: center;
+}
+
+.photo img {
+  /*height: 100%;*/
+  /*width: 100%;*/
+  min-height: 720px;
+  max-height: 720px;
+  text-align: center;
+
+}
+
+.arrowRight {
+  width: 0;
+  height: 0;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+
+  border-left: 10px solid blue;
+  display: inline-block;
+}
+
+.arrowLeft {
+
+  width: 0;
+  height: 0;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+
+  border-right:10px solid blue;
+  display: inline-block;
+  margin-right: 20px;
+
+}
+
+.wrapper{
+  text-align: center;
+}
