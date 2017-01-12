@@ -24,32 +24,27 @@ use staticfile::Static;
 use mount::Mount;
 use pages::image::ImagePage;
 use pages::show_off::ShowOff;
-use data_type::data_type::{Data, Image};
+use data_type::data_type::Data;
 
 
 fn main() {
     let mut router = Router::new();
     let mut mount = Mount::new();
 
-    router.get("/", handler, "index");
-    router.get("/:imageId", handler, "image");
+    router.get("/", index_handler, "index_handler");
+    router.get("/:imageId", handler, "handler");
 
     mount.mount("/images", Static::new(Path::new("content/images")));
     mount.mount("/style", Static::new(Path::new("content/style")));
     mount.mount("/", router);
 
 
-    fn handler(req: &mut Request) -> IronResult<Response> {
+    fn index_handler(req: &mut Request) -> IronResult<Response> {
         let mut file = File::open("./content/text.json").unwrap();
         let mut data = String::new();
-        let image_page = ImagePage {};
-
         file.read_to_string(&mut data).unwrap();
         let deserialized: Data = serde_json::from_str(&data).unwrap();
 
-        let ref query_image =
-            req.extensions.get::<Router>().unwrap().find("imageId").unwrap_or("/");
-        let ref query_index = req.extensions.get::<Router>().unwrap().find("/").unwrap_or("/");
         let mut host: String = "".to_string();
         for item in req.headers.iter() {
             if item.name() == "Host" {
@@ -57,7 +52,27 @@ fn main() {
             }
         }
 
-        println!("{}", host);
+        Ok(Response::with((status::Ok, ShowOff::get_page(&host, deserialized))))
+    }
+    fn handler(req: &mut Request) -> IronResult<Response> {
+        let mut file = File::open("./content/text.json").unwrap();
+        let mut data = String::new();
+        file.read_to_string(&mut data).unwrap();
+        let deserialized: Data = serde_json::from_str(&data).unwrap();
+
+
+        let image_page = ImagePage {};
+
+        let ref query_image =
+            req.extensions.get::<Router>().unwrap().find("imageId").unwrap_or("/");
+        let mut host: String = "".to_string();
+        for item in req.headers.iter() {
+            if item.name() == "Host" {
+                host = item.value_string();
+            }
+        }
+
+        // println!("{}", host);
         let result = query_image.parse::<usize>();
         match result {
             Ok(i) => Ok(Response::with((status::Ok, image_page.get_page(&host, deserialized, i)))),
@@ -69,18 +84,8 @@ fn main() {
             }
         }
 
-        let result_index = query_index.parse::<String>();
-        match result_index {
-            Ok() => Ok(Response::with((status::Ok, ShowOff::get_page(&host, deserialized)),
-            Err(_) => {
-                let markup = html!{
-                    h1 "Bad request!"
-                };
-                Ok(Response::whith((status::Ok, markup)))
-            }
-        }
 
-    
+    }
 
     Iron::new(mount).http("localhost:3000").unwrap();
 }
