@@ -5,6 +5,7 @@ pub struct Data {
 
 #[derive(Serialize, Deserialize, Debug)]
 pub struct Image {
+    pub id: i32,
     pub src: String,
     pub jour: i32,
 }
