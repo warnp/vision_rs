@@ -10,6 +10,8 @@ extern crate staticfile;
 extern crate mount;
 extern crate router;
 
+mod data;
+
 use iron::prelude::*;
 use iron::status;
 
@@ -20,16 +22,6 @@ use std::path::Path;
 use staticfile::Static;
 use mount::Mount;
 
-#[derive(Serialize, Deserialize, Debug)]
-struct Data {
-    data: Vec<Image>,
-}
-
-#[derive(Serialize, Deserialize, Debug)]
-struct Image{
-    src : String,
-    jour: i32,
-}
 
 fn prec_page(actual :i32, total :i32)->i32{
     if actual - 1 <0 {
