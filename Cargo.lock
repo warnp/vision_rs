@@ -3,8 +3,8 @@ name = "vision"
 version = "0.1.0"
 dependencies = [
  "iron 0.4.0 (registry+https://github.com/rust-lang/crates.io-index)",
- "maud 0.11.1 (registry+https://github.com/rust-lang/crates.io-index)",
- "maud_macros 0.10.0 (registry+https://github.com/rust-lang/crates.io-index)",
+ "maud 0.14.0 (registry+https://github.com/rust-lang/crates.io-index)",
+ "maud_macros 0.14.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "mount 0.2.1 (git+https://github.com/iron/mount.git)",
  "router 0.4.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "serde 0.8.18 (registry+https://github.com/rust-lang/crates.io-index)",
@@ -151,12 +151,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 
 [[package]]
 name = "maud"
-version = "0.10.0"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-
-[[package]]
-name = "maud"
-version = "0.11.1"
+version = "0.14.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 dependencies = [
  "iron 0.4.0 (registry+https://github.com/rust-lang/crates.io-index)",
@@ -164,10 +159,10 @@ dependencies = [
 
 [[package]]
 name = "maud_macros"
-version = "0.10.0"
+version = "0.14.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 dependencies = [
- "maud 0.10.0 (registry+https://github.com/rust-lang/crates.io-index)",
+ "maud 0.14.0 (registry+https://github.com/rust-lang/crates.io-index)",
 ]
 
 [[package]]
@@ -510,9 +505,8 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 "checksum libc 0.2.17 (registry+https://github.com/rust-lang/crates.io-index)" = "044d1360593a78f5c8e5e710beccdc24ab71d1f01bc19a29bcacdba22e8475d8"
 "checksum log 0.3.6 (registry+https://github.com/rust-lang/crates.io-index)" = "ab83497bf8bf4ed2a74259c1c802351fcd67a65baa86394b6ba73c36f4838054"
 "checksum matches 0.1.4 (registry+https://github.com/rust-lang/crates.io-index)" = "efd7622e3022e1a6eaa602c4cea8912254e5582c9c692e9167714182244801b1"
-"checksum maud 0.10.0 (registry+https://github.com/rust-lang/crates.io-index)" = "9332762937b149cc02231e4f1162d53fa4cd959961a4c2698bdfc8cddc74a8f4"
-"checksum maud 0.11.1 (registry+https://github.com/rust-lang/crates.io-index)" = "a61f1d66b8913a98d5c6f1649a45d9fc59a83a4de32f21507f6f4b7a70997220"
-"checksum maud_macros 0.10.0 (registry+https://github.com/rust-lang/crates.io-index)" = "c50b349e2640bd531af259382f80050b70f6c05e2e066999b31fe73499c75684"
+"checksum maud 0.14.0 (registry+https://github.com/rust-lang/crates.io-index)" = "2b832210f2356b064cece10815f73e47dc500a4723a0e097f25d3c5709b92f5d"
+"checksum maud_macros 0.14.0 (registry+https://github.com/rust-lang/crates.io-index)" = "35816eba64f09cbd280cb0182837862065ac9efe3277ea840328e373f2962672"
 "checksum mime 0.2.2 (registry+https://github.com/rust-lang/crates.io-index)" = "b5c93a4bd787ddc6e7833c519b73a50883deb5863d76d9b71eb8216fb7f94e66"
 "checksum modifier 0.1.0 (registry+https://github.com/rust-lang/crates.io-index)" = "41f5c9112cb662acd3b204077e0de5bc66305fa8df65c8019d5adb10e9ab6e58"
 "checksum mount 0.2.1 (git+https://github.com/iron/mount.git)" = "<none>"

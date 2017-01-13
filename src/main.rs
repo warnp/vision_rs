@@ -10,7 +10,8 @@ extern crate staticfile;
 extern crate mount;
 extern crate router;
 
-mod data;
+mod pages;
+mod data_type;
 
 use iron::prelude::*;
 use iron::status;
@@ -21,77 +22,60 @@ use std::io::Read;
 use std::path::Path;
 use staticfile::Static;
 use mount::Mount;
-
-
-fn prec_page(actual :i32, total :i32)->i32{
-    if actual - 1 <0 {
-        return total as i32;
-    }else{
-        return actual as i32 - 1;
-    }
-
-}
-
-fn next_page(actual :i32, total :i32) -> i32{
-    if actual + 1 > total {
-        return 0i32;
-    }else{
-        return (actual + 1) as i32;
-
-    }
-}
+use pages::image::ImagePage;
+use pages::show_off::ShowOff;
+use data_type::data_type::Data;
 
 
 fn main() {
     let mut router = Router::new();
     let mut mount = Mount::new();
 
-    router.get("/:imageId", handler,"index");
+    router.get("/", index_handler, "index_handler");
+    router.get("/:imageId", handler, "handler");
 
     mount.mount("/images", Static::new(Path::new("content/images")));
     mount.mount("/style", Static::new(Path::new("content/style")));
     mount.mount("/", router);
 
 
-    fn handler(req: &mut Request) -> IronResult<Response> {
+    fn index_handler(req: &mut Request) -> IronResult<Response> {
         let mut file = File::open("./content/text.json").unwrap();
         let mut data = String::new();
-
         file.read_to_string(&mut data).unwrap();
         let deserialized: Data = serde_json::from_str(&data).unwrap();
 
-        let ref query = req.extensions.get::<Router>().unwrap().find("imageId").unwrap_or("/");
-        let mut host :String = "".to_string();
+        let mut host: String = "".to_string();
         for item in req.headers.iter() {
             if item.name() == "Host" {
                 host = item.value_string();
-
             }
         }
 
-        println!("{}", host);
-        // let
-        let result = query.parse::<usize>();
-        match result {
-            Ok(i) => {
-                let url = "http://".to_string()+&host+"/images"+ &deserialized.data[i].src;
-                let markup = html!{
-                    link rel="stylesheet" type="text/css" href=("http://".to_string()+&host+"/style/style.css") /
-                    div class="photo"{
-                        img src=(url){}
-                    }
-                    div class="wrapper"{
-                        a href=(prec_page(i as i32, (deserialized.data.len() -1) as i32)){
-                            div class="arrowLeft"{}
-                        }
+        Ok(Response::with((status::Ok, ShowOff::get_page(&host, deserialized))))
+    }
+    fn handler(req: &mut Request) -> IronResult<Response> {
+        let mut file = File::open("./content/text.json").unwrap();
+        let mut data = String::new();
+        file.read_to_string(&mut data).unwrap();
+        let deserialized: Data = serde_json::from_str(&data).unwrap();
 
-                        a href=(next_page(i as i32, (deserialized.data.len()-1) as i32)){
-                            div class="arrowRight"{}
-                        }
-                    }
-                };
-                Ok(Response::with((status::Ok, markup)))
+
+        let image_page = ImagePage {};
+
+        let ref query_image =
+            req.extensions.get::<Router>().unwrap().find("imageId").unwrap_or("/");
+        let mut host: String = "".to_string();
+        for item in req.headers.iter() {
+            if item.name() == "Host" {
+                host = item.value_string();
             }
+        }
+
+        // println!("{}", host);
+        let result = query_image.parse::<usize>();
+        match result {
+            Ok(i) => Ok(Response::with((status::Ok, image_page.get_page(&host, deserialized, i)))),
             Err(_) => {
                 let markup = html!{
                     h1 "Bad request!"
@@ -99,6 +83,7 @@ fn main() {
                 Ok(Response::with((status::Ok, markup)))
             }
         }
+
 
     }
 
