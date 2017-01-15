@@ -20,11 +20,13 @@ use router::Router;
 use std::fs::File;
 use std::io::Read;
 use std::path::Path;
+use std::rc::Rc;
 use staticfile::Static;
 use mount::Mount;
 use pages::image::ImagePage;
 use pages::show_off::ShowOff;
 use data_type::data_type::Data;
+
 
 
 fn main() {
@@ -35,6 +37,7 @@ fn main() {
     router.get("/:imageId", handler, "handler");
 
     mount.mount("/images", Static::new(Path::new("content/images")));
+    mount.mount("/images/min", Static::new(Path::new("content/images/min")));
     mount.mount("/style", Static::new(Path::new("content/style")));
     mount.mount("/", router);
 

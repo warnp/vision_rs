@@ -1,11 +1,15 @@
-use data_type::data_type::Data;
+use data_type::data_type::{Data, Image};
+use std::rc::Rc;
 use maud;
 
 pub struct ImagePage;
 
 impl ImagePage {
     pub fn get_page(&self, host: &str, image_data: Data, i: usize) -> maud::PreEscaped<String> {
-        let url = "http://".to_string() + &host + "/images" + &image_data.data[i].src;
+
+        let src = self.find_next_occurence(&image_data, i);
+        // println!("{:#?}", src);
+        let url = "http://".to_string() + &host + "/images" + &src.src;
 
         html!{
             link rel="stylesheet" type="text/css"
@@ -41,5 +45,14 @@ impl ImagePage {
             return (actual + 1) as i32;
 
         }
+    }
+
+    fn find_next_occurence(&self, image_data: &Data, i: usize) -> &Image{
+        let result = image_data.data.iter().find(|x| x.id == i as i32);
+        &match result {
+            Some(x) => image_data.data.iter().find(|x| x.id == i as i32),
+            None => Some(self.find_next_occurence(image_data, i))
+        }.unwrap()
+        // Image{id:0,jour:0, src:"".to_string()}
     }
 }
