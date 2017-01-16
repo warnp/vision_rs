@@ -6,8 +6,11 @@ pub struct ImagePage;
 
 impl ImagePage {
     pub fn get_page(&self, host: &str, image_data: Data, i: usize) -> maud::PreEscaped<String> {
-
-        let src = self.find_next_occurence(&image_data, i);
+        //Bug possible avec ça je pense
+        let src = match image_data.data.iter().find(|x| x.id == i as i32) {
+            Some(x) => x,
+            None => image_data.data.iter().find(|x| x.id == i as i32 +1 ).unwrap()
+        };
         // println!("{:#?}", src);
         let url = "http://".to_string() + &host + "/images" + &src.src;
 
@@ -47,12 +50,4 @@ impl ImagePage {
         }
     }
 
-    fn find_next_occurence(&self, image_data: &Data, i: usize) -> &Image{
-        let result = image_data.data.iter().find(|x| x.id == i as i32);
-        &match result {
-            Some(x) => image_data.data.iter().find(|x| x.id == i as i32),
-            None => Some(self.find_next_occurence(image_data, i))
-        }.unwrap()
-        // Image{id:0,jour:0, src:"".to_string()}
-    }
 }

@@ -2,10 +2,18 @@ body {
   background-color: rgb(50, 50, 50);
 }
 
+.photoGallery {
+  z-index: 0;
+   transition: box-shadow 0.5s;
+}
+
 .photoGallery:hover{
-  -webkit-box-shadow: 0px 0px 9px 0px rgba(0,0,0,0.75);
-  -moz-box-shadow: 0px 0px 9px 0px rgba(0,0,0,0.75);
-  box-shadow: 0px 0px 9px 0px rgba(0,0,0,0.75);
+  z-index: 9999;
+  -webkit-box-shadow: 0px 0px 9px 0px rgba(0,0,0,0.8);
+  -moz-box-shadow: 0px 0px 9px 0px rgba(0,0,0,0.8);
+  box-shadow: 0px 0px 9px 0px rgba(0,0,0,0.8);
+  transition: box-shadow 0.5s;
+
 }
 
 .photo {
