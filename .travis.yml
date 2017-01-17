@@ -12,7 +12,7 @@ script:
   - cargo build --release
 
 after_success:
-  - docker build -t warnp/siteus.
+  - docker build -t warnp/siteus .
   - if [ "$TRAVIS_BRANCH" == "master" ]; then
     docker login -u="$DOCKER_USERNAME" -p="$DOCKER_PASSWORD";
     docker push warnp/siteus;
