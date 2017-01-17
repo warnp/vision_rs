@@ -89,5 +89,7 @@ fn main() {
 
     }
 
-    Iron::new(mount).http("localhost:3000").unwrap();
+//0.0.0.0 For docker purpose
+    Iron::new(mount).http("0.0.0.0:3000").unwrap();
+    // Iron::new(mount).http("localhost:3000").unwrap();
 }
