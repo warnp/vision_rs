@@ -8,11 +8,11 @@ services:
 before_script:
   - export PATH=$HOME/.cargo/bin:$PATH
 
-before_install:
+script:
   - cargo build --release
-  - docker build .
-  
+
 after_success:
+  - docker build -t warnp/siteus.
   - if [ "$TRAVIS_BRANCH" == "master" ]; then
     docker login -u="$DOCKER_USERNAME" -p="$DOCKER_PASSWORD";
     docker push warnp/siteus;
