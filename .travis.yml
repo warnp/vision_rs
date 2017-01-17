@@ -9,6 +9,8 @@ before_script:
   - export PATH=$HOME/.cargo/bin:$PATH
 
 before_install:
+  - pwd
+  - ls -al
   - cd vision_rs
   - docker build .
   
