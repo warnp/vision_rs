@@ -1,8 +1,6 @@
-#![plugin(maud_macros)]
 
 use data_type::data_type::Data;
 use maud::PreEscaped;
-use std::path::Path;
 
 pub struct ShowOff;
 

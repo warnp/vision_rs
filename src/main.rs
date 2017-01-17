@@ -1,4 +1,4 @@
-#![feature(proc_macro, plugin)]
+#![feature(plugin)]
 #![plugin(maud_macros)]
 
 #[macro_use]
@@ -20,7 +20,6 @@ use router::Router;
 use std::fs::File;
 use std::io::Read;
 use std::path::Path;
-use std::rc::Rc;
 use staticfile::Static;
 use mount::Mount;
 use pages::image::ImagePage;

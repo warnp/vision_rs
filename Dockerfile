@@ -9,6 +9,9 @@ RUN curl https://sh.rustup.rs -s > /home/install.sh && \
 
 ENV PATH "/root/.cargo/bin:$PATH"
 
-ADD target/release/vision ~/
+RUN mkdir -p /rust/app
+ADD . /rust/app
+WORKDIR /rust/app
+RUN mkdir -p content/images
 
-CMD "./vision"
+CMD "cargo run --release"

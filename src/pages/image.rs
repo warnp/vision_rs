@@ -1,5 +1,4 @@
-use data_type::data_type::{Data, Image};
-use std::rc::Rc;
+use data_type::data_type::Data;
 use maud;
 
 pub struct ImagePage;
