@@ -9,8 +9,6 @@ RUN curl https://sh.rustup.rs -s > /home/install.sh && \
 
 ENV PATH "/root/.cargo/bin:$PATH"
 
-WORKDIR ~/
-
-ADD target/release/vision 
+ADD target/release/vision ~/
 
 CMD "./vision"
