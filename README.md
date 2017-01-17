@@ -1,4 +1,4 @@
-# vision_rs
+# vision_rs (https://travis-ci.org/warnp/vision_rs.svg?branch=master)
 A  reimplementation of warnp/visionneuse in rust.
 
 ## Description
