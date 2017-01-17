@@ -8,10 +8,8 @@ services:
 before_script:
   - export PATH=$HOME/.cargo/bin:$PATH
 
-script:
-  - cargo build --release
-
 before_install:
+  - cargo build --release
   - docker build .
   
 after_success:
