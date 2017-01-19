@@ -12,8 +12,8 @@ impl ShowOff {
                 href=("http://".to_string()+host+"/style/style.css") /
                 div.gallery {
                     @for image in &data.data {
-                        a href=("http://".to_string()+host+"/"+&image.id.to_string()){
-                            img.photoGallery src=("http://".to_string()+host+"/images/min"+&image.src.split_at(9).1){}
+                        a.super-item href=("http://".to_string()+host+"/"+&image.id.to_string()){
+                            img.item src=("http://".to_string()+host+"/images/min"+&image.src.split_at(9).1){}
                         }
                     }
                 }
