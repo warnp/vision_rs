@@ -13,7 +13,7 @@ impl ShowOff {
 
                 div.gallery {
                     @for image in &data.data {
-                        a.super-item href=("http://".to_string()+host+"/"+&image.id.to_string()){
+                        a.super-item href=("http://".to_string()+host+"/"+&image.id.to_string()) id=(&image.id.to_string()){
                             img.item.lazy data-original=("http://".to_string()+host+"/images/min"+&image.src.split_at(9).1){}
 
                         }
