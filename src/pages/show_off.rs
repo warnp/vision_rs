@@ -14,10 +14,15 @@ impl ShowOff {
                 div.gallery {
                     @for image in &data.data {
                         a.super-item href=("http://".to_string()+host+"/"+&image.id.to_string()){
-                            img.item src=("http://".to_string()+host+"/images/min"+&image.src.split_at(9).1){}
+                            img.item.lazy data-original=("http://".to_string()+host+"/images/min"+&image.src.split_at(9).1){}
+
                         }
                     }
                 }
+                (PreEscaped("<script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js\"></script>"))
+                (PreEscaped("<script src=\"http://".to_string() + host+"/js/jquery.lazyload.min.js\"></script>"))
+                (PreEscaped("<script src=\"http://".to_string() + host+"/js/customloading.js\"></script>"))
+
         }
     }
 }

@@ -38,6 +38,7 @@ fn main() {
     mount.mount("/images", Static::new(Path::new("content/images")));
     mount.mount("/images/min", Static::new(Path::new("content/images/min")));
     mount.mount("/style", Static::new(Path::new("content/style")));
+    mount.mount("/js", Static::new(Path::new("content/js")));
     mount.mount("/", router);
 
 
