@@ -2,1063 +2,1593 @@
     "data": [{
         "id":0,
         "src": "/20160503/JPEG/IMG_3943.jpg",
-        "jour": 1
+        "jour": 1,
+        "text": "Fort Mason, SF, Californie",
+        "coord":[37.80548,-122.42875]
     }, {
         "id": 1,
         "src": "/20160503/JPEG/IMG_3944.jpg",
-        "jour": 1
+        "jour": 1,
+        "text": "Fort Mason, SF, Californie",
+        "coord":[37.80548,-122.42875]
     }, {
         "id": 2,
         "src": "/20160503/JPEG/IMG_3945.jpg",
-        "jour": 1
+        "jour": 1,
+        "text": "Fort Mason, SF, Californie",
+        "coord":[37.80548,-122.42875]
     }, {
         "id": 3,
         "src": "/20160503/JPEG/IMG_3946.jpg",
-        "jour": 1
+        "jour": 1,
+        "text": "Fort Mason, SF, Californie",
+        "coord":[37.80548,-122.42875]
     }, {
         "id": 4,
         "src": "/20160503/JPEG/IMG_3947.jpg",
-        "jour": 1
+        "jour": 1,
+        "text": "Fort Mason, SF, Californie",
+        "coord":[37.80548,-122.42875]
     }, {
         "id": 5,
         "src": "/20160503/JPEG/IMG_3948.jpg",
-        "jour": 1
+        "jour": 1,
+        "text": "Fort Mason, SF, Californie",
+        "coord":[37.80548,-122.42875]
     }, {
         "id": 6,
         "src": "/20160503/JPEG/IMG_3950.jpg",
-        "jour": 1
+        "jour": 1,
+        "text": "Fort Mason, SF, Californie",
+        "coord":[37.80548,-122.42875]
     }, {
         "id": 7,
         "src": "/20160503/JPEG/IMG_3951.jpg",
-        "jour": 1
+        "jour": 1,
+        "text": "Fort Mason, SF, Californie",
+        "coord":[37.80548,-122.42875]
     }, {
         "id": 8,
         "src": "/20160503/JPEG/IMG_3953.jpg",
-        "jour": 1
+        "jour": 1,
+        "text": "Fort Mason, SF, Californie",
+        "coord":[37.80548,-122.42875]
     }, {
         "id": 9,
         "src": "/20160503/JPEG/IMG_3955.jpg",
-        "jour": 1
+        "jour": 1,
+        "text": "Fort Mason, SF, Californie",
+        "coord":[37.80548,-122.42875]
     }, {
         "id": 10,
         "src": "/20160503/JPEG/IMG_3957.jpg",
-        "jour": 1
+        "jour": 1,
+        "text": "Fort Mason, SF, Californie",
+        "coord":[37.80548,-122.42875]
     }, {
         "id": 11,
         "src": "/20160503/JPEG/IMG_3958.jpg",
-        "jour": 1
+        "jour": 1,
+        "text": "Fort Mason, SF, Californie",
+        "coord":[37.80548,-122.42875]
     }, {
         "id": 12,
         "src": "/20160503/JPEG/IMG_3959.jpg",
-        "jour": 1
+        "jour": 1,
+        "text": "Fort Mason, SF, Californie",
+        "coord":[37.80548,-122.42875]
     }, {
         "id": 13,
         "src": "/20160503/JPEG/IMG_3960.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Conservatory of flowers, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 14,
         "src": "/20160503/JPEG/IMG_3961.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Conservatory of flowers, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 15,
         "src": "/20160503/JPEG/IMG_3962.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Conservatory of flowers, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 16,
         "src": "/20160503/JPEG/IMG_3963.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Conservatory of flowers, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 17,
         "src": "/20160503/JPEG/IMG_3964.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Conservatory of flowers, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 18,
         "src": "/20160503/JPEG/IMG_3965.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Conservatory of flowers, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 19,
         "src": "/20160503/JPEG/IMG_3966.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Conservatory of flowers, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 20,
         "src": "/20160503/JPEG/IMG_3967.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Conservatory of flowers, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 21,
         "src": "/20160503/JPEG/IMG_3968.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Conservatory of flowers, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 22,
         "src": "/20160503/JPEG/IMG_3969.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Conservatory of flowers, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 23,
         "src": "/20160503/JPEG/IMG_3970.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Conservatory of flowers, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 24,
         "src": "/20160503/JPEG/IMG_3972.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Conservatory of flowers, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 25,
         "src": "/20160503/JPEG/IMG_3973.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Conservatory of flowers, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 26,
         "src": "/20160503/JPEG/IMG_3974.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Conservatory of flowers, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 27,
         "src": "/20160503/JPEG/IMG_3973.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Conservatory of flowers, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 28,
         "src": "/20160503/JPEG/IMG_3978.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 29,
         "src": "/20160503/JPEG/IMG_3979.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 30,
         "src": "/20160503/JPEG/IMG_3981.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 31,
         "src": "/20160503/JPEG/IMG_3982.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 32,
         "src": "/20160503/JPEG/IMG_3985.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 33,
         "src": "/20160503/JPEG/IMG_3987.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 34,
         "src": "/20160503/JPEG/IMG_3990.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 35,
         "src": "/20160503/JPEG/IMG_3991.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 36,
         "src": "/20160503/JPEG/IMG_3992.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 37,
         "src": "/20160503/JPEG/IMG_3994.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 38,
         "src": "/20160503/JPEG/IMG_3995.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 39,
         "src": "/20160503/JPEG/IMG_3997.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 40,
         "src": "/20160503/JPEG/IMG_4000.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 41,
         "src": "/20160503/JPEG/IMG_4001.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 42,
         "src": "/20160503/JPEG/IMG_4002.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 43,
         "src": "/20160503/JPEG/IMG_4007.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 44,
         "src": "/20160503/JPEG/IMG_4010.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 45,
         "src": "/20160503/JPEG/IMG_4011.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 46,
         "src": "/20160503/JPEG/IMG_4012.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 47,
         "src": "/20160503/JPEG/IMG_4013.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 48,
         "src": "/20160503/JPEG/IMG_4016.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 49,
         "src": "/20160503/JPEG/IMG_4017.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 50,
         "src": "/20160503/JPEG/IMG_4018.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 51,
         "src": "/20160503/JPEG/IMG_4019.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 52,
         "src": "/20160503/JPEG/IMG_4021.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 53,
         "src": "/20160503/JPEG/IMG_4023.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 54,
         "src": "/20160503/JPEG/IMG_4028.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 55,
         "src": "/20160503/JPEG/IMG_4029.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 56,
         "src": "/20160503/JPEG/IMG_4030.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 57,
         "src": "/20160503/JPEG/IMG_4031.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 58,
         "src": "/20160503/JPEG/IMG_4032.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 59,
         "src": "/20160503/JPEG/IMG_4033.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 60,
         "src": "/20160503/JPEG/IMG_4034.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 61,
         "src": "/20160503/JPEG/IMG_4036.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 62,
         "src": "/20160503/JPEG/IMG_4040.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 63,
         "src": "/20160503/JPEG/IMG_4041.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 64,
         "src": "/20160503/JPEG/IMG_4043.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 65,
         "src": "/20160503/JPEG/IMG_4044.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 66,
         "src": "/20160503/JPEG/IMG_4045.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 67,
         "src": "/20160503/JPEG/IMG_4049.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 68,
         "src": "/20160503/JPEG/IMG_4050.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 69,
         "src": "/20160503/JPEG/IMG_4052.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 70,
         "src": "/20160503/JPEG/IMG_4053.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 71,
         "src": "/20160503/JPEG/IMG_4054.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 72,
         "src": "/20160503/JPEG/IMG_4055.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 73,
         "src": "/20160503/JPEG/IMG_4056.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 74,
         "src": "/20160503/JPEG/IMG_4058.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, Botanical garden, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 75,
         "src": "/20160503/JPEG/IMG_4060.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, De Young Museum, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 76,
         "src": "/20160503/JPEG/IMG_4061.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, De Young Museum, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 77,
         "src": "/20160503/JPEG/IMG_4063.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, De Young Museum, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 78,
         "src": "/20160503/JPEG/IMG_4064.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, De Young Museum, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 79,
         "src": "/20160503/JPEG/IMG_4065.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, De Young Museum, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 80,
         "src": "/20160503/JPEG/IMG_20160503_121936931.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, De Young Museum, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 81,
         "src": "/20160503/JPEG/IMG_20160503_122824720.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, De Young Museum, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 82,
         "src": "/20160503/JPEG/IMG_20160503_123755245_HDR.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, De Young Museum, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 83,
         "src": "/20160503/JPEG/IMG_20160503_130245366.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Golden Gate Park, De Young Museum, SF, Californie",
+        "coord":[37.7703,-122.4820]
     }, {
         "id": 84,
         "src": "/20160504/JPEG/IMG_4066.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Palace of the legion of honor, SF, Californie",
+        "coord":[37.78493,-122.50011]
     }, {
         "id": 85,
         "src": "/20160504/JPEG/IMG_4068.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Palace of the legion of honor, SF, Californie",
+        "coord":[37.78493,-122.50011]
     }, {
         "id": 86,
         "src": "/20160504/JPEG/IMG_4070.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Palace of the legion of honor, SF, Californie",
+        "coord":[37.78493,-122.50011]
     }, {
         "id": 87,
         "src": "/20160504/JPEG/IMG_4071.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Palace of the legion of honor, SF, Californie",
+        "coord":[37.78493,-122.50011]
     }, {
         "id": 88,
         "src": "/20160504/JPEG/IMG_4072.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Palace of the legion of honor, SF, Californie",
+        "coord":[37.78493,-122.50011]
     }, {
         "id": 89,
         "src": "/20160504/JPEG/IMG_4073.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Palace of the legion of honor, SF, Californie",
+        "coord":[37.78493,-122.50011]
     }, {
         "id": 90,
         "src": "/20160504/JPEG/IMG_4075.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Palace of the legion of honor, SF, Californie",
+        "coord":[37.78493,-122.50011]
     }, {
         "id": 91,
         "src": "/20160504/JPEG/IMG_4078.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Sutro baths, SF, Californie",
+        "coord":[37.78021,-122.51302]
     }, {
         "id": 92,
         "src": "/20160504/JPEG/IMG_4079.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Sutro baths, SF, Californie",
+        "coord":[37.78021,-122.51302]
     }, {
         "id": 93,
         "src": "/20160504/JPEG/IMG_4080.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Sutro baths, SF, Californie",
+        "coord":[37.78021,-122.51302]
     }, {
         "id": 94,
         "src": "/20160504/JPEG/IMG_4082.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Sutro baths, SF, Californie",
+        "coord":[37.78021,-122.51302]
     }, {
         "id": 95,
         "src": "/20160504/JPEG/IMG_4088.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Sutro baths, SF, Californie",
+        "coord":[37.78021,-122.51302]
     }, {
         "id": 97,
         "src": "/20160504/JPEG/IMG_4092.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Sutro baths, SF, Californie",
+        "coord":[37.78021,-122.51302]
     }, {
         "id": 98,
         "src": "/20160504/JPEG/IMG_4094.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Sutro baths, SF, Californie",
+        "coord":[37.78021,-122.51302]
     }, {
         "id": 99,
         "src": "/20160504/JPEG/IMG_4095.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Sutro baths, SF, Californie",
+        "coord":[37.78021,-122.51302]
     }, {
         "id": 100,
         "src": "/20160504/JPEG/IMG_4096.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Sutro baths, SF, Californie",
+        "coord":[37.78021,-122.51302]
     }, {
         "id": 101,
         "src": "/20160504/JPEG/IMG_4098.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Sutro baths, SF, Californie",
+        "coord":[37.78021,-122.51302]
     }, {
         "id": 102,
         "src": "/20160504/JPEG/IMG_4101.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Sutro baths, SF, Californie",
+        "coord":[37.78021,-122.51302]
     }, {
         "id": 103,
         "src": "/20160504/JPEG/point_lobos.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Sutro baths, SF, Californie",
+        "coord":[37.78021,-122.51302]
     }, {
         "id": 104,
         "src": "/20160504/JPEG/IMG_4102.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Sutro baths, SF, Californie",
+        "coord":[37.78021,-122.51302]
     }, {
         "id": 105,
         "src": "/20160504/JPEG/IMG_4103.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Sutro baths, SF, Californie",
+        "coord":[37.78021,-122.51302]
     }, {
         "id": 106,
         "src": "/20160504/JPEG/IMG_4104.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Sutro baths, SF, Californie",
+        "coord":[37.78021,-122.51302]
     }, {
         "id": 107,
         "src": "/20160504/JPEG/IMG_20160503_184704626.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Mission, SF, Californie",
+        "coord":[37.7554,-122.4190]
     }, {
         "id": 108,
         "src": "/20160504/JPEG/IMG_20160503_184708466.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Mission, SF, Californie",
+        "coord":[37.7554,-122.4190]
     }, {
         "id": 109,
         "src": "/20160504/JPEG/IMG_20160503_194226677.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Mission, SF, Californie",
+        "coord":[37.7554,-122.4190]
     }, {
         "id": 110,
         "src": "/20160504/JPEG/IMG_20160503_194306519.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Mission, SF, Californie",
+        "coord":[37.7554,-122.4190]
     }, {
         "id": 111,
         "src": "/20160504/JPEG/IMG_20160503_194343890.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Mission, SF, Californie",
+        "coord":[37.7554,-122.4190]
     }, {
         "id": 112,
         "src": "/20160504/JPEG/IMG_20160503_194445789_HDR.jpg",
-        "jour": 2
+        "jour": 2,
+        "text": "Mission, SF, Californie",
+        "coord":[37.7554,-122.4190]
     }, {
         "id": 113,
         "src": "/20160504/JPEG/IMG_20160504_071947238.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Lombard street, SF, Californie",
+        "coord":[37.80120,-122.42680]
     }, {
         "id": 114,
         "src": "/20160504/JPEG/IMG_4106.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Lombard street, SF, Californie",
+        "coord":[37.80120,-122.42680]
     }, {
         "id": 115,
         "src": "/20160504/JPEG/IMG_4110.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Lombard street, SF, Californie",
+        "coord":[37.80120,-122.42680]
     }, {
         "id": 116,
         "src": "/20160504/JPEG/lombard.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Lombard street, SF, Californie",
+        "coord":[37.80120,-122.42680]
     }, {
         "id": 117,
         "src": "/20160504/JPEG/IMG_4115.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Lombard street, SF, Californie",
+        "coord":[37.80120,-122.42680]
     }, {
         "id": 118,
         "src": "/20160504/JPEG/IMG_4118.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Lombard street, SF, Californie",
+        "coord":[37.80120,-122.42680]
     }, {
         "id": 119,
         "src": "/20160504/JPEG/IMG_4119.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Fishermen's wharf, SF, Californie",
+        "coord":[37.80851,-122.41647]
     }, {
         "id": 120,
         "src": "/20160504/JPEG/IMG_4120.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Fishermen's wharf, SF, Californie",
+        "coord":[37.80851,-122.41647]
     }, {
         "id": 121,
         "src": "/20160504/JPEG/IMG_4123.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Fishermen's wharf, SF, Californie",
+        "coord":[37.80851,-122.41647]
     }, {
         "id": 122,
         "src": "/20160504/JPEG/IMG_4124.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Fishermen's wharf, SF, Californie",
+        "coord":[37.80851,-122.41647]
     }, {
         "id": 123,
         "src": "/20160504/JPEG/IMG_4126.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Fishermen's wharf, SF, Californie",
+        "coord":[37.80851,-122.41647]
     }, {
         "id": 124,
         "src": "/20160504/JPEG/IMG_4128.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Fishermen's wharf, SF, Californie",
+        "coord":[37.80851,-122.41647]
     }, {
         "id": 125,
         "src": "/20160504/JPEG/sf_bay.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Fishermen's wharf, SF, Californie",
+        "coord":[37.80851,-122.41647]
     }, {
         "id": 126,
         "src": "/20160504/JPEG/IMG_4130.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Fishermen's wharf, SF, Californie",
+        "coord":[37.80851,-122.41647]
     }, {
         "id": 127,
         "src": "/20160504/JPEG/IMG_4132.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Fishermen's wharf, SF, Californie",
+        "coord":[37.80851,-122.41647]
     }, {
         "id": 128,
         "src": "/20160504/JPEG/IMG_4134.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Fishermen's wharf, SF, Californie",
+        "coord":[37.80851,-122.41647]
     }, {
         "id": 129,
         "src": "/20160504/JPEG/IMG_4135.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Fishermen's wharf, SF, Californie",
+        "coord":[37.80851,-122.41647]
     }, {
         "id": 130,
         "src": "/20160504/JPEG/IMG_4136.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Fishermen's wharf, SF, Californie",
+        "coord":[37.80851,-122.41647]
     }, {
         "id": 131,
         "src": "/20160504/JPEG/IMG_4138.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Fishermen's wharf, SF, Californie",
+        "coord":[37.80851,-122.41647]
     }, {
         "id": 132,
         "src": "/20160504/JPEG/IMG_4141.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Fishermen's wharf, SF, Californie",
+        "coord":[37.80851,-122.41647]
     }, {
         "id": 133,
         "src": "/20160504/JPEG/IMG_4157.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Lone sailor memorial, SF, Californie",
+        "coord":[37.83247,-122.47990]
     }, {
         "id": 134,
         "src": "/20160504/JPEG/sf_bay_2.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Lone sailor memorial, SF, Californie",
+        "coord":[37.83247,-122.47990]
     }, {
         "id": 135,
         "src": "/20160504/JPEG/IMG_4161.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Muir beach, Californie",
+        "coord":[37.86172,-122.58719]
     }, {
         "id": 136,
         "src": "/20160504/JPEG/IMG_4162.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Muir beach, Californie",
+        "coord":[37.86172,-122.58719]
     }, {
         "id": 137,
         "src": "/20160504/JPEG/IMG_4164.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Muir beach, Californie",
+        "coord":[37.86172,-122.58719]
     }, {
         "id": 138,
         "src": "/20160504/JPEG/IMG_4168.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Muir beach, Californie",
+        "coord":[37.86172,-122.58719]
     }, {
         "id": 139,
         "src": "/20160504/JPEG/IMG_4170.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Muir beach, Californie",
+        "coord":[37.86172,-122.58719]
     }, {
         "id": 140,
         "src": "/20160504/JPEG/IMG_4171.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Muir beach, Californie",
+        "coord":[37.86172,-122.58719]
     }, {
         "id": 141,
         "src": "/20160504/JPEG/IMG_4173.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Muir beach, Californie",
+        "coord":[37.86172,-122.58719]
     }, {
         "id": 142,
         "src": "/20160504/JPEG/IMG_4175.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Muir beach, Californie",
+        "coord":[37.86172,-122.58719]
     }, {
         "id": 143,
         "src": "/20160504/JPEG/IMG_4177.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Muir beach, Californie",
+        "coord":[37.86172,-122.58719]
     }, {
         "id": 144,
         "src": "/20160504/JPEG/IMG_4179.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Muir beach, Californie",
+        "coord":[37.86172,-122.58719]
     }, {
         "id": 145,
         "src": "/20160504/JPEG/IMG_4180.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Muir beach, Californie",
+        "coord":[37.86172,-122.58719]
     }, {
         "id": 146,
         "src": "/20160504/JPEG/IMG_4182.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Muir beach, Californie",
+        "coord":[37.86172,-122.58719]
     }, {
         "id": 147,
         "src": "/20160504/JPEG/IMG_4183.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Muir beach, Californie",
+        "coord":[37.86172,-122.58719]
     }, {
         "id": 148,
         "src": "/20160504/JPEG/IMG_4187.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Muir beach, Californie",
+        "coord":[37.86172,-122.58719]
     }, {
         "id": 149,
         "src": "/20160504/JPEG/IMG_4190.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Muir beach, Californie",
+        "coord":[37.86172,-122.58719]
     }, {
         "id": 150,
         "src": "/20160504/JPEG/IMG_4191.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Muir beach, Californie",
+        "coord":[37.86172,-122.58719]
     }, {
         "id": 151,
         "src": "/20160504/JPEG/IMG_4193.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Muir beach, Californie",
+        "coord":[37.86172,-122.58719]
     }, {
         "id": 152,
         "src": "/20160504/JPEG/IMG_4194.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Muir beach, Californie",
+        "coord":[37.86172,-122.58719]
     }, {
         "id": 153,
         "src": "/20160504/JPEG/IMG_4197.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Muir beach, Californie",
+        "coord":[37.86172,-122.58719]
     }, {
         "id": 154,
         "src": "/20160504/JPEG/IMG_4199.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Stinson beach, Californie",
+        "coord":[37.89657,-122.63888]
     }, {
         "id": 155,
         "src": "/20160504/JPEG/IMG_4200.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Stinson beach, Californie",
+        "coord":[37.89657,-122.63888]
     }, {
         "id": 156,
         "src": "/20160504/JPEG/IMG_4201.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Stinson beach, Californie",
+        "coord":[37.89657,-122.63888]
     }, {
         "id": 157,
         "src": "/20160504/JPEG/IMG_4203.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Stinson beach, Californie",
+        "coord":[37.89657,-122.63888]
     }, {
         "id": 158,
         "src": "/20160504/JPEG/IMG_4204.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Stinson beach, Californie",
+        "coord":[37.89657,-122.63888]
     }, {
         "id": 159,
         "src": "/20160504/JPEG/IMG_4205.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Stinson beach, Californie",
+        "coord":[37.89657,-122.63888]
     }, {
         "id": 160,
         "src": "/20160504/JPEG/IMG_4207.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Stinson beach, Californie",
+        "coord":[37.89657,-122.63888]
     }, {
         "id": 161,
         "src": "/20160504/JPEG/IMG_4208.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Stinson beach, Californie",
+        "coord":[37.89657,-122.63888]
     }, {
         "id": 162,
         "src": "/20160504/JPEG/IMG_4210.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Stinson beach, Californie",
+        "coord":[37.89657,-122.63888]
     }, {
         "id": 163,
         "src": "/20160504/JPEG/IMG_4216.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Stinson beach, Californie",
+        "coord":[37.89657,-122.63888]
     }, {
         "id": 164,
         "src": "/20160505/JPEG/IMG_4217.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Bodega bay, Californie",
+        "coord":[38.3129,-123.0438]
     }, {
         "id": 165,
         "src": "/20160505/JPEG/IMG_4218.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Bodega bay, Californie",
+        "coord":[38.3129,-123.0438]
     }, {
         "id": 166,
         "src": "/20160505/JPEG/IMG_4219.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Bodega bay, Californie",
+        "coord":[38.3129,-123.0438]
     }, {
         "id": 167,
         "src": "/20160505/JPEG/IMG_4220.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Bodega bay, Californie",
+        "coord":[38.3129,-123.0438]
     }, {
         "id": 168,
         "src": "/20160505/JPEG/IMG_4221.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Bodega bay, Californie",
+        "coord":[38.3129,-123.0438]
     }, {
         "id": 169,
         "src": "/20160505/JPEG/IMG_4222.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Bodega bay, Californie",
+        "coord":[38.3129,-123.0438]
     }, {
         "id": 170,
         "src": "/20160505/JPEG/IMG_4223.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Bodega bay, Californie",
+        "coord":[38.3129,-123.0438]
     }, {
         "id": 171,
         "src": "/20160505/JPEG/IMG_4224.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Bodega bay, Californie",
+        "coord":[38.3129,-123.0438]
     }, {
         "id": 172,
         "src": "/20160505/JPEG/IMG_4226.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Bodega bay, Californie",
+        "coord":[38.3129,-123.0438]
     }, {
         "id": 173,
         "src": "/20160505/JPEG/IMG_4227.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Bodega bay, Californie",
+        "coord":[38.3129,-123.0438]
     }, {
         "id": 174,
         "src": "/20160505/JPEG/IMG_4228.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Bodega bay, Californie",
+        "coord":[38.3129,-123.0438]
     }, {
         "id": 175,
         "src": "/20160505/JPEG/IMG_4229.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Bodega bay, Californie",
+        "coord":[38.3129,-123.0438]
     }, {
         "id": 176,
         "src": "/20160505/JPEG/IMG_4231.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Bodega bay, Californie",
+        "coord":[38.3129,-123.0438]
     }, {
         "id": 177,
         "src": "/20160505/JPEG/IMG_4232.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Bodega bay, Californie",
+        "coord":[38.3129,-123.0438]
     }, {
         "id": 178,
         "src": "/20160505/JPEG/IMG_4234.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Bodega bay, Californie",
+        "coord":[38.3129,-123.0438]
     }, {
         "id": 179,
         "src": "/20160505/JPEG/IMG_4236.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Bodega bay, Californie",
+        "coord":[38.3129,-123.0438]
     }, {
         "id": 180,
         "src": "/20160505/JPEG/IMG_4237.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Bodega bay, Californie",
+        "coord":[38.3129,-123.0438]
     }, {
         "id": 181,
         "src": "/20160505/JPEG/IMG_4238.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Bodega bay, Californie",
+        "coord":[38.3129,-123.0438]
     }, {
         "id": 182,
         "src": "/20160505/JPEG/IMG_4239.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Sugarloaf state park, Californie",
+        "coord":[38.43615,-122.51240]
     }, {
         "id": 183,
         "src": "/20160505/JPEG/IMG_4240.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Sugarloaf state park, Californie",
+        "coord":[38.43615,-122.51240]
     }, {
         "id": 184,
         "src": "/20160505/JPEG/IMG_4246.jpg",
-        "jour": 3
+        "jour": 3,
+        "text": "Sugarloaf state park, Californie",
+        "coord":[38.43615,-122.51240]
     }, {
         "id": 185,
         "src": "/20160505/JPEG/IMG_4251.jpg",
-        "jour": 4
+        "jour": 4,
+        "text": "Sugarloaf state park, Californie",
+        "coord":[38.43615,-122.51240]
     }, {
         "id": 186,
         "src": "/20160505/JPEG/IMG_4252.jpg",
-        "jour": 4
+        "jour": 4,
+        "text": "Sonoma valley to Lake Tahoe, Californie",
+        "coord":[38.4919,-122.2589]
     }, {
         "id": 187,
         "src": "/20160505/JPEG/IMG_4254.jpg",
-        "jour": 4
+        "jour": 4,
+        "text": "Sonoma valley to Lake Tahoe, Californie",
+        "coord":[38.4919,-122.2589]
     }, {
         "id": 188,
         "src": "/20160505/JPEG/IMG_4256.jpg",
-        "jour": 4
+        "jour": 4,
+        "text": "Sonoma valley to Lake Tahoe, Californie",
+        "coord":[38.4919,-122.2589]
     }, {
         "id": 189,
         "src": "/20160505/JPEG/IMG_4257.jpg",
-        "jour": 4
+        "jour": 4,
+        "text": "Sonoma valley to Lake Tahoe, Californie",
+        "coord":[38.4919,-122.2589]
     }, {
         "id": 190,
         "src": "/20160505/JPEG/IMG_4258.jpg",
-        "jour": 4
+        "jour": 4,
+        "text": "Sonoma valley to Lake Tahoe, Californie",
+        "coord":[38.4919,-122.2589]
     }, {
         "id": 191,
         "src": "/20160505/JPEG/IMG_4260.jpg",
-        "jour": 4
+        "jour": 4,
+        "text": "Sonoma valley to Lake Tahoe, Californie",
+        "coord":[38.4919,-122.2589]
     }, {
         "id": 192,
         "src": "/20160505/JPEG/IMG_4261.jpg",
-        "jour": 4
+        "jour": 4,
+        "text": "Sonoma valley to Lake Tahoe, Californie",
+        "coord":[38.4919,-122.2589]
     }, {
         "id": 193,
         "src": "/20160505/JPEG/IMG_4262.jpg",
-        "jour": 4
+        "jour": 4,
+        "text": "Sonoma valley to Lake Tahoe, Californie",
+        "coord":[38.4919,-122.2589]
     }, {
         "id": 194,
         "src": "/20160505/JPEG/IMG_4263.jpg",
-        "jour": 4
+        "jour": 4,
+        "text": "Sonoma valley to Lake Tahoe, Californie",
+        "coord":[38.4919,-122.2589]
     }, {
         "id": 195,
         "src": "/20160506/JPEG/IMG_4264.jpg",
-        "jour": 4
+        "jour": 4,
+        "text": "Lake Tahoe, Californie",
+        "coord":[38.8628,-119.9968]
     }, {
         "id": 197,
         "src": "/20160506/JPEG/IMG_4267.jpg",
-        "jour": 4
+        "jour": 4,
+        "text": "Lake Tahoe, Californie",
+        "coord":[38.8628,-119.9968]
     }, {
         "id": 198,
         "src": "/20160506/JPEG/IMG_4269.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Lake Tahoe, Californie",
+        "coord":[38.8628,-119.9968]
     }, {
         "id": 199,
         "src": "/20160506/JPEG/IMG_4271.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Lake Tahoe, Californie",
+        "coord":[38.8628,-119.9968]
     }, {
         "id": 200,
         "src": "/20160506/JPEG/IMG_4275.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Lake Tahoe, Californie",
+        "coord":[38.8628,-119.9968]
     }, {
         "id": 201,
         "src": "/20160506/JPEG/IMG_4277.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Lake Tahoe, Californie",
+        "coord":[38.8628,-119.9968]
     }, {
         "id": 202,
         "src": "/20160506/JPEG/IMG_4278.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Lake Tahoe, Californie",
+        "coord":[38.8628,-119.9968]
     }, {
         "id": 203,
         "src": "/20160506/JPEG/IMG_4279.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Lake Tahoe, Californie",
+        "coord":[38.8628,-119.9968]
     }, {
         "id": 204,
         "src": "/20160506/JPEG/IMG_4281.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Lake Tahoe, Californie",
+        "coord":[38.8628,-119.9968]
     }, {
         "id": 205,
         "src": "/20160506/JPEG/IMG_4282.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Lake Tahoe, Californie",
+        "coord":[38.8628,-119.9968]
     }, {
         "id": 206,
         "src": "/20160506/JPEG/IMG_4283.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Lake Tahoe, Californie",
+        "coord":[38.8628,-119.9968]
     }, {
         "id": 207,
         "src": "/20160506/JPEG/IMG_4285.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Lake Tahoe, Californie",
+        "coord":[38.8628,-119.9968]
     }, {
         "id": 208,
         "src": "/20160506/JPEG/IMG_4287.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Lake Tahoe, Californie",
+        "coord":[38.8628,-119.9968]
     }, {
         "id": 209,
         "src": "/20160506/JPEG/IMG_4288.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Lake Tahoe, Californie",
+        "coord":[38.8628,-119.9968]
     }, {
         "id": 210,
         "src": "/20160506/JPEG/IMG_4290.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Topaz lake, Californie",
+        "coord":[38.6745,-119.5228]
     }, {
         "id": 211,
         "src": "/20160506/JPEG/IMG_4291.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Topaz lake, Californie",
+        "coord":[38.6745,-119.5228]
     }, {
         "id": 212,
         "src": "/20160506/JPEG/mesa_nevada.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Californie",
+        "coord":[38.4301,-119.4379]
     }, {
         "id": 213,
         "src": "/20160506/JPEG/IMG_4297.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 214,
         "src": "/20160506/JPEG/IMG_4299.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 215,
         "src": "/20160506/JPEG/IMG_4300.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 216,
         "src": "/20160506/JPEG/IMG_4301.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 217,
         "src": "/20160506/JPEG/IMG_4302.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 218,
         "src": "/20160506/JPEG/IMG_4303.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 219,
         "src": "/20160506/JPEG/IMG_4304.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 220,
         "src": "/20160506/JPEG/IMG_4305.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 221,
         "src": "/20160506/JPEG/IMG_4306.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 222,
         "src": "/20160506/JPEG/IMG_4307.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 223,
         "src": "/20160506/JPEG/IMG_4308.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 224,
         "src": "/20160506/JPEG/IMG_4310.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 225,
         "src": "/20160506/JPEG/IMG_4311.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 226,
         "src": "/20160506/JPEG/IMG_4312.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 227,
         "src": "/20160506/JPEG/IMG_4313.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 228,
         "src": "/20160506/JPEG/IMG_4314.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 229,
         "src": "/20160506/JPEG/IMG_4315.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 230,
         "src": "/20160506/JPEG/IMG_4317.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 231,
         "src": "/20160506/JPEG/IMG_4319.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 232,
         "src": "/20160506/JPEG/IMG_4320.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 233,
         "src": "/20160506/JPEG/IMG_4322.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 234,
         "src": "/20160506/JPEG/IMG_4323.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 235,
         "src": "/20160506/JPEG/IMG_4324.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 236,
         "src": "/20160506/JPEG/IMG_4325.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 237,
         "src": "/20160506/JPEG/IMG_4326.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 238,
         "src": "/20160506/JPEG/IMG_4328.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 239,
         "src": "/20160506/JPEG/IMG_4329.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 240,
         "src": "/20160506/JPEG/IMG_4330.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 241,
         "src": "/20160506/JPEG/IMG_4331.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 242,
         "src": "/20160506/JPEG/IMG_4332.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 243,
         "src": "/20160506/JPEG/IMG_4334.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 244,
         "src": "/20160506/JPEG/IMG_4335.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 245,
         "src": "/20160506/JPEG/IMG_4337.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 246,
         "src": "/20160506/JPEG/IMG_4338.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 247,
         "src": "/20160506/JPEG/IMG_4339.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 248,
         "src": "/20160506/JPEG/IMG_4342.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 249,
         "src": "/20160506/JPEG/IMG_4343.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 250,
         "src": "/20160506/JPEG/IMG_4344.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 251,
         "src": "/20160506/JPEG/IMG_4346.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 252,
         "src": "/20160506/JPEG/IMG_4347.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 253,
         "src": "/20160506/JPEG/IMG_4348.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 254,
         "src": "/20160506/JPEG/IMG_4349.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 255,
         "src": "/20160506/JPEG/IMG_4350.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 256,
         "src": "/20160506/JPEG/IMG_4351.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 257,
         "src": "/20160506/JPEG/IMG_4352.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 258,
         "src": "/20160506/JPEG/IMG_4353.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 259,
         "src": "/20160506/JPEG/IMG_4354.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Bodie, Californie",
+        "coord":[38.2118,-119.0128]
     }, {
         "id": 260,
         "src": "/20160507/JPEG/IMG_4355.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Mono lake, Californie",
+        "coord":[37.9776,-119.0379]
     }, {
         "id": 261,
         "src": "/20160507/JPEG/IMG_4356.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Mono lake, Californie",
+        "coord":[37.9776,-119.0379]
     }, {
         "id": 262,
         "src": "/20160507/JPEG/mono_lake.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Mono lake, Californie",
+        "coord":[37.9776,-119.0379]
     }, {
         "id": 263,
         "src": "/20160507/JPEG/IMG_4365.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Mono lake, Californie",
+        "coord":[37.9776,-119.0379]
     }, {
         "id": 264,
         "src": "/20160507/JPEG/IMG_4367.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Mono lake, Californie",
+        "coord":[37.9776,-119.0379]
     }, {
         "id": 265,
         "src": "/20160507/JPEG/IMG_4368.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Mono lake, Californie",
+        "coord":[37.9776,-119.0379]
     }, {
         "id": 266,
         "src": "/20160507/JPEG/mono_lake2.jpg",
-        "jour": 5
+        "jour": 5,
+        "text": "Mono lake, Californie",
+        "coord":[37.9776,-119.0379]
     }, {
         "id": 267,
         "src": "/20160507/JPEG/IMG_4372.jpg",
