@@ -2,7 +2,8 @@
 A  reimplementation of warnp/visionneuse in rust.
 
 ## Description
-A simple web site written in rust with iron, maud and serde. Actually only working with the nightly build.
+A simple web photo gallery written in rust with iron, maud and serde. Actually only working with the nightly build due to maud. It produce a docker image wich is runnable directly on the server. For the moment it's only for demonstration purpose and it's not mean't to become a framework or whatever.
+Also it doesn't support any kind of database for the moment.
 
 ## Usage
-Juste launch the binary, and go to `localhost:3000`. You can modify the static image database in `content/text.json`.
+Just modifiy the dockerfile at your conveniance, pull the image from docker hub or wherever it's hosted, and go to `localhost:3000`. You can modify the static image database in `content/text.json`.
