@@ -7,7 +7,8 @@ RUN apt-get update \
 ENV PATH "/root/.cargo/bin:$PATH"
 
 RUN mkdir -p /rust/app
-ADD . /rust/app
+ADD content /rust/app/content
+ADD target/release/vision /rust/app/target/release/vision
 WORKDIR /rust/app
 RUN mkdir -p content/images
 
