@@ -2198,735 +2198,1101 @@
     }, {
         "id": 369,
         "src": "/20160509/JPEG/IMG_4488.jpg",
-        "jour": 8
+        "jour": 8,
+        "text": "Hoover dam, Nevada",
+        "coord":[36.0147,-114.7363]
     }, {
         "id": 370,
         "src": "/20160509/JPEG/IMG_4489.jpg",
-        "jour": 8
+        "jour": 8,
+        "text": "Hoover dam, Nevada",
+        "coord":[36.0147,-114.7363]
     }, {
         "id": 371,
         "src": "/20160509/JPEG/IMG_4491.jpg",
-        "jour": 8
+        "jour": 8,
+        "text": "Hoover dam, Nevada",
+        "coord":[36.0147,-114.7363]
     }, {
         "id": 372,
         "src": "/20160510/JPEG/IMG_4492.jpg",
-        "jour": 8
+        "jour": 8,
+        "text": "Grand Canyon, Arizona",
+        "coord":[36.0168,-111.9514]
     }, {
         "id": 373,
         "src": "/20160510/JPEG/IMG_4494.jpg",
-        "jour": 8
+        "jour": 8,
+        "text": "Grand Canyon, Arizona",
+        "coord":[36.0168,-111.9514]
     }, {
         "id": 374,
         "src": "/20160510/JPEG/IMG_4495.jpg",
-        "jour": 8
+        "jour": 8,
+        "text": "Grand Canyon, Arizona",
+        "coord":[36.0168,-111.9514]
     }, {
         "id": 375,
         "src": "/20160510/JPEG/IMG_4496.jpg",
-        "jour": 8
+        "jour": 8,
+        "text": "Grand Canyon, Arizona",
+        "coord":[36.0168,-111.9514]
     }, {
         "id": 376,
         "src": "/20160510/JPEG/IMG_4497.jpg",
-        "jour": 8
+        "jour": 8,
+        "text": "Grand Canyon, Arizona",
+        "coord":[36.0168,-111.9514]
     }, {
         "id": 377,
         "src": "/20160510/JPEG/IMG_4498.jpg",
-        "jour": 8
+        "jour": 8,
+        "text": "Grand Canyon, Arizona",
+        "coord":[36.0168,-111.9514]
     }, {
         "id": 378,
         "src": "/20160510/JPEG/IMG_4499.jpg",
-        "jour": 8
+        "jour": 8,
+        "text": "Grand Canyon, Arizona",
+        "coord":[36.0168,-111.9514]
     }, {
         "id": 379,
         "src": "/20160510/JPEG/IMG_4500.jpg",
-        "jour": 8
+        "jour": 8,
+        "text": "Grand Canyon, Arizona",
+        "coord":[36.0168,-111.9514]
     }, {
         "id": 380,
         "src": "/20160510/JPEG/IMG_4501.jpg",
-        "jour": 8
+        "jour": 8,
+        "text": "Grand Canyon, Arizona",
+        "coord":[36.0168,-111.9514]
     }, {
         "id": 381,
         "src": "/20160510/JPEG/IMG_4502.jpg",
-        "jour": 8
+        "jour": 8,
+        "text": "Grand Canyon, Arizona",
+        "coord":[36.0168,-111.9514]
     }, {
         "id": 382,
         "src": "/20160510/JPEG/IMG_4505.jpg",
-        "jour": 8
+        "jour": 8,
+        "text": "Grand Canyon, Arizona",
+        "coord":[36.0168,-111.9514]
     }, {
         "id": 383,
         "src": "/20160510/JPEG/IMG_4507.jpg",
-        "jour": 8
+        "jour": 8,
+        "text": "Grand Canyon, Arizona",
+        "coord":[36.0168,-111.9514]
     }, {
         "id": 384,
         "src": "/20160510/JPEG/IMG_4509.jpg",
-        "jour": 8
+        "jour": 8,
+        "text": "Grand Canyon, Arizona",
+        "coord":[36.0168,-111.9514]
     }, {
         "id": 385,
         "src": "/20160510/JPEG/IMG_4510.jpg",
-        "jour": 8
+        "jour": 8,
+        "text": "Grand Canyon, Arizona",
+        "coord":[36.0168,-111.9514]
     }, {
         "id": 386,
         "src": "/20160510/JPEG/IMG_4511.jpg",
-        "jour": 8
+        "jour": 8,
+        "text": "Grand Canyon, Arizona",
+        "coord":[36.0168,-111.9514]
     }, {
         "id": 387,
         "src": "/20160510/JPEG/IMG_4512.jpg",
-        "jour": 8
+        "jour": 8,
+        "text": "Grand Canyon, Arizona",
+        "coord":[36.0168,-111.9514]
     }, {
         "id": 388,
         "src": "/20160510/JPEG/IMG_4514.jpg",
-        "jour": 8
+        "jour": 8,
+        "text": "Grand Canyon, Arizona",
+        "coord":[36.0168,-111.9514]
     }, {
         "id": 389,
         "src": "/20160510/JPEG/IMG_4515.jpg",
-        "jour": 8
+        "jour": 8,
+        "text": "Grand Canyon, Arizona",
+        "coord":[36.0168,-111.9514]
     }, {
         "id": 390,
         "src": "/20160510/JPEG/IMG_4517.jpg",
-        "jour": 8
+        "jour": 8,
+        "text": "Grand Canyon, Arizona",
+        "coord":[36.0168,-111.9514]
     }, {
         "id": 391,
         "src": "/20160510/JPEG/IMG_4518.jpg",
-        "jour": 8
+        "jour": 8,
+        "text": "Grand Canyon, Arizona",
+        "coord":[36.0168,-111.9514]
     }, {
         "id": 392,
         "src": "/20160510/JPEG/IMG_4520.jpg",
-        "jour": 8
+        "jour": 8,
+        "text": "Grand Canyon, Arizona",
+        "coord":[36.0168,-111.9514]
     }, {
         "id": 393,
         "src": "/20160510/JPEG/IMG_4521.jpg",
-        "jour": 8
+        "jour": 8,
+        "text": "Grand Canyon, Arizona",
+        "coord":[36.0168,-111.9514]
     }, {
         "id": 394,
         "src": "/20160510/JPEG/IMG_4523.jpg",
-        "jour": 8
+        "jour": 8,
+        "text": "Grand Canyon, Arizona",
+        "coord":[36.0168,-111.9514]
     }, {
         "id": 395,
         "src": "/20160510/JPEG/IMG_4524.jpg",
-        "jour": 8
+        "jour": 8,
+        "text": "Grand Canyon, Arizona",
+        "coord":[36.0168,-111.9514]
     }, {
         "id": 397,
         "src": "/20160510/JPEG/IMG_4525.jpg",
-        "jour": 8
+        "jour": 8,
+        "text": "Grand Canyon, Arizona",
+        "coord":[36.0168,-111.9514]
     }, {
         "id": 398,
         "src": "/20160510/JPEG/IMG_4532.jpg",
-        "jour": 9
+        "jour": 9,
+        "text": "Grand Canyon, Arizona",
+        "coord":[36.0168,-111.9514]
     }, {
         "id": 399,
         "src": "/20160510/JPEG/IMG_4533.jpg",
-        "jour": 9
+        "jour": 9,
+        "text": "Grand Canyon, Arizona",
+        "coord":[36.0168,-111.9514]
     }, {
         "id": 400,
         "src": "/20160510/JPEG/IMG_4534.jpg",
-        "jour": 9
+        "jour": 9,
+        "text": "Grand Canyon, Arizona",
+        "coord":[36.0168,-111.9514]
     }, {
         "id": 401,
         "src": "/20160510/JPEG/IMG_4535.jpg",
-        "jour": 9
+        "jour": 9,
+        "text": "Grand Canyon, Arizona",
+        "coord":[36.0168,-111.9514]
     }, {
         "id": 402,
         "src": "/20160510/JPEG/IMG_4536.jpg",
-        "jour": 9
+        "jour": 9,
+        "text": "Grand Canyon, Arizona",
+        "coord":[36.0168,-111.9514]
     }, {
         "id": 403,
         "src": "/20160510/JPEG/IMG_4537.jpg",
-        "jour": 9
+        "jour": 9,
+        "text": "Grand Canyon, Arizona",
+        "coord":[36.0168,-111.9514]
     }, {
         "id": 404,
         "src": "/20160510/JPEG/IMG_4538.jpg",
-        "jour": 9
+        "jour": 9,
+        "text": "Grand Canyon, Arizona",
+        "coord":[36.0168,-111.9514]
     }, {
         "id": 405,
         "src": "/20160510/JPEG/IMG_4539.jpg",
-        "jour": 9
+        "jour": 9,
+        "text": "Grand Canyon, Arizona",
+        "coord":[36.0168,-111.9514]
     }, {
         "id": 406,
         "src": "/20160510/JPEG/IMG_4540.jpg",
-        "jour": 9
+        "jour": 9,
+        "text": "Grand Canyon, Arizona",
+        "coord":[36.0168,-111.9514]
     }, {
         "id": 407,
         "src": "/20160510/JPEG/IMG_4541.jpg",
-        "jour": 9
+        "jour": 9,
+        "text": "Grand Canyon, Arizona",
+        "coord":[36.0168,-111.9514]
     }, {
         "id": 408,
         "src": "/20160510/JPEG/IMG_4542.jpg",
-        "jour": 9
+        "jour": 9,
+        "text": "Grand Canyon, Arizona",
+        "coord":[36.0168,-111.9514]
     }, {
         "id": 409,
         "src": "/20160510/JPEG/IMG_4543.jpg",
-        "jour": 9
+        "jour": 9,
+        "text": "Grand Canyon, Arizona",
+        "coord":[36.0168,-111.9514]
     }, {
         "id": 410,
         "src": "/20160510/JPEG/IMG_4544.jpg",
-        "jour": 9
+        "jour": 9,
+        "text": "Bullhead City, Arizona",
+        "coord":[35.2167,-114.5580]
     }, {
         "id": 411,
         "src": "/20160510/JPEG/IMG_4545.jpg",
-        "jour": 9
+        "jour": 9,
+        "text": "Bullhead City, Arizona",
+        "coord":[35.2167,-114.5580]
     }, {
         "id": 412,
         "src": "/20160510/JPEG/IMG_4546.jpg",
-        "jour": 9
+        "jour": 9,
+        "text": "Bullhead City, Arizona",
+        "coord":[35.2167,-114.5580]
     }, {
         "id": 413,
         "src": "/20160510/JPEG/IMG_4547.jpg",
-        "jour": 9
+        "jour": 9,
+        "text": "Bullhead City, Arizona",
+        "coord":[35.2167,-114.5580]
     }, {
         "id": 414,
         "src": "/20160510/JPEG/IMG_4548.jpg",
-        "jour": 9
+        "jour": 9,
+        "text": "Bullhead City, Arizona",
+        "coord":[35.2167,-114.5580]
     }, {
         "id": 415,
         "src": "/20160510/JPEG/IMG_20160510_153245762.jpg",
-        "jour": 9
+        "jour": 9,
+        "text": "Bullhead City, Arizona",
+        "coord":[35.2167,-114.5580]
     }, {
         "id": 416,
         "src": "/20160511/JPEG/IMG_4549.jpg",
-        "jour": 9
+        "jour": 9,
+        "text": "Bullhead City, Arizona",
+        "coord":[35.2167,-114.5580]
     }, {
         "id": 417,
         "src": "/20160511/JPEG/IMG_4550.jpg",
-        "jour": 9
+        "jour": 9,
+        "text": "Bullhead City, Arizona",
+        "coord":[35.2167,-114.5580]
     }, {
         "id": 418,
         "src": "/20160511/JPEG/IMG_4551.jpg",
-        "jour": 9
+        "jour": 9,
+        "text": "Bullhead City, Arizona",
+        "coord":[35.2167,-114.5580]
     }, {
         "id": 419,
         "src": "/20160511/JPEG/IMG_4552.jpg",
-        "jour": 9
+        "jour": 9,
+        "text": "Bullhead City, Arizona",
+        "coord":[35.2167,-114.5580]
     }, {
         "id": 420,
         "src": "/20160511/JPEG/IMG_4553.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Bullhead City to Joshua Tree, California",
+        "coord":[34.6845,-115.3506]
     }, {
         "id": 421,
         "src": "/20160511/JPEG/IMG_4554.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Bullhead City to Joshua Tree, California",
+        "coord":[34.6845,-115.3506]
     }, {
         "id": 422,
         "src": "/20160511/JPEG/IMG_4555.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 423,
         "src": "/20160511/JPEG/IMG_4556.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 424,
         "src": "/20160511/JPEG/IMG_4557.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 425,
         "src": "/20160511/JPEG/IMG_4558.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 426,
         "src": "/20160511/JPEG/IMG_4559.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 427,
         "src": "/20160512/JPEG/IMG_4560.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 428,
         "src": "/20160512/JPEG/IMG_4561.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 429,
         "src": "/20160512/JPEG/IMG_4562.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 430,
         "src": "/20160512/JPEG/IMG_4563.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 431,
         "src": "/20160512/JPEG/IMG_4564.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 432,
         "src": "/20160512/JPEG/IMG_4565.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 433,
         "src": "/20160512/JPEG/IMG_4566.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 434,
         "src": "/20160512/JPEG/IMG_4567.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 435,
         "src": "/20160512/JPEG/IMG_4568.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 436,
         "src": "/20160512/JPEG/IMG_4569.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 437,
         "src": "/20160512/JPEG/IMG_4570.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 438,
         "src": "/20160512/JPEG/IMG_4571.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 439,
         "src": "/20160512/JPEG/IMG_4572.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 440,
         "src": "/20160512/JPEG/IMG_4573.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 441,
         "src": "/20160512/JPEG/IMG_4574.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 442,
         "src": "/20160512/JPEG/IMG_4575.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 443,
         "src": "/20160512/JPEG/IMG_4576.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 444,
         "src": "/20160512/JPEG/IMG_4577.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 445,
         "src": "/20160512/JPEG/IMG_4578.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 446,
         "src": "/20160512/JPEG/IMG_4579.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 447,
         "src": "/20160512/JPEG/IMG_4580.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 448,
         "src": "/20160512/JPEG/IMG_4581.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 449,
         "src": "/20160512/JPEG/IMG_4582.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 450,
         "src": "/20160512/JPEG/IMG_4583.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 451,
         "src": "/20160512/JPEG/IMG_4584.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 452,
         "src": "/20160512/JPEG/IMG_4585.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 453,
         "src": "/20160512/JPEG/IMG_4586.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 454,
         "src": "/20160512/JPEG/IMG_4587.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 455,
         "src": "/20160512/JPEG/IMG_4588.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 456,
         "src": "/20160512/JPEG/IMG_4589.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 457,
         "src": "/20160512/JPEG/IMG_4590.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 458,
         "src": "/20160512/JPEG/IMG_4591.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 459,
         "src": "/20160512/JPEG/IMG_4592.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 460,
         "src": "/20160512/JPEG/IMG_4593.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 461,
         "src": "/20160512/JPEG/IMG_4594.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 462,
         "src": "/20160512/JPEG/IMG_4595.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 463,
         "src": "/20160512/JPEG/IMG_4596.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 464,
         "src": "/20160512/JPEG/IMG_4597.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 465,
         "src": "/20160512/JPEG/IMG_4598.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 466,
         "src": "/20160512/JPEG/IMG_4599.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 467,
         "src": "/20160512/JPEG/IMG_4600.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 468,
         "src": "/20160512/JPEG/IMG_4601.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 469,
         "src": "/20160512/JPEG/IMG_4602.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 470,
         "src": "/20160512/JPEG/IMG_4603.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 471,
         "src": "/20160512/JPEG/IMG_4604.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 472,
         "src": "/20160512/JPEG/IMG_4605.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 473,
         "src": "/20160512/JPEG/IMG_4606.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 474,
         "src": "/20160512/JPEG/IMG_4607.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 475,
         "src": "/20160512/JPEG/IMG_4608.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 476,
         "src": "/20160512/JPEG/IMG_4609.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 477,
         "src": "/20160512/JPEG/IMG_4610.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 478,
         "src": "/20160512/JPEG/IMG_4611.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 479,
         "src": "/20160512/JPEG/IMG_4612.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 480,
         "src": "/20160512/JPEG/IMG_4613.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 481,
         "src": "/20160512/JPEG/IMG_4616.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 482,
         "src": "/20160512/JPEG/IMG_4617.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 483,
         "src": "/20160512/JPEG/IMG_4618.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 484,
         "src": "/20160512/JPEG/IMG_4619.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 485,
         "src": "/20160512/JPEG/IMG_4620.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 486,
         "src": "/20160512/JPEG/IMG_4622.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 487,
         "src": "/20160512/JPEG/IMG_4623.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 488,
         "src": "/20160512/JPEG/IMG_4624.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 489,
         "src": "/20160512/JPEG/IMG_4625.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 490,
         "src": "/20160512/JPEG/IMG_4626.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Barker dam, Joshua Tree, California",
+        "coord":[34.0281,-116.1439]
     }, {
         "id": 491,
         "src": "/20160512/JPEG/IMG_4627.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Ryan ranch, Joshua Tree, California",
+        "coord":[33.9843,-116.1514]
     }, {
         "id": 492,
         "src": "/20160512/JPEG/IMG_4628.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Ryan ranch, Joshua Tree, California",
+        "coord":[33.9843,-116.1514]
     }, {
         "id": 493,
         "src": "/20160512/JPEG/IMG_4629.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Ryan ranch, Joshua Tree, California",
+        "coord":[33.9843,-116.1514]
     }, {
         "id": 494,
         "src": "/20160512/JPEG/IMG_4632.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Ryan ranch, Joshua Tree, California",
+        "coord":[33.9843,-116.1514]
     }, {
         "id": 495,
         "src": "/20160512/JPEG/IMG_4633.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Ryan ranch, Joshua Tree, California",
+        "coord":[33.9843,-116.1514]
     }, {
         "id": 497,
         "src": "/20160512/JPEG/IMG_4634.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Ryan ranch, Joshua Tree, California",
+        "coord":[33.9843,-116.1514]
     }, {
         "id": 498,
         "src": "/20160512/JPEG/IMG_4635.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Ryan ranch, Joshua Tree, California",
+        "coord":[33.9843,-116.1514]
     }, {
         "id": 499,
         "src": "/20160512/JPEG/IMG_4636.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Ryan ranch, Joshua Tree, California",
+        "coord":[33.9843,-116.1514]
     }, {
         "id": 500,
         "src": "/20160512/JPEG/IMG_4638.jpg",
-        "jour": 10
+        "jour": 10,
+        "text": "Ryan ranch, Joshua Tree, California",
+        "coord":[33.9843,-116.1514]
     }, {
         "id": 501,
         "src": "/20160512/JPEG/IMG_4639.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Keys viewn, Joshua Tree, California",
+        "coord":[33.9261,-116.1748]
     }, {
         "id": 502,
         "src": "/20160512/JPEG/point_keys.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Keys viewn, Joshua Tree, California",
+        "coord":[33.9261,-116.1748]
     }, {
         "id": 503,
         "src": "/20160512/JPEG/IMG_4645.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Keys viewn, Joshua Tree, California",
+        "coord":[33.9261,-116.1748]
     }, {
         "id": 504,
         "src": "/20160512/JPEG/IMG_4646.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Keys viewn, Joshua Tree, California",
+        "coord":[33.9261,-116.1748]
     }, {
         "id": 505,
         "src": "/20160512/JPEG/IMG_4647.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Keys viewn, Joshua Tree, California",
+        "coord":[33.9261,-116.1748]
     }, {
         "id": 506,
         "src": "/20160512/JPEG/IMG_4648.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Keys viewn, Joshua Tree, California",
+        "coord":[33.9261,-116.1748]
     }, {
         "id": 507,
         "src": "/20160512/JPEG/IMG_4649.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Keys viewn, Joshua Tree, California",
+        "coord":[33.9261,-116.1748]
     }, {
         "id": 508,
         "src": "/20160512/JPEG/horse_mine.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Lost horse mine, Joshua Tree, California",
+        "coord":[33.9453,-116.1372]
     }, {
         "id": 509,
         "src": "/20160512/JPEG/IMG_4650.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Lost horse mine, Joshua Tree, California",
+        "coord":[33.9453,-116.1372]
     }, {
         "id": 510,
         "src": "/20160512/JPEG/IMG_4651.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Lost horse mine, Joshua Tree, California",
+        "coord":[33.9453,-116.1372]
     }, {
         "id": 511,
         "src": "/20160512/JPEG/IMG_4652.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Lost horse mine, Joshua Tree, California",
+        "coord":[33.9453,-116.1372]
     }, {
         "id": 512,
         "src": "/20160512/JPEG/IMG_4653.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Lost horse mine, Joshua Tree, California",
+        "coord":[33.9453,-116.1372]
     }, {
         "id": 513,
         "src": "/20160512/JPEG/IMG_4654.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Lost horse mine, Joshua Tree, California",
+        "coord":[33.9453,-116.1372]
     }, {
         "id": 514,
         "src": "/20160512/JPEG/IMG_4655.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Lost horse mine, Joshua Tree, California",
+        "coord":[33.9453,-116.1372]
     }, {
         "id": 515,
         "src": "/20160512/JPEG/IMG_4656.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Lost horse mine, Joshua Tree, California",
+        "coord":[33.9453,-116.1372]
     }, {
         "id": 516,
         "src": "/20160512/JPEG/IMG_4657.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Lost horse mine, Joshua Tree, California",
+        "coord":[33.9453,-116.1372]
     }, {
         "id": 517,
         "src": "/20160512/JPEG/IMG_4658.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Lost horse mine, Joshua Tree, California",
+        "coord":[33.9453,-116.1372]
     }, {
         "id": 518,
         "src": "/20160512/JPEG/IMG_4659.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Lost horse mine, Joshua Tree, California",
+        "coord":[33.9453,-116.1372]
     }, {
         "id": 519,
         "src": "/20160512/JPEG/IMG_4667.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Lost horse mine, Joshua Tree, California",
+        "coord":[33.9453,-116.1372]
     }, {
         "id": 520,
         "src": "/20160512/JPEG/IMG_4668.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Lost horse mine, Joshua Tree, California",
+        "coord":[33.9453,-116.1372]
     }, {
         "id": 521,
         "src": "/20160512/JPEG/IMG_4669.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Lost horse mine, Joshua Tree, California",
+        "coord":[33.9453,-116.1372]
     }, {
         "id": 522,
         "src": "/20160512/JPEG/IMG_4670.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Lost horse mine, Joshua Tree, California",
+        "coord":[33.9453,-116.1372]
     }, {
         "id": 523,
         "src": "/20160512/JPEG/IMG_4671.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Lost horse mine, Joshua Tree, California",
+        "coord":[33.9453,-116.1372]
     }, {
         "id": 524,
         "src": "/20160512/JPEG/IMG_4678.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Lost horse mine, Joshua Tree, California",
+        "coord":[33.9453,-116.1372]
     }, {
         "id": 525,
         "src": "/20160512/JPEG/IMG_4679.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Lost horse mine, Joshua Tree, California",
+        "coord":[33.9453,-116.1372]
     }, {
         "id": 526,
         "src": "/20160512/JPEG/IMG_4680.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Lost horse mine, Joshua Tree, California",
+        "coord":[33.9453,-116.1372]
     }, {
         "id": 527,
         "src": "/20160512/JPEG/IMG_4681.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Lost horse mine, Joshua Tree, California",
+        "coord":[33.9453,-116.1372]
     }, {
         "id": 528,
         "src": "/20160512/JPEG/IMG_4683.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Lost horse mine, Joshua Tree, California",
+        "coord":[33.9453,-116.1372]
     }, {
         "id": 529,
         "src": "/20160512/JPEG/IMG_4684.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Lost horse mine, Joshua Tree, California",
+        "coord":[33.9453,-116.1372]
     }, {
         "id": 530,
         "src": "/20160512/JPEG/IMG_4685.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Lost horse mine, Joshua Tree, California",
+        "coord":[33.9453,-116.1372]
     }, {
         "id": 531,
         "src": "/20160512/JPEG/IMG_4687.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Lost horse mine, Joshua Tree, California",
+        "coord":[33.9453,-116.1372]
     }, {
         "id": 532,
         "src": "/20160512/JPEG/IMG_4688.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Lost horse mine, Joshua Tree, California",
+        "coord":[33.9453,-116.1372]
     }, {
         "id": 533,
         "src": "/20160512/JPEG/IMG_4691.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Lost horse mine, Joshua Tree, California",
+        "coord":[33.9453,-116.1372]
     }, {
         "id": 534,
         "src": "/20160512/JPEG/IMG_4693.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Lost horse mine, Joshua Tree, California",
+        "coord":[33.9453,-116.1372]
     }, {
         "id": 535,
         "src": "/20160512/JPEG/IMG_4696.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Lost horse mine, Joshua Tree, California",
+        "coord":[33.9453,-116.1372]
     }, {
         "id": 536,
         "src": "/20160512/JPEG/IMG_4697.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Lost horse mine, Joshua Tree, California",
+        "coord":[33.9453,-116.1372]
     }, {
         "id": 537,
         "src": "/20160512/JPEG/IMG_4698.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Lost horse mine, Joshua Tree, California",
+        "coord":[33.9453,-116.1372]
     }, {
         "id": 538,
         "src": "/20160512/JPEG/IMG_4699.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Lost horse mine, Joshua Tree, California",
+        "coord":[33.9453,-116.1372]
     }, {
         "id": 539,
         "src": "/20160512/JPEG/IMG_4702.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Lost horse mine, Joshua Tree, California",
+        "coord":[33.9453,-116.1372]
     }, {
         "id": 540,
         "src": "/20160512/JPEG/IMG_4704.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Hidden valley, Joshua Tree, California",
+        "coord":[34.0188,-116.1493]
     }, {
         "id": 541,
         "src": "/20160513/JPEG/IMG_4705.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Hidden valley, Joshua Tree, California",
+        "coord":[34.0188,-116.1493]
     }, {
         "id": 542,
         "src": "/20160513/JPEG/IMG_4706.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Ryan ranch, Joshua Tree, California",
+        "coord":[33.9843,-116.1514]
     }, {
         "id": 543,
         "src": "/20160513/JPEG/IMG_4707.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Ryan ranch, Joshua Tree, California",
+        "coord":[33.9843,-116.1514]
     }, {
         "id": 544,
         "src": "/20160513/JPEG/IMG_4709.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Ryan ranch, Joshua Tree, California",
+        "coord":[33.9843,-116.1514]
     }, {
         "id": 545,
         "src": "/20160513/JPEG/IMG_4710.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Ryan ranch, Joshua Tree, California",
+        "coord":[33.9843,-116.1514]
     }, {
         "id": 546,
         "src": "/20160513/JPEG/IMG_4711.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Ryan ranch, Joshua Tree, California",
+        "coord":[33.9843,-116.1514]
     }, {
         "id": 547,
         "src": "/20160513/JPEG/IMG_4712.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Ryan ranch, Joshua Tree, California",
+        "coord":[33.9843,-116.1514]
     }, {
         "id": 548,
         "src": "/20160513/JPEG/IMG_4713.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Ryan ranch, Joshua Tree, California",
+        "coord":[33.9843,-116.1514]
     }, {
         "id": 549,
         "src": "/20160513/JPEG/IMG_4714.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Ryan ranch, Joshua Tree, California",
+        "coord":[33.9843,-116.1514]
     }, {
         "id": 550,
         "src": "/20160513/JPEG/IMG_4715.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Ryan ranch, Joshua Tree, California",
+        "coord":[33.9843,-116.1514]
     }, {
         "id": 551,
         "src": "/20160513/JPEG/IMG_4716.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Ryan ranch, Joshua Tree, California",
+        "coord":[33.9843,-116.1514]
     }, {
         "id": 552,
         "src": "/20160513/JPEG/IMG_4717.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Ryan ranch, Joshua Tree, California",
+        "coord":[33.9843,-116.1514]
     }, {
         "id": 553,
         "src": "/20160513/JPEG/IMG_4718.jpg",
-        "jour": 11
+        "jour": 11,
+        "text": "Ryan ranch, Joshua Tree, California",
+        "coord":[33.9843,-116.1514]
     }, {
         "id": 554,
         "src": "/20160514/JPEG/IMG_4719.jpg",
