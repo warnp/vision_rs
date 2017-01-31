@@ -23,7 +23,7 @@ impl ImagePage {
             div class="text" {
                 (&src.text)
                 br /
-                ("https://www.openstreetmap.org/#map=14/".to_string()+&src.coord[0]+"/"+&src.coord[1])
+                a href=("https://www.openstreetmap.org/#map=14/".to_string()+&src.coord[0]+"/"+&src.coord[1])
             }
             div class="wrapper"{
                 a href=(self.prec_page(i as i32, (image_data.data.len() -1) as i32)){
