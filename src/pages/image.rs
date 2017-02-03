@@ -1,16 +1,16 @@
 use data_type::data_type::Data;
-use maud;
+use maud::PreEscaped;
 
 pub struct ImagePage;
 
 impl ImagePage {
-    pub fn get_page(&self, host: &str, image_data: Data, i: usize) -> maud::PreEscaped<String> {
-        //Bug possible avec ça je pense
+    pub fn get_page(&self, host: &str, image_data: Data, i: usize) -> PreEscaped<String> {
+        // Bug possible avec ça je pense
         let src = match image_data.data.iter().find(|x| x.id == i as i32) {
             Some(x) => x,
-            None => image_data.data.iter().find(|x| x.id == i as i32 +1 ).unwrap()
+            None => image_data.data.iter().find(|x| x.id == i as i32 + 1).unwrap(),
         };
-        
+
         // println!("{:#?}", src);
         let url = "http://".to_string() + &host + "/images" + &src.src;
 
@@ -25,9 +25,25 @@ impl ImagePage {
                     div class="arrowLeft"{}
                 }
 
+                a href=("http://".to_string()+host+"/#"+&src.id.to_string()){
+                    div "Toto"
+                }
+
                 a href=(self.next_page(i as i32, (image_data.data.len()-1) as i32)){
                     div class="arrowRight"{}
                 }
+            }
+            (PreEscaped("<script type=\"text/javascript\" src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js\"></script>"))
+            script {
+                (PreEscaped("$(\"html\").keypress(function(event){
+                            alert(event.key);
+                            if(event.key === \"keyLeft\"){
+                                $(\"html\").load(".to_string()+&self.prec_page(i as i32, (image_data.data.len() -1) as i32).to_string()+");
+                            }
+                            if(event.key === \"keyRight\"){
+                                $(\"html\").load("+&self.next_page(i as i32, (image_data.data.len() -1) as i32).to_string()+");
+                            }
+                });"))
             }
         }
     }
@@ -49,5 +65,4 @@ impl ImagePage {
 
         }
     }
-
 }
