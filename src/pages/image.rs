@@ -13,40 +13,50 @@ impl ImagePage {
 
         // println!("{:#?}", src);
         let url = "http://".to_string() + &host + "/images" + &src.src;
-
+        let coordinates = (&src.coord[0]).to_string()+"/"+&(&src.coord[1]).to_string();
         html!{
             link rel="stylesheet" type="text/css"
                 href=("http://".to_string()+host+"/style/style.css") /
+
+            link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" /
+
             div class="photo"{
-                img src=(url){}
-            }
-            div class="text" {
-                (&src.text)
-                br /
-                a href=("https://www.openstreetmap.org/#map=14/".to_string()+&src.coord[0]+"/"+&src.coord[1])
+
+                div class="controls"{
+                    a class="control" href=(self.prec_page(i as i32, (image_data.data.len() -1) as i32)){
+                        div class="arrowLeft"{}
+                    }
+
+                    // a class="control" href=("http://".to_string()+host+"/#"+&src.id.to_string()){
+                    //     div {"Toto"}
+                    // }
+                    img src=(url){}
+
+                    a class="control" href=(self.next_page(i as i32, (image_data.data.len()-1) as i32)){
+                        div class="arrowRight"{}
+                    }
+                }
             }
             div class="wrapper"{
-                a href=(self.prec_page(i as i32, (image_data.data.len() -1) as i32)){
-                    div class="arrowLeft"{}
+                div class="text" {
+                    (&src.text)
+                    br /
+                    a href=("https://www.openstreetmap.org/#map=14/".to_string() + &coordinates){
+                        ("https://www.openstreetmap.org/#map=14/".to_string() + &coordinates)
+                    }
                 }
 
-                a href=("http://".to_string()+host+"/#"+&src.id.to_string()){
-                    div "Toto"
-                }
 
-                a href=(self.next_page(i as i32, (image_data.data.len()-1) as i32)){
-                    div class="arrowRight"{}
-                }
             }
             (PreEscaped("<script type=\"text/javascript\" src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js\"></script>"))
             script {
                 (PreEscaped("$(\"html\").keypress(function(event){
-                            alert(event.key);
+                            // alert(event.key);
                             if(event.key === \"keyLeft\"){
-                                $(\"html\").load(".to_string()+&self.prec_page(i as i32, (image_data.data.len() -1) as i32).to_string()+");
+                                $.load(".to_string()+&self.prec_page(i as i32, (image_data.data.len() -1) as i32).to_string()+");
                             }
                             if(event.key === \"keyRight\"){
-                                $(\"html\").load("+&self.next_page(i as i32, (image_data.data.len() -1) as i32).to_string()+");
+                                $.load("+&self.next_page(i as i32, (image_data.data.len() -1) as i32).to_string()+");
                             }
                 });"))
             }
