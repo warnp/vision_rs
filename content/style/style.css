@@ -98,3 +98,20 @@ body {
 .control{
   align-self: center;
 }
+
+i {
+    border: solid #242424;
+    border-width: 0 30px 30px 0;
+    display: inline-block;
+    padding: 30px;
+}
+
+.right {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+}
+
+.left {
+    transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+}

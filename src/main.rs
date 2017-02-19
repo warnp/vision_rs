@@ -75,7 +75,6 @@ fn main() {
             }
         }
 
-        // println!("{}", host);
         let result = query_image.parse::<usize>();
         match result {
             Ok(i) => Ok(Response::with((status::Ok, image_page.get_page(&host, deserialized, i)))),
