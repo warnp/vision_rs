@@ -9,8 +9,8 @@ serde_codegen = "0.8"
 [dependencies]
 router= "*"
 staticfile = "*"
-maud = { version = "0.15", features = ["iron"] }
-maud_macros = "0.15"
+maud = { version = "0.16", features = ["iron"] }
+maud_macros = "0.16"
 serde = "0.8"
 serde_derive = "0.8"
 serde_json = "0.8"  # just for the example, not required in general
