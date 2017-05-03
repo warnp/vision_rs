@@ -29,8 +29,9 @@ impl ImagePage {
                     // a class="control" href=("http://".to_string()+host+"/#"+&src.id.to_string()){
                     //     div {"Toto"}
                     // }
-                    img src=(url){}
-
+                    div class="img-container"{
+                        img src=(url){}
+                    }
                     a class="control" href=(self.next_page(i as i32, (image_data.data.len()-1) as i32)){
                         i class="right"{}
                     }
