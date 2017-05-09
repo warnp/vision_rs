@@ -9,7 +9,7 @@ impl ShowOff {
 
         html!{
             link rel="stylesheet" type="text/css"
-                href=("http://".to_string()+host+"/style/style.css") /
+                href={"http://" (host) "/style/style.css"} /
 
                 div.gallery {
                     @for image in &data.data {
