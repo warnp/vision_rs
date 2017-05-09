@@ -15,7 +15,7 @@ impl ImagePage {
         let coordinates = (&src.coord[0]).to_string()+"/"+&(&src.coord[1]).to_string();
         html!{
             link rel="stylesheet" type="text/css"
-                href=("http://".to_string()+host+"/style/style.css") /
+                href={"http://" (host) "/style/style.css"} /
 
             link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" /
 
@@ -41,8 +41,8 @@ impl ImagePage {
                 div class="text" {
                     (&src.text)
                     br /
-                    a href=("https://www.openstreetmap.org/#map=14/".to_string() + &coordinates){
-                        ("https://www.openstreetmap.org/#map=14/".to_string() + &coordinates)
+                    a href={"https://www.openstreetmap.org/#map=14/" (&coordinates)} {
+                        "https://www.openstreetmap.org/#map=14/"  (&coordinates)
                     }
                 }
 
