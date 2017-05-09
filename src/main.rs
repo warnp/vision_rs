@@ -82,7 +82,7 @@ fn main() {
                 let markup = html!{
                     h1 "Bad request!"
                 };
-                Ok(Response::with((status::Ok, markup)))
+                Ok(Response::with((status::Ok, markup.into_string())))
             }
         }
 
