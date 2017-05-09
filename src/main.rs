@@ -55,7 +55,7 @@ fn main() {
             }
         }
 
-        Ok(Response::with((status::Ok, ShowOff::get_page(&host, deserialized))))
+        Ok(Response::with((status::Ok, ShowOff::get_page(&host, deserialized).into_string())))
     }
     fn handler(req: &mut Request) -> IronResult<Response> {
         let mut file = File::open("./content/text.json").unwrap();
@@ -77,7 +77,7 @@ fn main() {
 
         let result = query_image.parse::<usize>();
         match result {
-            Ok(i) => Ok(Response::with((status::Ok, image_page.get_page(&host, deserialized, i)))),
+            Ok(i) => Ok(Response::with((status::Ok, image_page.get_page(&host, deserialized, i).into_string()))),
             Err(_) => {
                 let markup = html!{
                     h1 "Bad request!"
