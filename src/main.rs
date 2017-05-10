@@ -55,7 +55,8 @@ fn main() {
             }
         }
 
-        Ok(Response::with((status::Ok, ShowOff::get_page(&host, deserialized).into_string())))
+        //Ok(Response::with((status::Ok, ShowOff::get_page(&host, deserialized).into_string())))
+        Ok(Response::with((status::Ok, "Hello world")))
     }
     fn handler(req: &mut Request) -> IronResult<Response> {
         let mut file = File::open("./content/text.json").unwrap();
@@ -82,7 +83,7 @@ fn main() {
                 let markup = html!{
                     h1 "Bad request!"
                 };
-                Ok(Response::with((status::Ok, &markup.into_string())))
+                Ok(Response::with((status::Ok, markup.into_string())))
             }
         }
 
