@@ -7,8 +7,8 @@ authors = ["romain <romain.assie@supinfo.com>"]
 serde_codegen = "0.8"
 
 [dependencies]
-router= "*"
-staticfile = "*"
+router= "0.5.1"
+staticfile = "0.4"
 maud = { version = "0.16", features = ["iron"] }
 maud_macros = "0.16"
 serde = "0.8"
