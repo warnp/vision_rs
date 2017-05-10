@@ -57,7 +57,7 @@ fn main() {
 
         //Ok(Response::with((status::Ok, ShowOff::get_page(&host, deserialized).into_string())))
 //         let body : &'static str = &.into_string();
-        Ok(Response::with(ShowOff::get_page(&host, deserialized)))
+        Ok(Response::with((status::Ok, ShowOff::get_page(&host, deserialized))))
     }
     fn handler(req: &mut Request) -> IronResult<Response> {
         let mut file = File::open("./content/text.json").unwrap();
