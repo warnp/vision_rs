@@ -55,8 +55,6 @@ fn main() {
             }
         }
 
-        //Ok(Response::with((status::Ok, ShowOff::get_page(&host, deserialized).into_string())))
-//         let body : &'static str = &.into_string();
         Ok(Response::with((status::Ok, ShowOff::get_page(&host, deserialized))))
     }
     fn handler(req: &mut Request) -> IronResult<Response> {
@@ -79,12 +77,12 @@ fn main() {
 
         let result = query_image.parse::<usize>();
         match result {
-            Ok(i) => Ok(Response::with((status::Ok, image_page.get_page(&host, deserialized, i).into_string()))),
+            Ok(i) => Ok(Response::with((status::Ok, image_page.get_page(&host, deserialized, i)))),
             Err(_) => {
                 let markup = html!{
                     h1 "Bad request!"
                 };
-                Ok(Response::with((status::Ok, markup.into_string())))
+                Ok(Response::with((status::Ok, markup)))
             }
         }
 
