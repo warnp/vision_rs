@@ -9,12 +9,12 @@ serde_codegen = "0.8"
 [dependencies]
 router= "*"
 staticfile = "*"
-maud = { version = "*", features = ["iron"] }
-maud_macros = "*"
+maud = { version = "0.16", features = ["iron"] }
+maud_macros = "0.16"
 serde = "0.8"
 serde_derive = "0.8"
 serde_json = "0.8"  # just for the example, not required in general
 [dependencies.iron]
-version = "*"
+version = "0.5.1"
 [dependencies.mount]
 git = "https://github.com/iron/mount.git"
