@@ -3,9 +3,6 @@ name = "vision"
 version = "0.1.0"
 authors = ["romain <romain.assie@supinfo.com>"]
 
-[build-dependencies]
-serde_codegen = "1.0"
-
 [dependencies]
 router= "0.5.1"
 staticfile = "0.4"
