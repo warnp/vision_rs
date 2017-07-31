@@ -45,8 +45,10 @@ body {
 }
 
 .container-img img {
-  width: 100%;
-  height: auto;
+    width: auto;
+    height: auto;
+    max-width: 1024px;
+    max-height: 720px;
 }
 
 .arrowRight {
@@ -80,7 +82,7 @@ body {
   margin-top: 50px;
   position: absolute;
   width: 99%;
-  height: 150px;
+  height: 75px;
 }
 
 .gallery{
