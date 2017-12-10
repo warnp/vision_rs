@@ -1,0 +1,11 @@
+<div class="text-container">
+    <h2>{{title}}</h2>
+    <div class="text-content">
+        {{#each paragraph}}
+            <p>{{this.paragraph}}</p>
+            {{#if this.img1}}
+                {{> photo img1=this.img1 img2=this.img2 img3=this.img3}}
+            {{/if}}
+        {{/each}}
+    </div>
+</div>

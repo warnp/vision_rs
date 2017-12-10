@@ -11,3 +11,10 @@ pub struct Image {
     pub text: String,
     pub coord: [f32; 2],
 }
+
+#[derive(Serialize, Deserialize, Debug)]
+pub struct Text {
+    pub id: i32,
+    pub title: String,
+    pub content: String,
+}
