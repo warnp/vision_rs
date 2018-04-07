@@ -11,11 +11,11 @@ impl ImagePage {
             None => image_data.data.iter().find(|x| x.id == i as i32 + 1).unwrap(),
         };
 
-        let url = "http://".to_string() + &host + "/images" + &src.src;
+        let url = "https://".to_string() + &host + "/images" + &src.src;
         let coordinates = (&src.coord[0]).to_string()+"/"+&(&src.coord[1]).to_string();
         html!{
             link rel="stylesheet" type="text/css"
-                href={"http://" (host) "/style/style.css"} /
+                href={"https://" (host) "/style/style.css"} /
 
             link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" /
 
