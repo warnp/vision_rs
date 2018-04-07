@@ -9,12 +9,12 @@ impl ShowOff {
 
         html!{
             link rel="stylesheet" type="text/css"
-                href={"http://" (host) "/style/style.css"} /
+                href={"https://" (host) "/style/style.css"} /
 
                 div.gallery {
                     @for image in &data.data {
-                        a.super-item href={"http://" (host) "/" (&image.id)} id={(&image.id)}{
-                            img.item.lazy data-original={"http://" (host) "/images/min" (&image.src.split_at(9).1)} {}
+                        a.super-item href={"https://" (host) "/" (&image.id)} id={(&image.id)}{
+                            img.item.lazy data-original={"https://" (host) "/images/min" (&image.src.split_at(9).1)} {}
 
                         }
                     }
@@ -29,8 +29,8 @@ impl ShowOff {
                     }
                 }
                 (PreEscaped("<script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js\"></script>"))
-                (PreEscaped("<script src=\"http://".to_string() + host+"/js/jquery.lazyload.min.js\"></script>"))
-                (PreEscaped("<script src=\"http://".to_string() + host+"/js/customloading.js\"></script>"))
+                (PreEscaped("<script src=\"https://".to_string() + host+"/js/jquery.lazyload.min.js\"></script>"))
+                (PreEscaped("<script src=\"https://".to_string() + host+"/js/customloading.js\"></script>"))
 
         }
     }
