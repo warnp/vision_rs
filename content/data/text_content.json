@@ -1,23 +1,42 @@
 {
-  "data": [{
-    "id":1,
-    "title":"Perou",
-    "content": [
-      {"paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam hendrerit diam libero. Curabitur porttitor erat quis urna blandit auctor. Nulla consequat nisl eu lectus dapibus,",
-        "img1":"",
-        "img2":"",
-        "img3":""
-      },
-      {"paragraph": "in bibendum nisl ultrices. Etiam cursus gravida orci, at volutpat ante. Aliquam porta quis diam a tempus. Vestibulum in rutrum enim. Nam et lacus in turpis gravida tincidunt in mattis est.",
-        "img1":"http://localhost:8000/images/1.jpg",
-        "img2":"http://localhost:8000/images/2.jpg",
-        "img3":"http://localhost:8000/images/3.jpg"
-      },
-      {"paragraph": "Nulla et sapien purus. Suspendisse in turpis eu sapien aliquet dictum non vel tortor. Nunc lobortis dictum sapien, non gravida risus aliquet non. Sed ut facilisis eros. Pellentesque convallis enim",
-        "img1":"",
-        "img2":"",
-        "img3":""
-      }
-    ]
-  }]
+  "data": [
+    {
+      "id": 1,
+      "title": "Arrivée au Pérou",
+      "presentation": "Dimanche 10 septembre 2017 20h15 (heure péruvienne)",
+      "content": [
+        {
+          "paragraph": "Cam : Ca y est, on y est... On est au Pérou !!! Après 24h de transit aérien, nous voilà enfin arrivés en Amérique du Sud.\n Tout s’est bien enchaîné de Toulouse à Lima. J’ai découvert les vols long-courriers avec les films, les jeux (Tetris et la bataille navale ont eu un succès fou !), les infos du vol... et les délicieux repas... Pasta, chicken, pizza, sandwichs, de la haute gastronomie !\n Malheureusement Rominou a dû éviter le fromage/crème/lait en tout genre, d’où des sandwichs au pain ou des desserts en moins.\n Arrivés à Lima, c’était folklo d’attendre notre magnifique sac « The North Face » puis le retrait (ou plutôt les retraits) des Nuevo Sole aussi... 3 x 400 soles chacun, il fallait être patient.\n Nous avons eu l’agréable « surprise » ou confirmation de bien voir Gustavo nous attendre avec sa pancarte « ROMAIN CAMILLE ». Premiers mots espagnols...\n Romain s’en sort bien et moi je me dépatouille avec un mix d’anglais/italien/français et espagnol ! Nous sommes très étonnés de voir la conduite péruvienne. Il ne faut pas avoir peur de s’imposer ici. La loi du plus fort s’applique.\n Gustavo nous a déposés chez Anita, dame très gentille (autant que dans nos échanges de mails). A présent nous voilà posés sur le lit, un peu crevés de cette journée mais impatients de découvrir la suite !",
+          "img1": "/peru/images/1.jpg",
+          "img2": "",
+          "img3": ""
+        },
+        {
+          "paragraph": "Romain : Ca y est, après une journée de voyage en avion, nous sommes arrivés à l’auberge à Lima. Nous sommes partis ce matin aux aurores, quittant Toulouse, puis l’Europe pour le continent Sud Américain. Même si pour moi ce n’est plus la première fois que je prends un long courrier cela reste une aventure.\n Après un vol qui m’a semblé une éternité nous voilà sur ce continent nouveau pour nous deux. Le temps n’est malheureusement pas au beau, c’est assez nuageux, certainement des entrées maritimes. Cependant il ne fait pas froid, c’est agréable.\n Une fois passés les contrôles des douanes et après avoir gagné un nouveau visa sur nos passeports, nous allons chercher notre « valise » (sac de voyage). C’est un peu l’attente mais nous parvenons à le récupérer sans problème.\n Après avoir retiré un peu de monnaie, nous nous mettons à la recherche de notre taxi Gustavo. Sur le trajet, nous commençons à avoir un aperçu de Lima de nuit. Tout d’abord la banlieue puis le centre plus historique et à nouveau la banlieue. Sur la route, c’est le bordel organisé. Pas une voiture n’est épargnée. Bien content de ne pas avoir à conduire là-dedans. Et enfin nous y voilà dans notre chambre chez Anita qui nous héberge.",
+          "img1": "/peru/images/1.jpg",
+          "img2": "/peru/images/2.jpg",
+          "img3": "/peru/images/3.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Jour 2",
+      "presentation": "Lundi 11 septembre 2017 20h05",
+      "content": [
+        {
+          "paragraph": "Cam : Quelle bonne première journée ! Réveil vers 6h, décalage horaire oblige, on s’est reposé jusqu’à 8h. Heure qu’Ana nous avait indiquée pour le petit-déj. Une fois douchée (pour moi) et préparés (pour nous deux), nous sommes donc descendus manger (Romain avait bien faim). Ana nous a préparé un super petit-déj. Petits pains calientes, marmelade, avocats, patates douces en beignets... On a revu la française aperçue la veille à notre arrivée. Discussion très intéressante tous ensemble mais on ne s’est pas éternisés car Gustavo venait nous chercher pour nous emmener aux terminaux de bus : Direction Ica !\n Nous avons mis un moment pour comprendre comment on allait savoir que notre bus de 11h30 allait partir et où surtout.\n Une fois dans le bus, c’était le grand luxe, sièges inclinables, tablettes (comme dans l’avion), petits snacks. Nous avons observé le paysage, surprenant, varié, on a même vu l’Océan Pacifique.\n 15h30-16h, arrivés à Ica. Nous décidons de jouer la sécurité en choisissant le 1er taxi qui s’offre à nous dès la descente du bus. 20 minutes après nous étions à Banana’s adventure : Youhou !!!\n Superbe chambre, super cadre, réservation du tour en buggy demain à 10h. Nous nous installons et go en haut de la dune pour contempler le désert et son coucher de soleil, magnifique !\n Nous finissons cette journée par un très bon repas accompagné d’un Pisco Sour sur la terrasse. Une petite pause dans les hamacs et direction la chambre pour se reposer... musique à fond... on va sûrement tester les boules Quiès !",
+          "img1": "/peru/images/1.jpg",
+          "img2": "",
+          "img3": ""
+        },
+        {
+          "paragraph": "Romain : Après un réveil aux aurores dû au décalage horaire, nous avons pris un petit-déj en compagnie d’Anita composé de pains chauds, marmelade, avocats, patates douces et jus d’orange pressé. S’en est suivi une discussion à propos de notre périple à venir. \n Elle nous a ainsi donné pas mal de conseils et nous a contacté Gustavo pour aller prendre le bus pour Ica, notre prochaine destination. Après avoir pris les billets à la gare routière, Gustavo nous a abandonné. Ca y est, il va falloir assurer en espagnol. N’ayant jamais été très doué pour cette langue par manque d’intérêt, c’est le moment d’apprendre et se perfectionner. \n Nous attendons donc une bonne heure notre bus. Une fois les bagages en soute et nous à bord, nous découvrons un bus qui n’a rien à envier à un avion. On peut même y dormir sans trop de problème. Notre voyage nous fait traverser des banlieues, puis des déserts, passer près des plages et de l’océan, où ses eaux sont déchaînées. Arrivée à Ica, notre terminus, nous prenons le premier taxi pour Huacachina. \n Huacachina, c’est un peu une anomalie. Une lagune au milieu des dunes de sable de plusieurs centaines de mètres de haut avec ses hôtels, ses palmiers, des pédalos, des buggys des sables, des gens sur des sandboards. C’est bondé de touristes, ce n’est pas calme mais ça reste très sympa. Notre hôtel : Banana’s adventure, rien que le nom, c’est tout un programme, reste dans cet état d’esprit avec sa piscine, son bar qui sert un excellent Pisco Sour, le cocktail local ainsi que des plats très bons, ses hamacs et sa suite matrimoniale. Oui on s’est un peu lâché mais on se fait bien plaisir. En parlant de plaisir nous n’avons pas boudé celui de voir le soleil se coucher sur le désert, un très bon moment !",
+          "img1": "/peru/images/1.jpg",
+          "img2": "/peru/images/2.jpg",
+          "img3": "/peru/images/3.jpg"
+        }
+      ]
+    }
+  ]
 }

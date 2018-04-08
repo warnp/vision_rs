@@ -14,6 +14,7 @@ h1 {
 }
 
 .container {
+    left: 20%;
     display: grid;
     grid-template-columns: repeat(4,1fr);
 }
@@ -185,4 +186,14 @@ i {
 .left {
     transform: rotate(135deg);
     -webkit-transform: rotate(135deg);
+}
+
+.sidebar {
+    width: 200px;
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 100vh;
+    overflow: auto;
+    background-color: aqua;
 }

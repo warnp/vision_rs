@@ -1,2 +1,8 @@
 [development]
 template_dir = "content/template/"
+address = "localhost"
+port = 8000
+
+[production]
+address = "0.0.0.0"
+port = 3001

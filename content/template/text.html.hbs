@@ -1,6 +1,12 @@
 <div class="text-container">
     <h2>{{title}}</h2>
-    <div class="text-content">
+    <div class="text-content short">
+        {{presentation}}
+        {{#if paragraph.0.img1}}
+            {{> photo img1=paragraph.0.img1 img2=paragraph.0.img2 img3=paragraph.0.img3}}
+        {{/if}}
+    </div>
+    <div class="text-content all" style="display: none">
         {{#each paragraph}}
             <p>{{this.paragraph}}</p>
             {{#if this.img1}}
@@ -8,4 +14,5 @@
             {{/if}}
         {{/each}}
     </div>
+    <div class="expand" id="{{id}}">Lire plus.</div>
 </div>

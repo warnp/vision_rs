@@ -8,14 +8,23 @@ extern crate serde_derive;
 extern crate serde_json;
 
 use rocket::response::NamedFile;
+use rocket::http::RawStr;
 use std::path::{Path, PathBuf};
 use rocket_contrib::Template;
 use rocket::config::{Config, Environment};
 use std::fs::File;
 use std::io::prelude::*;
 
+//const HOST : &'static str = "http://localhost:8000";
+
+#[derive(Serialize, Deserialize, Debug)]
+struct TemplateWrapper {
+    trip: Trip,
+    host: String,
+}
+
 #[derive(Serialize, Deserialize,Debug)]
-struct Data {
+struct Trip {
     data: Vec<DayTemplate>,
 }
 
@@ -23,6 +32,7 @@ struct Data {
 struct DayTemplate {
     id: u32,
     title: String,
+    presentation: String,
     content: Vec<TemplateContext>,
 }
 
@@ -34,16 +44,14 @@ struct TemplateContext {
     img3: String,
 }
 
-#[get("/")]
+#[get("/peru")]
 fn index() -> Template {
     let mut file = File::open("./content/data/text_content.json").unwrap();
     let mut data = String::new();
     file.read_to_string(&mut data).unwrap();
-    let deserialized: Data = serde_json::from_str(&data).unwrap();
+    let trip: Trip = serde_json::from_str(&data).unwrap();
 
-    println!("{:#?}", deserialized);
-
-    Template::render("index", &deserialized)
+    Template::render("index", &trip)
 }
 
 //#[get("/data/<file..>")]
@@ -51,17 +59,17 @@ fn index() -> Template {
 //    NamedFile::open(Path::new("content/data").join(file)).ok()
 //}
 
-#[get("/style/<file..>")]
+#[get("/peru/style/<file..>")]
 fn style(file: PathBuf) -> Option<NamedFile> {
     NamedFile::open(Path::new("content/style/").join(file)).ok()
 }
 
-#[get("/js/<file..>")]
+#[get("/peru/js/<file..>")]
 fn js(file: PathBuf) -> Option<NamedFile> {
     NamedFile::open(Path::new("content/js/").join(file)).ok()
 }
 
-#[get("/images/<file..>")]
+#[get("/peru/images/<file..>")]
 fn images(file: PathBuf) -> Option<NamedFile> {
     NamedFile::open(Path::new("content/images/").join(file)).ok()
 }
@@ -72,6 +80,7 @@ fn main() {
     let mut extras = std::collections::HashMap::new();
     extras.insert("templates".to_string(), "content".into());
     config.set_extras(extras);
+
 
     rocket::ignite().mount("/", routes![index, style, js, images])
         .attach(Template::fairing())
