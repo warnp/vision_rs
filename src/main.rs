@@ -1,6 +1,5 @@
 #![feature(plugin)]
 #![plugin(maud_macros)]
-#![feature(macro_vis_matcher)]
 
 #[macro_use]
 extern crate serde_derive;
