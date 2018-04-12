@@ -4,7 +4,6 @@
 extern crate serde_derive;
 extern crate serde_json;
 extern crate iron;
-#[macro_use]
 extern crate maud;
 extern crate staticfile;
 extern crate mount;
@@ -25,7 +24,7 @@ use mount::Mount;
 use pages::image::ImagePage;
 use pages::show_off::ShowOff;
 use data_type::data_type::Data;
-
+use maud_macros::html;
 
 
 fn main() {
