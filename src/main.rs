@@ -1,4 +1,5 @@
-#![feature(proc_macro)] 
+#![feature(plugin)]
+#![plugin(maud_macros)]
 
 #[macro_use]
 extern crate serde_derive;
@@ -24,7 +25,6 @@ use mount::Mount;
 use pages::image::ImagePage;
 use pages::show_off::ShowOff;
 use data_type::data_type::Data;
-use maud::html;
 
 
 fn main() {
