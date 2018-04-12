@@ -1,5 +1,8 @@
 language: rust
-rust: nightly
+rust: 
+ - nightly
+ - 1.26.0-nightly
+ 
 sudo: false
 
 services:
