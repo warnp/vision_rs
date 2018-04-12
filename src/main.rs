@@ -1,5 +1,7 @@
 #![feature(proc_macro)] 
 
+#[macro_use(maud)]
+
 #[macro_use]
 extern crate serde_derive;
 extern crate serde_json;
