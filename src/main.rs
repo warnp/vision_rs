@@ -24,7 +24,7 @@ use mount::Mount;
 use pages::image::ImagePage;
 use pages::show_off::ShowOff;
 use data_type::data_type::Data;
-use maud_macros::html;
+use maud::html;
 
 
 fn main() {
