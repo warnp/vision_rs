@@ -1,11 +1,10 @@
 #![feature(proc_macro)] 
 
-#[macro_use(maud)]
-
 #[macro_use]
 extern crate serde_derive;
 extern crate serde_json;
 extern crate iron;
+#[macro_use]
 extern crate maud;
 extern crate staticfile;
 extern crate mount;
