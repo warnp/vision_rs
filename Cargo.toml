@@ -6,10 +6,11 @@ authors = ["romain <romain.assie@supinfo.com>"]
 [dependencies]
 router= "0.5.1"
 staticfile = "0.4"
-maud = { version = "0.17", features = ["iron"] }
-maud_macros = "0.17"
+maud = { version = "0.16", features = ["iron"] }
+maud_macros = "0.16"
 serde = "1.0"
 serde_derive = "1.0"
 serde_json = "1.0"  # just for the example, not required in general
 mount = "0.3"
-iron = "0.6.*"
+[dependencies.iron]
+version = "0.5.1"
