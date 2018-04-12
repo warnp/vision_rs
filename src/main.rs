@@ -24,7 +24,7 @@ use mount::Mount;
 use pages::image::ImagePage;
 use pages::show_off::ShowOff;
 use data_type::data_type::Data;
-use maud::{html, PreEscaped};
+use maud::html;
 
 
 fn main() {
@@ -54,7 +54,7 @@ fn main() {
             }
         }
 
-        Ok(Response::with((status::Ok, ShowOff::get_page(&host, deserialized))))
+        Ok(Response::with((status::Ok, html!{ ShowOff::get_page(&host, deserialized)})))
     }
     fn handler(req: &mut Request) -> IronResult<Response> {
         let mut file = File::open("./content/text.json").unwrap();
