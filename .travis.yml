@@ -1,6 +1,5 @@
 language: rust
 rust: 
- - nightly
  - 1.26.0-nightly
  
 sudo: false
