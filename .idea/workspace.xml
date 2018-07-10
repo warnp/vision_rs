@@ -2,15 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db43645c-e25d-4b10-8523-eb00f8de5bde" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controller/mod.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rocket.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Rocket.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/data/text_content.json" beforeDir="false" afterPath="$PROJECT_DIR$/content/data/text_content.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/content/style/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/template/index.html.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/content/template/index.html.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/template/photo.html.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/content/template/photo.html.hbs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/template/text.html.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/content/template/text.html.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_type/data_type.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_type/mod.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_type/mod.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,17 +26,35 @@
       <file leaf-file-name="main.rs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main.rs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="238">
+              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/style/style.css">
+      <file leaf-file-name="mod.rs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/controller/mod.rs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2091">
-              <caret line="123" selection-start-line="123" selection-end-line="123" />
+            <state relative-caret-position="714">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="show_off.rs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/show_off.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mod.rs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data_type/mod.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -43,8 +62,8 @@
       <file leaf-file-name="index.html.hbs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/template/index.html.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            <state relative-caret-position="85">
+              <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -52,8 +71,17 @@
       <file leaf-file-name="text.html.hbs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/template/text.html.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+            <state relative-caret-position="221">
+              <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/style/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1428">
+              <caret line="84" column="20" selection-start-line="84" selection-start-column="20" selection-end-line="84" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -61,40 +89,57 @@
       <file leaf-file-name="photo.html.hbs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/template/photo.html.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+            <state relative-caret-position="238">
+              <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="text_content.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="text_content.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/content/data/text_content.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Rocket.toml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Rocket.toml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+            <state relative-caret-position="319">
+              <caret line="901" column="40" lean-forward="true" selection-start-line="901" selection-start-column="40" selection-end-line="901" selection-end-column="43" />
+              <folding>
+                <element signature="e#18#4331#0" />
+                <element signature="e#4337#9336#0" />
+                <element signature="e#9342#14808#0" />
+                <element signature="e#14814#18473#0" />
+                <element signature="e#18479#22642#0" />
+                <element signature="e#22648#27764#0" />
+                <element signature="e#27770#33745#0" />
+                <element signature="e#33751#36472#0" />
+                <element signature="e#36478#40008#0" />
+                <element signature="e#40014#47923#0" />
+                <element signature="e#47929#53673#0" />
+                <element signature="e#53679#58626#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>&quot;</find>
       <find>’</find>
+      <find>TemplateWrapper</find>
+      <find>/peru/</find>
+      <find>6409</find>
+      <find>un bar repéré sur le routard. Coup de cœur pour ce bar d’ailleurs, super ambiance, super playlist, pizza bonnes et 2 Pisco Sour qui passent tout seul ! 21h, direction hôtel et dodo pour partir assez tôt en Bolivie !&quot;,</find>
     </findStrings>
     <replaceStrings>
       <replace>\'</replace>
       <replace>'</replace>
+      <replace>/content/</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -107,15 +152,17 @@
         <option value="$PROJECT_DIR$/src/pages/image.rs" />
         <option value="$PROJECT_DIR$/src/pages/show_off.rs" />
         <option value="$PROJECT_DIR$/content/template/title.html.hbs" />
-        <option value="$PROJECT_DIR$/Cargo.toml" />
-        <option value="$PROJECT_DIR$/content/template/photo.html.hbs" />
         <option value="$PROJECT_DIR$/src/data_type/data_type.rs" />
-        <option value="$PROJECT_DIR$/content/template/text.html.hbs" />
-        <option value="$PROJECT_DIR$/content/template/index.html.hbs" />
-        <option value="$PROJECT_DIR$/content/style/style.css" />
-        <option value="$PROJECT_DIR$/src/main.rs" />
-        <option value="$PROJECT_DIR$/content/data/text_content.json" />
         <option value="$PROJECT_DIR$/Rocket.toml" />
+        <option value="$PROJECT_DIR$/Cargo.toml" />
+        <option value="$PROJECT_DIR$/content/template/index.html.hbs" />
+        <option value="$PROJECT_DIR$/src/main.rs" />
+        <option value="$PROJECT_DIR$/src/controller/mod.rs" />
+        <option value="$PROJECT_DIR$/src/data_type/mod.rs" />
+        <option value="$PROJECT_DIR$/content/template/text.html.hbs" />
+        <option value="$PROJECT_DIR$/content/template/photo.html.hbs" />
+        <option value="$PROJECT_DIR$/content/style/style.css" />
+        <option value="$PROJECT_DIR$/content/data/text_content.json" />
       </list>
     </option>
   </component>
@@ -126,7 +173,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="676" />
+    <option name="x" value="670" />
+    <option name="y" value="-2" />
     <option name="width" value="697" />
     <option name="height" value="775" />
   </component>
@@ -135,7 +183,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -152,37 +200,19 @@
               <item name="vision_rs" type="b2602c69:ProjectViewProjectNode" />
               <item name="vision_rs" type="462c0819:PsiDirectoryNode" />
               <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vision_rs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vision_rs" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="vision_rs" type="b2602c69:ProjectViewProjectNode" />
               <item name="vision_rs" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vision_rs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vision_rs" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vision_rs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vision_rs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="data_type" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -199,6 +229,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JSON" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Documents\projets_rust\vision_rs\content\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Documents\projets_rust\vision_rs\content\data" />
     </key>
@@ -320,12 +353,52 @@
       <workItem from="1515523145945" duration="115000" />
       <workItem from="1523130115413" duration="2752000" />
       <workItem from="1523180853713" duration="7065000" />
-      <workItem from="1523207633216" duration="447000" />
+      <workItem from="1523207633216" duration="2480000" />
+      <workItem from="1523252523118" duration="1598000" />
+      <workItem from="1523271099365" duration="2586000" />
+      <workItem from="1523299919678" duration="599000" />
+      <workItem from="1523338893494" duration="3381000" />
+      <workItem from="1523357732513" duration="3105000" />
+      <workItem from="1523377098609" duration="2574000" />
+      <workItem from="1523392246638" duration="2786000" />
+      <workItem from="1523425447575" duration="2491000" />
+      <workItem from="1523464603871" duration="1947000" />
+      <workItem from="1523511704133" duration="612000" />
+      <workItem from="1523513271663" duration="254000" />
+      <workItem from="1523532329069" duration="519000" />
+      <workItem from="1523598163929" duration="3003000" />
+      <workItem from="1523651834624" duration="3843000" />
+      <workItem from="1523707202824" duration="2887000" />
+      <workItem from="1523722960072" duration="2417000" />
+      <workItem from="1523736966903" duration="454000" />
+      <workItem from="1523875152085" duration="1105000" />
+      <workItem from="1523902499923" duration="1348000" />
+      <workItem from="1523943787847" duration="1188000" />
+      <workItem from="1523960856372" duration="2797000" />
+      <workItem from="1523986853867" duration="1526000" />
+      <workItem from="1524030543867" duration="1393000" />
+      <workItem from="1524083047425" duration="1503000" />
+      <workItem from="1524116537085" duration="1679000" />
+      <workItem from="1524135928437" duration="935000" />
+      <workItem from="1524202904058" duration="36000" />
+      <workItem from="1525179255657" duration="4887000" />
+      <workItem from="1525628678924" duration="779000" />
+      <workItem from="1525699763093" duration="33000" />
+      <workItem from="1525714554496" duration="588000" />
+      <workItem from="1525719544125" duration="599000" />
+      <workItem from="1525961784971" duration="40000" />
+      <workItem from="1527338700268" duration="2428000" />
+      <workItem from="1527342316394" duration="650000" />
+      <workItem from="1527343366531" duration="1817000" />
+      <workItem from="1527367680152" duration="18000" />
+      <workItem from="1531114799990" duration="3489000" />
+      <workItem from="1531201600339" duration="2722000" />
+      <workItem from="1531220643254" duration="496000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60693000" />
+    <option name="totallyTimeSpent" value="129838000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -341,11 +414,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32817337" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4969743" weight="0.74303406" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32662538" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4969743" weight="0.32662538" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1354009" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15355521" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -358,6 +431,7 @@
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Thumbnails" order="9" weight="0.32967034" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3287037" />
     </layout>
   </component>
@@ -368,31 +442,24 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main.rs">
+    <entry file="file://$PROJECT_DIR$/content/data/text_content.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/style/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2091">
-          <caret line="123" selection-start-line="123" selection-end-line="123" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/template/index.html.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/template/text.html.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        <state relative-caret-position="1428">
+          <caret line="726" column="46" selection-start-line="726" selection-start-column="46" selection-end-line="726" selection-end-column="46" />
+          <folding>
+            <element signature="e#18#4331#0" />
+            <element signature="e#4337#9336#0" />
+            <element signature="e#9342#14808#0" />
+            <element signature="e#14814#18473#0" />
+            <element signature="e#18479#22642#0" />
+            <element signature="e#22648#27764#0" />
+            <element signature="e#27770#33745#0" />
+            <element signature="e#33751#36472#0" />
+            <element signature="e#36478#40008#0" />
+            <element signature="e#40014#47923#0" />
+            <element signature="e#47929#53673#0" />
+            <element signature="e#53679#58626#0" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -603,13 +670,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cargo.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/data_type/data_type.rs" />
     <entry file="file://$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/rocket-0.3.3/src/config/config.rs">
       <provider selected="true" editor-type-id="text-editor">
@@ -632,31 +692,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/style/style.css">
+    <entry file="file://$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/handlebars-iron-0.26.2/src/middleware.rs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2091">
-          <caret line="123" selection-start-line="123" selection-end-line="123" />
+        <state relative-caret-position="-2278">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/template/photo.html.hbs">
+    <entry file="file://$PROJECT_DIR$/Rocket.toml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+        <state relative-caret-position="119">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/template/index.html.hbs">
+    <entry file="file://$PROJECT_DIR$/Cargo.toml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/template/text.html.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        <state relative-caret-position="170">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -676,22 +729,71 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main.rs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="238">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/mod.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_type/mod.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/template/index.html.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/template/text.html.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/style/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="84" column="20" selection-start-line="84" selection-start-column="20" selection-end-line="84" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/template/photo.html.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/data/text_content.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rocket.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        <state relative-caret-position="319">
+          <caret line="901" column="40" lean-forward="true" selection-start-line="901" selection-start-column="40" selection-end-line="901" selection-end-column="43" />
+          <folding>
+            <element signature="e#18#4331#0" />
+            <element signature="e#4337#9336#0" />
+            <element signature="e#9342#14808#0" />
+            <element signature="e#14814#18473#0" />
+            <element signature="e#18479#22642#0" />
+            <element signature="e#22648#27764#0" />
+            <element signature="e#27770#33745#0" />
+            <element signature="e#33751#36472#0" />
+            <element signature="e#36478#40008#0" />
+            <element signature="e#40014#47923#0" />
+            <element signature="e#47929#53673#0" />
+            <element signature="e#53679#58626#0" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -8,7 +8,11 @@
     </div>
     <div class="text-content all" style="display: none">
         {{#each paragraph}}
-            <p>{{this.paragraph}}</p>
+            <div class="author-container">
+                <div class="author {{this.author}}">
+                </div>
+                <p class="paragraph">{{this.paragraph}}</p>
+            </div>
             {{#if this.img1}}
                 {{> photo img1=this.img1 img2=this.img2 img3=this.img3}}
             {{/if}}

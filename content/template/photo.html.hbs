@@ -1,5 +1,20 @@
-<div class="photo-container">
-    <img class="item photo1" src="{{img1}}"/>
-    <img class="item photo2" src="{{img2}}"/>
-    <img class="item photo3" src="{{img3}}"/>
+{{#if  img3}}
+<div class="photo-container trio">
+    <img class="item photo1 trio" src="{{img1}}"/>
+    <img class="item photo2 trio" src="{{img2}}"/>
+    <img class="item photo3 trio" src="{{img3}}"/>
 </div>
+{{else}}
+    {{#if  img2}}
+    <div class="photo-container duo">
+        <img class="item photo1 duo" src="{{img1}}"/>
+        <img class="item photo2 duo" src="{{img2}}"/>
+    </div>
+    {{else}}
+        {{#if  img1}}
+        <div class="photo-container solo">
+            <img class="item photo1 solo" src="{{img1}}"/>
+        </div>
+        {{/if}}
+    {{/if}}
+{{/if}}

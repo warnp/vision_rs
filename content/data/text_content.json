@@ -2,20 +2,85 @@
   "data": [
     {
       "id": 1,
-      "title": "Arrivée au Pérou",
+      "title": "Jour 1 Arrivée au Pérou",
       "presentation": "Dimanche 10 septembre 2017 20h15 (heure péruvienne)",
       "content": [
         {
-          "paragraph": "Cam : Ca y est, on y est... On est au Pérou !!! Après 24h de transit aérien, nous voilà enfin arrivés en Amérique du Sud.\n Tout s’est bien enchaîné de Toulouse à Lima. J’ai découvert les vols long-courriers avec les films, les jeux (Tetris et la bataille navale ont eu un succès fou !), les infos du vol... et les délicieux repas... Pasta, chicken, pizza, sandwichs, de la haute gastronomie !\n Malheureusement Rominou a dû éviter le fromage/crème/lait en tout genre, d’où des sandwichs au pain ou des desserts en moins.\n Arrivés à Lima, c’était folklo d’attendre notre magnifique sac « The North Face » puis le retrait (ou plutôt les retraits) des Nuevo Sole aussi... 3 x 400 soles chacun, il fallait être patient.\n Nous avons eu l’agréable « surprise » ou confirmation de bien voir Gustavo nous attendre avec sa pancarte « ROMAIN CAMILLE ». Premiers mots espagnols...\n Romain s’en sort bien et moi je me dépatouille avec un mix d’anglais/italien/français et espagnol ! Nous sommes très étonnés de voir la conduite péruvienne. Il ne faut pas avoir peur de s’imposer ici. La loi du plus fort s’applique.\n Gustavo nous a déposés chez Anita, dame très gentille (autant que dans nos échanges de mails). A présent nous voilà posés sur le lit, un peu crevés de cette journée mais impatients de découvrir la suite !",
-          "img1": "/peru/images/1.jpg",
+          "author":"cam",
+          "paragraph": "Cam : Ca y est, on y est... On est au Pérou !!! ",
+          "img1": "",
           "img2": "",
           "img3": ""
         },
         {
-          "paragraph": "Romain : Ca y est, après une journée de voyage en avion, nous sommes arrivés à l’auberge à Lima. Nous sommes partis ce matin aux aurores, quittant Toulouse, puis l’Europe pour le continent Sud Américain. Même si pour moi ce n’est plus la première fois que je prends un long courrier cela reste une aventure.\n Après un vol qui m’a semblé une éternité nous voilà sur ce continent nouveau pour nous deux. Le temps n’est malheureusement pas au beau, c’est assez nuageux, certainement des entrées maritimes. Cependant il ne fait pas froid, c’est agréable.\n Une fois passés les contrôles des douanes et après avoir gagné un nouveau visa sur nos passeports, nous allons chercher notre « valise » (sac de voyage). C’est un peu l’attente mais nous parvenons à le récupérer sans problème.\n Après avoir retiré un peu de monnaie, nous nous mettons à la recherche de notre taxi Gustavo. Sur le trajet, nous commençons à avoir un aperçu de Lima de nuit. Tout d’abord la banlieue puis le centre plus historique et à nouveau la banlieue. Sur la route, c’est le bordel organisé. Pas une voiture n’est épargnée. Bien content de ne pas avoir à conduire là-dedans. Et enfin nous y voilà dans notre chambre chez Anita qui nous héberge.",
-          "img1": "/peru/images/1.jpg",
-          "img2": "/peru/images/2.jpg",
-          "img3": "/peru/images/3.jpg"
+          "author":"cam",
+          "paragraph": "Après 24h de transit aérien, nous voilà enfin arrivés en Amérique du Sud.",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        },
+        {
+          "author":"cam",
+          "paragraph": "Tout s’est bien enchaîné de Toulouse à Lima. J’ai découvert les vols long-courriers avec les films, les jeux (Tetris et la bataille navale ont eu un succès fou !), les infos du vol... et les délicieux repas... Pasta, chicken, pizza, sandwichs, de la haute gastronomie !",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        },
+        {
+          "author":"cam",
+          "paragraph": "Malheureusement Rominou a dû éviter le fromage/crème/lait en tout genre, d’où des sandwichs au pain ou des desserts en moins.",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        },{
+          "author":"cam",
+          "paragraph": "Arrivés à Lima, c’était folklo d’attendre notre magnifique sac « The North Face » puis le retrait (ou plutôt les retraits) des Nuevo Sole aussi... 3 x 400 soles chacun, il fallait être patient.",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        },{
+          "author":"cam",
+          "paragraph": "Nous avons eu l’agréable « surprise » ou confirmation de bien voir Gustavo nous attendre avec sa pancarte « ROMAIN CAMILLE ». Premiers mots espagnols...",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        },{
+          "author":"cam",
+          "paragraph": "Romain s’en sort bien et moi je me dépatouille avec un mix d’anglais/italien/français et espagnol ! Nous sommes très étonnés de voir la conduite péruvienne. Il ne faut pas avoir peur de s’imposer ici. La loi du plus fort s’applique.",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        },{
+          "author":"cam",
+          "paragraph": "Gustavo nous a déposés chez Anita, dame très gentille (autant que dans nos échanges de mails). A présent nous voilà posés sur le lit, un peu crevés de cette journée mais impatients de découvrir la suite !",
+          "img1": "/content/images/20170910_190010.jpg",
+          "img2": "",
+          "img3": ""
+        },
+        {
+          "author":"rom",
+          "paragraph": "Romain : Ca y est, après une journée de voyage en avion, nous sommes arrivés à l’auberge à Lima. Nous sommes partis ce matin aux aurores, quittant Toulouse, puis l’Europe pour le continent Sud Américain. Même si pour moi ce n’est plus la première fois que je prends un long courrier cela reste une aventure.",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        },{
+          "author":"rom",
+          "paragraph": "Après un vol qui m’a semblé une éternité nous voilà sur ce continent nouveau pour nous deux. Le temps n’est malheureusement pas au beau, c’est assez nuageux, certainement des entrées maritimes. Cependant il ne fait pas froid, c’est agréable.",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        },{
+          "author":"rom",
+          "paragraph": "Une fois passés les contrôles des douanes et après avoir gagné un nouveau visa sur nos passeports, nous allons chercher notre « valise » (sac de voyage). C’est un peu l’attente mais nous parvenons à le récupérer sans problème. ",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        },{
+          "author":"rom",
+          "paragraph": "Après avoir retiré un peu de monnaie, nous nous mettons à la recherche de notre taxi Gustavo. Sur le trajet, nous commençons à avoir un aperçu de Lima de nuit. Tout d’abord la banlieue puis le centre plus historique et à nouveau la banlieue. Sur la route, c’est le bordel organisé. Pas une voiture n’est épargnée. Bien content de ne pas avoir à conduire là-dedans. Et enfin nous y voilà dans notre chambre chez Anita qui nous héberge. ",
+          "img1": "",
+          "img2": "",
+          "img3": ""
         }
       ]
     },
@@ -25,16 +90,837 @@
       "presentation": "Lundi 11 septembre 2017 20h05",
       "content": [
         {
-          "paragraph": "Cam : Quelle bonne première journée ! Réveil vers 6h, décalage horaire oblige, on s’est reposé jusqu’à 8h. Heure qu’Ana nous avait indiquée pour le petit-déj. Une fois douchée (pour moi) et préparés (pour nous deux), nous sommes donc descendus manger (Romain avait bien faim). Ana nous a préparé un super petit-déj. Petits pains calientes, marmelade, avocats, patates douces en beignets... On a revu la française aperçue la veille à notre arrivée. Discussion très intéressante tous ensemble mais on ne s’est pas éternisés car Gustavo venait nous chercher pour nous emmener aux terminaux de bus : Direction Ica !\n Nous avons mis un moment pour comprendre comment on allait savoir que notre bus de 11h30 allait partir et où surtout.\n Une fois dans le bus, c’était le grand luxe, sièges inclinables, tablettes (comme dans l’avion), petits snacks. Nous avons observé le paysage, surprenant, varié, on a même vu l’Océan Pacifique.\n 15h30-16h, arrivés à Ica. Nous décidons de jouer la sécurité en choisissant le 1er taxi qui s’offre à nous dès la descente du bus. 20 minutes après nous étions à Banana’s adventure : Youhou !!!\n Superbe chambre, super cadre, réservation du tour en buggy demain à 10h. Nous nous installons et go en haut de la dune pour contempler le désert et son coucher de soleil, magnifique !\n Nous finissons cette journée par un très bon repas accompagné d’un Pisco Sour sur la terrasse. Une petite pause dans les hamacs et direction la chambre pour se reposer... musique à fond... on va sûrement tester les boules Quiès !",
-          "img1": "/peru/images/1.jpg",
+          "author":"cam",
+          "paragraph": "Cam : Quelle bonne première journée ! Réveil vers 6h, décalage horaire oblige, on s’est reposé jusqu’à 8h. Heure qu’Ana nous avait indiquée pour le petit-déj. Une fois douchée (pour moi) et préparés (pour nous deux), nous sommes donc descendus manger (Romain avait bien faim). Ana nous a préparé un super petit-déj. Petits pains calientes, marmelade, avocats, patates douces en beignets... On a revu la française aperçue la veille à notre arrivée. Discussion très intéressante tous ensemble mais on ne s’est pas éternisés car Gustavo venait nous chercher pour nous emmener aux terminaux de bus : Direction Ica !",
+          "img1": "/content/images/20170911_084639.jpg",
+          "img2": "",
+          "img3": ""
+        },{
+          "author":"cam",
+          "paragraph": "Nous avons mis un moment pour comprendre comment on allait savoir que notre bus de 11h30 allait partir et où surtout.",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        },{
+          "author":"cam",
+          "paragraph": "Une fois dans le bus, c’était le grand luxe, sièges inclinables, tablettes (comme dans l’avion), petits snacks. Nous avons observé le paysage, surprenant, varié, on a même vu l’Océan Pacifique.",
+          "img1": "/content/images/20170911_150928.jpg",
+          "img2": "",
+          "img3": ""
+        },{
+          "author":"cam",
+          "paragraph": "15h30-16h, arrivés à Ica. Nous décidons de jouer la sécurité en choisissant le 1er taxi qui s’offre à nous dès la descente du bus. 20 minutes après nous étions à Banana’s adventure : Youhou !!!",
+          "img1": "/content/images/DSCN3440.JPG",
+          "img2": "/content/images/DSCN3428.JPG",
+          "img3": "/content/images/20170911_165739.jpg"
+        },{
+          "author":"cam",
+          "paragraph": "Superbe chambre, super cadre, réservation du tour en buggy demain à 10h. Nous nous installons et go en haut de la dune pour contempler le désert et son coucher de soleil, magnifique !",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        },{
+          "author":"cam",
+          "paragraph": "Nous finissons cette journée par un très bon repas accompagné d’un Pisco Sour sur la terrasse. Une petite pause dans les hamacs et direction la chambre pour se reposer... musique à fond... on va sûrement tester les boules Quiès ! ",
+          "img1": "/content/images/20170911_184458.jpg",
           "img2": "",
           "img3": ""
         },
         {
-          "paragraph": "Romain : Après un réveil aux aurores dû au décalage horaire, nous avons pris un petit-déj en compagnie d’Anita composé de pains chauds, marmelade, avocats, patates douces et jus d’orange pressé. S’en est suivi une discussion à propos de notre périple à venir. \n Elle nous a ainsi donné pas mal de conseils et nous a contacté Gustavo pour aller prendre le bus pour Ica, notre prochaine destination. Après avoir pris les billets à la gare routière, Gustavo nous a abandonné. Ca y est, il va falloir assurer en espagnol. N’ayant jamais été très doué pour cette langue par manque d’intérêt, c’est le moment d’apprendre et se perfectionner. \n Nous attendons donc une bonne heure notre bus. Une fois les bagages en soute et nous à bord, nous découvrons un bus qui n’a rien à envier à un avion. On peut même y dormir sans trop de problème. Notre voyage nous fait traverser des banlieues, puis des déserts, passer près des plages et de l’océan, où ses eaux sont déchaînées. Arrivée à Ica, notre terminus, nous prenons le premier taxi pour Huacachina. \n Huacachina, c’est un peu une anomalie. Une lagune au milieu des dunes de sable de plusieurs centaines de mètres de haut avec ses hôtels, ses palmiers, des pédalos, des buggys des sables, des gens sur des sandboards. C’est bondé de touristes, ce n’est pas calme mais ça reste très sympa. Notre hôtel : Banana’s adventure, rien que le nom, c’est tout un programme, reste dans cet état d’esprit avec sa piscine, son bar qui sert un excellent Pisco Sour, le cocktail local ainsi que des plats très bons, ses hamacs et sa suite matrimoniale. Oui on s’est un peu lâché mais on se fait bien plaisir. En parlant de plaisir nous n’avons pas boudé celui de voir le soleil se coucher sur le désert, un très bon moment !",
-          "img1": "/peru/images/1.jpg",
-          "img2": "/peru/images/2.jpg",
-          "img3": "/peru/images/3.jpg"
+          "author":"rom",
+          "paragraph": "Romain : Après un réveil aux aurores dû au décalage horaire, nous avons pris un petit-déj en compagnie d’Anita composé de pains chauds, marmelade, avocats, patates douces et jus d’orange pressé. S’en est suivi une discussion à propos de notre périple à venir. ",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        },
+        {
+          "author":"rom",
+          "paragraph": "Elle nous a ainsi donné pas mal de conseils et nous a contacté Gustavo pour aller prendre le bus pour Ica, notre prochaine destination. Après avoir pris les billets à la gare routière, Gustavo nous a abandonné. Ca y est, il va falloir assurer en espagnol. N’ayant jamais été très doué pour cette langue par manque d’intérêt, c’est le moment d’apprendre et se perfectionner. ",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        },
+        {
+          "author":"rom",
+          "paragraph": "Nous attendons donc une bonne heure notre bus. Une fois les bagages en soute et nous à bord, nous découvrons un bus qui n’a rien à envier à un avion. On peut même y dormir sans trop de problème. Notre voyage nous fait traverser des banlieues, puis des déserts, passer près des plages et de l’océan, où ses eaux sont déchaînées. Arrivée à Ica, notre terminus, nous prenons le premier taxi pour Huacachina. ",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        },
+        {
+          "author":"rom",
+          "paragraph": "Huacachina, c’est un peu une anomalie. Une lagune au milieu des dunes de sable de plusieurs centaines de mètres de haut avec ses hôtels, ses palmiers, des pédalos, des buggys des sables, des gens sur des sandboards. C’est bondé de touristes, ce n’est pas calme mais ça reste très sympa. Notre hôtel : Banana’s adventure, rien que le nom, c’est tout un programme, reste dans cet état d’esprit avec sa piscine, son bar qui sert un excellent Pisco Sour, le cocktail local ainsi que des plats très bons, ses hamacs et sa suite matrimoniale. Oui on s’est un peu lâché mais on se fait bien plaisir. En parlant de plaisir nous n’avons pas boudé celui de voir le soleil se coucher sur le désert, un très bon moment !",
+          "img1": "/content/images/IMG_5847.JPG",
+          "img2": "/content/images/IMG_5857.JPG",
+          "img3": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Jour 3",
+      "presentation": "Mardi 12 septembre 2017 21h36",
+      "content": [
+        {
+          "author":"cam",
+          "paragraph": "Cam : Décalage horaire toujours un peu présent, nous nous réveillons vers 7h30. Ce qui nous permet de prendre le petit-déj (délicieux pancakes avec salade de fruits) tranquillement puis de faire le tour du lac et de remonter (un peu) les dunes pour admirer encore et encore ce bel oasis ! ",
+          "img1": "/content/images/IMG_5862.JPG",
+          "img2": "",
+          "img3": ""
+        },{
+          "author":"cam",
+          "paragraph": "A 10h nous sommes prêts pour la sortie en buggy. C’est à en couper le souffle ! La beauté du désert, les sensations dans le buggy sautant les dunes... c’est juste incroyable. Le pompon : le sandboard ! Faire du « surf/snow » sur le sable à plat ventre, c’est inédit et tellement fou ! On s’est bien amusé avec Rominou. Les photos et vidéos en témoigneront... ",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        },{
+          "author":"cam",
+          "paragraph": "Retour à Banana’s adventure, la gentille nana de l’accueil nous rassure en nous disant qu’on a le temps de prendre une douche malgré le check-out de 11h... ouf ! Car ce n’est pas du luxe tout le sable accumulé ! (jusque dans la culotte !). On prend même le temps de manger un burger. L’ambiance est si agréable qu’on a du mal à partir de cet endroit si magique. Puis direction Nazca, arrivés aux terminaux de bus, nous trouvons un bus à 14h (difficile de comprendre la nana d’ailleurs...). Nous arrivons vers 16h30 à Nazca. Ville qui a l’air plus calme qu’Ica. On se fait alpaguer par les taxis mais on décide d’aller à pied à l’hôtel (repéré sur notre précieux routard). Arrivés devant la porte de celui-ci, on était un peu inquiet car ça ne semblait pas très vivant mais nous avons eu rapidement une réponse de Fernando ! Youpi !",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        },{
+          "author":"cam",
+          "paragraph": "Nous posons nos affaires et repartons aussitôt au planetario. A 18h, il y avait une explication (en français) sur les lignes de Nazca. Très intéressant malgré l’absence de réelles explications trouvées pour l’origine de ces lignes. On a même visité la chambre de Maria Reich ! ",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        },{
+          "author":"cam",
+          "paragraph": "19h30 passé, la faim se fait sentir, on décide de tester El Cantado, très bon mais aussi très long ! Nous attendons une éternité nos deux verres de Tacama... mais ça valait le coup !",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        },{
+          "author":"cam",
+          "paragraph": "21h, on rentre se coucher car bonne journée et demain la journée s’annonce chargée aussi. On a réservé le survol des lignes auprès de Marcos (sur les conseils de Fernando). ",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        },{
+          "author":"cam",
+          "paragraph": "Départ 8h ! Le petit-déj sera pris après... la suite demain donc...",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        },
+        {
+          "author":"rom",
+          "paragraph": "Romain : Ce matin, réveil aux aurores, on commence à s’y habituer. Notre séance de buggy et sandboard n’est qu’à 10h. Il est 7h, nous avons donc le temps de déguster notre petit-déj à base de pancakes, fruits frais, jus d’orange pressé et thé. S’en suit une petite balade autour de la lagune à pied. ",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        },
+        {
+          "author":"rom",
+          "paragraph": "Arrive 10h, nous partons enfin direction les dunes en 4x4 façon madmax. Nous découvrons un paysage qui est bien plus étendu et vaste que nous pensions hier soir. Le sable et les dunes s’étendent à perte de vue, c’est à la fois minéral, vide, lunaire et magnifique. Il ne fait pas si chaud que ça pour le moment mais on sent que le soleil tape déjà très fort. Vient l’heure du sandboard, c’est rigolo, absolument pas dangereux. Il ne faut juste pas manger trop de sable. Plusieurs descentes sont au programme. Des petites et des grandes, on a bien rigolé et fait de belles prises de vues ! Cela nous permet de bien apprécier la hauteur des dunes. On doit sur certaine bien atteindre les 1000 mètres d’altitude, c’est réellement impressionnant ! ",
+          "img1": "/content/images/IMG_5869.JPG",
+          "img2": "/content/images/IMG_5877.JPG",
+          "img3": ""
+        },
+        {
+          "author":"rom",
+          "paragraph": "Retour à l’hôtel pour prendre une douche, manger un burger maison et prendre le taxi, puis le bus. Nous nous plaisions bien à Banana’s adventure, dommage. Après un trajet de 200 km vers Nazca, nous apercevons les premières lignes. Après notre arrivée et la réservation du survol de ces mêmes lignes, nous allons à l’observatoire pour en apprendre un peu plus. En fait, on en sait pas plus qu’au départ, mais on a encore plus envie de les voir maintenant. ",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        },
+        {
+          "author":"rom",
+          "paragraph": "Après avoir bu du Tacama local (vin rouge) et mangé du pollo, nous allons dormir pour nous lever tôt !",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Jour 5",
+      "presentation": "Jeudi 14 septembre 2017 9h17",
+      "content": [
+        {
+          "author":"cam",
+          "paragraph": "Cam : Nous n’avons pas eu le courage d’écrire notre journée du mercredi car nous sommes arrivés tard de Nazca. Tout de même un petit résumé aujourd’hui car c’était une superbe journée. Marco est venu nous chercher vers 8h, nous sommes passés acheter les billets de bus pour Arequipa et direction l’aéroport de Nazca. ",
+          "img1": "/content/images/IMG_5885.JPG",
+          "img2": "",
+          "img3": ""
+        },{
+          "author":"cam",
+          "paragraph": "Nous sommes montés dans un petit coucou de 8 places avec un pilote et un co-pilote supers sympas ! C’était vraiment magnifique ce vol, aussi bien pour le paysage que pour découvrir ces fameuses lignes. Le vol a duré 35 minutes et nous a même pas rendu malades, ouf ! Nous sommes ensuite rentrés via une navette chez Fernando où un super petit-déj nous attendait. Notre bus partant qu’à 14h, nous avons pris le temps de buller dans la jolie cour intérieure de Fernando. Il nous a d’ailleurs bien aidés pour réserver la nuit supplémentaire à Uspalay (Arequipa). Marco est passé nous chercher pour nous déposer aux terminaux de bus. S’en est suivi d’une longue attente pour le départ à 14h, puis le long trajet (avec tempête de sable impressionnante), avec l’attente de savoir si oui ou non nous allions avoir à manger... car on avait super faim (heureusement que le petit-déj était copieux). Nous avons fini par avoir un petit snack vers 19h, ouf ! ",
+          "img1": "/content/images/DSCN3462.JPG",
+          "img2": "/content/images/DSCN3469.JPG",
+          "img3": "/content/images/DSCN3486.JPG"
+        },{
+          "author":"cam",
+          "paragraph": "Puis dodo jusqu’à l’arrivée à Arequipa. Nous avons fait attention pour choisir le bon taxi... surtout à 1h du mat’ ! Il nous a déposés devant Uspalay et DODO ! La journée d’aujourd’hui suivra... ",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        },
+        {
+          "author":"rom",
+          "paragraph": "Romain : Un peu de retard aujourd’hui dans la rédaction du journal. Hier, nous avons pu apprécier les lignes de Nazca depuis le ciel. C’était féérique. Tout d’abord, nous sommes allés à l’aéroport de Nazca tôt le matin, nous sommes ensuite montés dans un petit avion de 8 places et nous avons pris les airs. Nous avons commencé par voir des lignes rectilignes puis des formes géométriques, elles-aussi parfaitement exécutées. Les lignes s’étendent sur des kilomètres et les formes mesurent parfois plusieurs centaines de mètres, c’est incroyable. Puis vient le survol de formes plus figuratives, tels que la baleine, l’astronaute, le colibri. C’est impressionnant de voir comment ces dessins se détachent par rapport à la couleur du sol. Le vol se déroule sans encombre, ça ne rend pas malade et les couleurs de paysages sont magnifiques. Après le survol des puits en spirales, eux aussi construits par les Nazcas, nous finissons par atterrir. Nous allons ensuite prendre notre petit déjeuner. Nous nous posons le reste de la matinée dans le jardin de l’hôtel. Nous prenons le bus pour un voyage de 10 heures vers Arequipa. Il va nous faire traverser une tempête de sable assez impressionnante. Nous finissons par arriver à Arequipa, 2300m, 1 million d’habitants. Nous verrons demain le décor car pour l’heure, il est presque 2h du matin. ",
+          "img1": "/content/images/IMG_5933.JPG",
+          "img2": "/content/images/IMG_5945.JPG",
+          "img3": "/content/images/IMG_5970.JPG"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Jour 5, Arrivée à Arrequipa",
+      "presentation": "Jeudi 14 septembre 2017 20h43",
+      "content": [
+        {
+          "author":"cam",
+          "paragraph": "Cam : Journée plus tranquille, petit-déj royal sur la terrasse d’Uspalay avec les montagnes/ volcans et les toits des habitations en première vue !",
+          "img1": "/content/images/20170914_083353.jpg",
+          "img2": "",
+          "img3": ""
+        },{
+          "author":"cam",
+          "paragraph": "Ensuite nous partons visiter le monastère de Santa Catalina. Frida nous fait une visite guidée en français très intéressante et le monastère est magnifique avec ses cours, ses murs colorés et cela toujours avec les volcans nous entourant. On s’y sent tellement bien qu’on décide de manger dans la petite cafétéria dotée d’un jardin très soigné. Nous avons les yeux plus gros que le ventre... 2 sandwichs, 1 omelette, des boulettes maniocs/fromage... Nous voilà remplis pour un moment.",
+          "img1": "/content/images/DSCN3541.JPG",
+          "img2": "/content/images/DSCN3533.JPG",
+          "img3": "/content/images/20170914_123208.jpg"
+        },{
+          "author":"cam",
+          "paragraph": "Ensuite visite du musée Sanctuarios Andinos avec la fameuse histoire de la momie Juanita. Nous arpentons bien Arequipa, on se pose même goûter la bière péruvienne dans une ruelle très agréable. On fait les boutiques de laines d’alpagas. Nous retournons nous poser un peu à l’hôtel puis repartons dîner. Ne trouvant pas le restau vu sur le routard, nous finissons dans la crêperie de l’alliance française. Crêpes super bonnes et Pisco Sour bien dosé... mais le repas de midi nous a tellement calés que nous n’avons malheureusement plus de place pour goûter les crêpes sucrées. Retour à l’hôtel assez tôt, nous passons devant la place des armes (trop beau) et maintenant dodo pour être en forme pour le départ au Canyon del Colca... à 7h30 !",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        },
+        {
+          "author":"rom",
+          "paragraph": "Romain : Aujourd’hui journée repos à Arequipa. Le choix de partir plus tôt de Nasca a été bénéfique. Nous avons pu faire une vraie nuit à l’hôtel. Au réveil, sur la terrasse de l’hôtel pour notre petit déjeuner, nous découvrons Arequipa, très étendue, ainsi que le Misti et le Chachani, deux volcans emblématiques culminants à 6000m. Le tout sous un ciel bleu. Nous commençons notre visite de la ville par le cloître de Santa Catalina (Camille me dit que c’est un monastère), fondé au XVIe siècle et actuellement le plus grand du monde. C’est une véritable ville dans la ville. Derrière ses énormes murailles, il y a des maisons, des rues, 3 cloîtres, des jardins, des places. C’est magnifique, le tout dans une architecture mêlant constructions incas et espagnoles, plus résistantes aux séismes. Nous avons mangé au sein même du couvent de copieux sandwichs, omelettes et des boulettes maniocs/fromages pour un prix dérisoire. Nous avons ensuite enchaîné avec la visite du musée Sanctuarios Andinos abritant Juanita, une momie retrouvée suite à la fonte d’un glacier lors d’une éruption. Ensuite, nous sommes allés boire une bière Cusqueña dans une rue piétonne à l’architecture typique d’Arequipa. Nous sommes allés voir la Compañia, une église baroque que le syncrétisme n’effraie pas. Sa chapelle magnifiquement décorée et ses cloîtres en font un petit bijou. Nous en avons profité pour faire l’acquisition de bonnets péruviens. Et enfin nous sommes allés voir l’église San Francisco pour revenir à l’hôtel.",
+          "img1": "/content/images/IMG_6061.JPG",
+          "img2": "/content/images/IMG_6039.JPG",
+          "img3": "/content/images/IMG_20170914_144208176.jpg"
+        },
+        {
+          "author":"rom",
+          "paragraph": "Nous avons fini notre journée à Crepissimo, une crêperie dans la cour de l’alliance française où nous avons dégusté Pisco Sour et crêpes excellentes avant de faire une partie de Jenga et de faire un tour sur la terrasse du restau.  ",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Jour 6",
+      "presentation": "Vendredi 15 septembre 2017 21h45",
+      "content": [
+        {
+          "author":"cam",
+          "paragraph": "Cam : Waouh quelle belle journée ! Elle a débuté à 6h30 avec un petit-déj pris rapidement sur la belle terrasse dominant Arequipa. Nous sommes descendus devant l’hôtel car Tradicion Colca passait nous prendre entre 7h30 et 8h. Bon on avait un peu de temps car le guide Armando est arrivé vers 8h15... Super moyen bus d’une vingtaine de places. On était assis à côté du couple de Parisiens avec le mari équipé d’une montre altimètre... on a pu suivre notre ascension discrètement. On a fait plusieurs STOP magnifiques : pour les vigognes, les lamas, les alpagas et le paysage à couper le souffle ! ",
+          "img1": "/content/images/DSCN3635.JPG",
+          "img2": "/content/images/DSCN3640.JPG",
+          "img3": "/content/images/20170915_120430.jpg"
+        },{
+          "author":"cam",
+          "paragraph": "Malheureusement il faisait trop moche lorsque l’on est passé aux balcones de los volcanes (4910m), le guide nous a dit qu’on retentera demain, croisons les doigts. L’altitude nous a pas affecté (au plus, un léger mal de tête). Nous nous sommes activement convertis au mate de coca ! On en boit dès qu’on peut.",
+          "img1": "/content/images/20170915_112643.jpg",
+          "img2": "",
+          "img3": ""
+        },{
+          "author":"cam",
+          "paragraph": "Nous sommes arrivés vers 14h au Tradicion Colca, superbe hôtel ! La pluie était aussi au rendez-vous... Après un bon repas (soupe, poulet, patates et fromages, pancake banane confiture), nous sommes partis en randonnée avec une guide en direction du canyon et d’Uyo Uyo. C’était magique de se promener dans ce cadre et cela malgré la pluie. Notre rando s’est terminée aux sources d’eau chaude. Agréable découverte pour tous les deux ! Ensuite retour en taxi au Tradicion. Super bon repas, lomo saltado d’alpaca très goûtu. Sur les conseils d’Emmanuel, le gérant du complexe, nous avons réservé notre bus et notre hôtel pour Cusco demain... la connexion WIFI nous a bien agacé mais c’est tout bon, nous allons pouvoir dormir sereinement. A demain ! ",
+          "img1": "/content/images/20170915_142443.jpg",
+          "img2": "/content/images/DSCN3686.JPG",
+          "img3": "/content/images/DSCN3717.JPG"
+        },
+        {
+          "author":"rom",
+          "paragraph":"Romain : C’est le jour du départ pour le Canyon del Colca. Le bus passe nous prendre à 8h devant l’hôtel. S’en suit une longue ascension autour du volcan Chachani. Premier palier à 3400m d’altitude pour prendre des photos dans les salines. Nous voyons des vigognes. Nous continuons vers un autre arrêt pour boire du mate de Coca. Ca fait du bien pour l’altitude. Ces paysages sont magnifiques. Les volcans, l’altiplano. Un autre arrêt pour aller gratouiller des alpagas et des lamas. Plus nous continuons à rouler et plus le temps se fait menaçant, il commence à pleuvoir. Nous arrivons au col le plus haut du voyage : 4900m, c’est le mirador de los volcanes, malheureusement, il fait tellement mauvais qu’on ne peut pas s’arrêter. ",
+          "img1":"/content/images/DSCN3677.JPG",
+          "img2":"",
+          "img3":""
+        },
+        {
+          "author":"rom",
+          "paragraph": "Nous descendons ensuite vers le canyon de Colca. Nous arrivons dans un des villages, nommé Chivay, qui est la porte d’entrée du canyon. Notre bus nous dépose à Yanque, à Tradicion Colca, notre hôtel lodge. Après avoir mangé un rapide repas, nous partons en rando dans le canyon. Dans un premier temps, nous traversons le village de Yanque puis nous arrivons dans un amphithéâtre où les Collagas (un peuple préinca conquis par les incas, toute une histoire) a construit un laboratoire pour les récoltes avec des champs en terrasses. Nous continuons et traversons un pont suspendu d’où on peut apercevoir, dans les falaises du Rio Colca, des greniers à grains construits par les Collagas. Nous poursuivons notre ascension à travers les champs en terrasse pour arriver au village d’Uyo Uyo, dont il ne reste que des ruines car il a été incendié par les Espagnols. C’est très intéressant et émouvant. Depuis là on voit une cascade qui n’est autre que la source de l’Amazonie.",
+          "img1": "/content/images/IMG_6092.JPG",
+          "img2": "/content/images/IMG_6120.JPG",
+          "img3": "/content/images/IMG_6130.JPG"
+        },
+        {
+          "author":"rom",
+          "paragraph": "Après une description architecturale des lieux par le guide, nous descendons pour la dernière étape de notre trek. J’ai nommé les bains d’eau chaude. Une véritable bénédiction après notre rando sous la pluie (car oui il a plu toute la journée). Un moment magique ! ",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        },
+        {
+          "author":"rom",
+          "paragraph": "Nous prenons le taxi pour rentrer au lodge et prendre un bon repas au coin du feu. ",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Jour 8",
+      "presentation": "Dimanche 17 septembre 2017 21h20",
+      "content": [
+        {
+          "author":"cam",
+          "paragraph": "Cam : Nous avons pris du retard dans la rédaction de notre cher carnet ! Nous allons nous mettre à jour tout de suite !",
+          "img1": "/content/images/20170916_062422.jpg",
+          "img2": "",
+          "img3": ""
+        },{
+          "author":"cam",
+          "paragraph": "Hier réveil à 5h45 pour être prêts à 6h50. Départ pour l’excursion dans le canyon del Colca. Encore un trop bon petit-déj buffet, pancakes, jus de fruits pressés, mate de Coca. A l’arrivée du bus, nous sommes sur les starting-blocks. Direction pour la Cruz del Condor avec arrêts le long de la route. Nous avons pu voir et photographier plein de condors, c’était génial. Le paysage était encore une fois sensationnel. Les autres arrêts se sont fait sur la place principale de Yanque, celle de Maca, le long du canyon. Trop bien ! Ce petit tour s’est terminé par un très bon repas buffet à Chivay. Puis retour à Arequipa. Nous sommes repassés par le mirador de los volcanes mais nous n’avons pas eu plus de chance avec  le temps... nous n’avons pas pu nous arrêter ! Dommage ! ",
+          "img1": "/content/images/DSCN3757.JPG",
+          "img2": "/content/images/DSCN3762.JPG",
+          "img3": "/content/images/DSCN3810.JPG"
+        },{
+          "author":"cam",
+          "paragraph": "Le minibus avec Armando nous a déposés dans le centre d’Arequipa vers 16h30, ce qui nous a laissé beaucoup de temps avant le départ pour Cusco (20h). Nous sommes retombés sur Crepissimo... nous avons craqué pour des crêpes sucrées (mangue, sucre, miel) et une bière artisanale. Magnifique ! ",
+          "img1": "/content/images/20170916_172932.jpg",
+          "img2": "",
+          "img3": ""
+        },{
+          "author":"cam",
+          "paragraph": "Un taxi est venu nous récupérer pour nous amener au Terrapuerto (Terminal de bus). Nous avons attendu sagement notre départ à 20h. Puis c’est parti pour 10h de bus. Heureusement les bus Cruz del Sur sont très confortables. A 21h, on a même eu un plateau repas. La suite... après Romain ! ",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        },
+        {
+          "author":"rom",
+          "paragraph": "Romain : Hier nous avons quitté Tradicion Colca de bonne heure pour prendre le bus en direction de la Cruz del Condor en suivant une route dans le canyon del Colca. Nous faisons de nombreux arrêts pour admirer le paysage grandiose, cette fois-ci baigné par le soleil. Nous finissons par arriver à la croix du condor. Ce paysage est magnifique avec des gorges de 3000m de profondeur. C’est impressionnant ! Nous attendons un peu et dès que le soleil réapparaît, les condors s’envolent, ils sont très grands et très beaux à planer paisiblement, c’est époustouflant avec les montagnes en fond.",
+          "img1": "/content/images/IMG_6152.jpg",
+          "img2": "/content/images/IMG_6177.JPG",
+          "img3": "/content/images/IMG_6192.JPG"
+        },
+        {
+          "author":"rom",
+          "paragraph": " Nous finissons par repartir, nous faisons une pause à Maca où nous profitons de l’ombre sur la Plaza des armas et de l’église.  Nous mangeons ensuite à  Chivay pour ensuite revenir à Arequipa. ",
+          "img1":"/content/images/IMG_6230.JPG",
+          "img2":"/content/images/IMG_6229.JPG",
+          "img3":"/content/images/colca_pano1.jpg"
+        },
+        {
+          "author":"rom",
+          "paragraph": "Sur le chemin nous pensions nous arrêter au mirador de los volcanes mais le temps est pire que la veille, il neige même. Nous faisons donc un trajet sans histoire à Arequipa. ",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        },
+        {
+          "author":"rom",
+          "paragraph": "En attendant de prendre le bus pour Cusco, nous faisons une pause crêpes à l’alliance Française où il y a un spectacle d’art de rue. C’est très sympa. ",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        },
+        {
+          "author":"rom",
+          "paragraph": "Après avoir  fait appeler un taxi, nous nous rendons à la gare terrestre pour prendre notre bus pour Cusco de nuit. Le voyage doit nous permettre de faire les 600km en dormant. Sauf que je dors très mal. Nous arrivons vers 7h à l’hôtel de Cusco. Malheureusement notre réservation a été annulée car nous sommes arrivés trop tard. Cependant nous pouvons quand même prendre une chambre et laisser nos affaires le temps que cette dernière soit préparée. ",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        },
+        {
+          "author":"rom",
+          "paragraph": "Cela nous permet de visiter Cusco de bonne heure, de prendre des photos tout seul devant la pierre aux douze angles et de prendre un bon petit déjeuner. ",
+          "img1": "/content/images/IMG_6245.JPG",
+          "img2": "",
+          "img3": ""
+        },
+        {
+          "author":"rom",
+          "paragraph": "On est dimanche, c’est donc la fête et le défilé, c’est très impressionnant. ",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        },
+        {
+          "author":"rom",
+          "paragraph": "Nous revenons à l’hôtel pour prendre une douche. Nous repartons manger au restaurant. Ensuite nous décidons d’aller voir des ruines Incas au dessus de Cusco, sauf que la pluie s’en mêle. Nous repartons chercher des affaires étanches à l’hôtel. Nous arrivons enfin au site. Ces murailles faites de blocs de pierre sont gigantesques et ne tiennent sans aucun ciment, c’est très impressionnant. Nous finissons la journée en allant dans un super restaurant Inkazuela, où j’ai pu déguster du cochon d’Inde ! ",
+          "img1": "/content/images/IMG_6305.JPG",
+          "img2": "/content/images/IMG_6279.JPG",
+          "img3": "/content/images/cusco_pano.jpg"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Jour 9",
+      "presentation": "Lundi 18 septembre 2017 9h35",
+      "content": [
+        {
+          "author":"cam",
+          "paragraph":"Cam : Je n’ai pas réussi à rester éveillée le temps que Romain écrive sa partie. Je la fais donc maintenant avant de partir en visites. Hier nous sommes arrivés vers 7h d’Arequipa, nous étions fatigués et avions envie de faire une sieste et de prendre une bonne douche. Malheureusement notre chambre d’hôtel n’était plus disponible du fait de notre arrivée « tardive ». On nous a dit de revenir vers 10h. Patience pour la douche et la sieste ! Mais nous avons pu arpenter Cusco presque seuls, on se sentait privilégiés.",
+          "img1":"/content/images/DSCN3896.JPG",
+          "img2":"/content/images/DSCN3881.JPG",
+          "img3":"/content/images/DSCN3888.JPG"
+        },
+        {
+          "author":"cam",
+          "paragraph": "On a vu aussi une fête se préparer sur la place des armes. ",
+          "img1": "/content/images/DSCN3921.JPG",
+          "img2": "/content/images/DSCN3924.JPG",
+          "img3": "/content/images/DSCN3916.JPG"
+        },{
+          "author":"cam",
+          "paragraph": "10h nous revoilà chez Mamma Cusco avec une dame (la Mamma) très rigolote qui nous appelle Mi amor à chaque fin de phrase. Elle essaye aussi de nous apprendre l’espagnol. Nous finissons par avoir notre chambre. Direction douche !!! Moment très drôle car douche froide-tiède avec la Mamma qui nous criait « à gauche » pour avoir de l’eau chaude. Ca nous a fait du bien. On s’est posé un peu et nous sommes repartis pour aller manger. Resto très sympa sur un balcon. Par contre le temps tourne et laisse place à de la pluie. On décide de partir quand même à Sacsayhuaman (sanctuaire sur un promontoire). On fait rapidement demi-tour pour aller chercher nos affaires étanches à l’hôtel. Puis nous voilà repartis. Ca s’est calmé en route. Super beau site, immense, impressionnant de se dire que ça a été construit sans roues... Nous finissons notre visite vers 17h-17h30. La nuit commence à tomber. Retour à l’hôtel, nous réservons le train pour le Machu Picchu et nous reposons un peu. Nous partons à Inkazuela, trop bon resto. Je goûte enfin le fameux ceviche de truite aux piments péruviens... très bon mais je me laisse surprendre par le piquant +++ de ces piments ! ",
+          "img1": "/content/images/DSCN3936.JPG",
+          "img2": "/content/images/DSCN3945.JPG",
+          "img3": "/content/images/DSCN3984.JPG"
+        },{
+          "author":"cam",
+          "paragraph": "Retour à l’hôtel assez fatigués, rédaction du carnet puis dodo !",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Jour 9",
+      "presentation": "Lundi 18 septembre 2017 20h50",
+      "content": [
+        {
+          "author":"cam",
+          "paragraph": "Cam : Journée plus classique : réveil vers 8h, petit-déj chez Mamma Cusco puis c’est parti pour visiter Cusco. Nous avons dans un premier temps retiré et acheté le boleto turistico pour les 16 sites de la vallée sacrée. ",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        },{
+          "author":"cam",
+          "paragraph": "Ensuite nous sommes partis visiter le musée du Machu Picchu, super intéressant et ça nous a rendu impatients de voir le site en vrai. Pour le repas, nous avons mis un moment pour trouver un resto, la Caverne del Oriente notamment qui ouvrait qu’à 16h. Nous avons donc opté pour un resto à côté, ça faisait l’affaire. ",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        },{
+          "author":"cam",
+          "paragraph": "Puis direction le Convento de Santo Domingo et le temple du soleil. Surprenant de voir un tel monument bâti sur un temple inca. Pour finir cette journée, nous avons visité le musée de l’art précolombien avec de supers objets des Mochicas, des Chimus, des Nascas, des Incas... super ! ",
+          "img1": "/content/images/DSCN4009.JPG",
+          "img2": "/content/images/DSCN4013.JPG",
+          "img3": "/content/images/DSCN4019.JPG"
+        },{
+          "author":"cam",
+          "paragraph": "Retour à l’hôtel vers 18h, repos et prévisions pour la suite de notre circuit.",
+          "img1": "/content/images/DSCN4033.JPG",
+          "img2": "/content/images/DSCN4036.JPG",
+          "img3": "/content/images/DSCN4039.JPG"
+        },{
+          "author":"cam",
+          "paragraph": "Dîner au Pachapapa, une super bonne pizza avec du jambon d’alpaga et enfin de la Chicha Morada. Retour à l’hôtel assez tôt pour être en forme demain. ",
+          "img1": "/content/images/20170918_193729.jpg",
+          "img2": "/content/images/20170918_202113.jpg",
+          "img3": ""
+        },
+        {
+          "author":"rom",
+          "paragraph": "Romain : Aujourd’hui, nous avons décidé de nous reposer, nous avons donc commencé notre journée qu’aux alentours de 9h. Après un petit déjeuner à l’hôtel, nous sommes allés acheter le ticket pour visiter les différents monuments de la vallée sacrée, puis nous sommes allés à la Casa Concha, un musée pour en apprendre plus sur la Machu Picchu. Très intéressant avec sa maquette et sa collection d’objets Inca. Après être allé manger du côté de la place San Blas et être allé retirer les billets de train, nous sommes allés visiter le Convento de Santo Domingo qui est un couvent bâti sur un ancien temple du Soleil Inca. L’intérieur mêle les deux architectures, c’est assez étrange. Nous continuons notre journée au Museo del arte precolombino. Il s’y trouve une superbe collection d’objets divers (principalement des poteries et des objets en argent/or/bronze). Ces objets sont tous de très bonnes factures. C’est très beau !",
+          "img1": "/content/images/IMG_6309.JPG",
+          "img2": "/content/images/IMG_6311.JPG",
+          "img3": "/content/images/IMG_6314.JPG"
+        },
+        {
+          "author":"rom",
+          "paragraph": "Après être retourné à l’hôtel et avoir préparé les prochains jours, nous finissons au restaurant Pachapapa où nous dégustons du lama et de la Chicha au son d’une harpe.",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Jour 10",
+      "presentation": "Mardi 19 septembre 2017 20h07",
+      "content": [
+        {
+          "author":"cam",
+          "paragraph": "Cam : Journée riche en émotions... diverses et variées. ",
+          "img1": "/content/images/DSCN4043.JPG",
+          "img2": "",
+          "img3": ""
+        },{
+          "author":"cam",
+          "paragraph": "Réveil assez tôt pour pouvoir passer le plus de temps possible dans la vallée sacrée. Petit-déj, deposito de nos equipaje, réservation de notre nuit du jeudi au vendredi et nous voilà partis à la recherche d’un collectivo en direction de Pisac... Chaque personne interpellée par Romain nous indiquait des chemins différents pour le terminal... ça n’en finissait plus ! Heureusement un gentil cusqueño nous a arrêté un taxi et lui a demandé de nous emmener à ce fameux terminal ! On a pu avoir le collectivo de 8h45-9h, ouf ! Nous sommes arrivés 1h environ après à Pisac. Les taxis nous attendaient pour nous emmener aux ruines, parfait ! ",
+          "img1":"",
+          "img2":"",
+          "img3": ""
+        },{
+          "author":"cam",
+          "paragraph": "En route, je réalise que je n’ai pas pris les billets du Machu Picchu, restés dans le sac laissé chez Mamma Cusco !!! AAAHhhhhh ! Heureusement nous nous rassurons en repensant à nos scans envoyés sur nos boîtes mail. Il ne restera plus qu’à trouver une connexion + une imprimante sinon on optera pour un A/R à Cusco. Pour l’heure, nous essayons de profiter au maximum de ce site grandiose des ruines de Pisac. Il y a des choses à voir de partout ! Après l’avoir bien parcouru, nous prenons le chemin qui nous ramène au village de Pisac. Très bonne idée car nous voyons encore plein d’autres ruines. 12h30-13h nous voilà en bas ! Nous cherchons un resto doté d’une connexion wifi, Blue Lama nous convient ! De bons sandwichs engloutis et des pdf de billets téléchargés, nous voilà maintenant en quête d’une imprimante. Le restaurateur nous indique un endroit, nous y allons de ce pas. Une gentille dame avec sa petite fille (10 mois) laisse Romain gérer l’impression. ",
+          "img1": "/content/images/DSCN4047.JPG",
+          "img2": "/content/images/DSCN4050.JPG",
+          "img3": "/content/images/DSCN4077.JPG"
+        },{
+          "author":"cam",
+          "paragraph": "14h, nous avons à nouveau les billets pour le Machu Picchu, youpi ! Nous partons à la recherche d’un collectivo pour Urubamba, rapidement trouvé. C’est à Urubamba que ça se recomplique, nous galérons pour trouver un taxi qui veuille nous emmener à Moray, Maras, Salineras de Maras... Nous tombons sur une dame en motocyclette qui se propose de nous emmener. 40 min pour les Salines ? ",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        },{
+          "author":"cam",
+          "paragraph": "Ok, on choisit ça car l’heure tourne. Voyage très surprenant, angoissant mais au final satisfaisant, nous arrivons aux salines. Époustouflant !!!",
+          "img1": "/content/images/DSCN4106.JPG",
+          "img2": "/content/images/DSCN4109.JPG",
+          "img3": "/content/images/DSCN4122.JPG"
+        },{
+          "author":"cam",
+          "paragraph": "C’est grandiose tous ces bassins en terrasse. Nous en profitons bien puis prenons le chemin qui descend vers la route Urubamba-Ollantaytambo, à Tarabamba. Arrivés à Tarabamba, nous guettons les collectivos. Finalement un taxi s’arrête et hop c’est parti pour Ollantaytambo. Le taxi galère à trouver notre hôtel, mais nous finissons par y arriver. On pose nos affaires et partons directement manger. Resto très bon avec une formule imbattable : soupe quinoa – poulet sauce riz patates – brownie pour 22 S (5,5€). Ca nous requinque bien ! ",
+          "img1": "/content/images/20170919_192110.jpg",
+          "img2": "",
+          "img3": ""
+        },{
+          "author":"cam",
+          "paragraph": "Maintenant dodo pour être en forme demain car train pour Aguas Calientes à 8h ! ",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        },
+        {
+          "author":"rom",
+          "paragraph": "Romain : Aujourd’hui nous partons pour la vallée sacrée ! Après un petit-déj sommaire et avoir laissé une partie de nos affaires à l’hôtel, nous partons pour aller prendre un collectivo (un bus populaire). C’est bien il fait beau et chaud, ça faisait longtemps surtout que la douche du matin a été plutôt glaciale. Nous arrivons au point marqué sur le plan pour prendre le collectivo... et rien ! Nous demandons aux policiers et à des conducteurs de bus dans le coin. Nous finissons par prendre un taxi qui nous amène au terminal qui était en fait très loin. Nous sommes pile à l’heure. Nous voilà parti pour Pisac, notre première destination dans la vallée sacrée. Arrivés à Pisac, nous prenons un taxi pour aller aux ruines Inca. Elles sont perchées en haut d’une montagne surplombant des champs en terrasse. Il y a plusieurs villages, c’est assez impressionnant surtout que la montagne est assez à pic. ",
+          "img1": "/content/images/IMG_6326.JPG",
+          "img2": "/content/images/IMG_6329.JPG",
+          "img3": "/content/images/IMG_6340.JPG"
+        },
+        {
+          "author":"rom",
+          "paragraph":"Nous faisons le tour des ruines principales mais il y a beaucoup de monde. Nous décidons de prendre un sentier pour rejoindre Pisac. Là par contre il y a personne. On traverse d’autres villages, des champs en terrasse, ils sont là pour nous tout seul, c’est très sympa. Le sentier lui aussi est très impressionnant avec une pente assez effrayante. Notre descente dure environ 1h45. ",
+          "img1":"/content/images/IMG_6353.JPG",
+          "img2":"/content/images/IMG_6362.JPG",
+          "img3":"/content/images/IMG_6365.JPG"
+        },
+        {
+          "author":"rom",
+          "paragraph":"Nous arrivons dans le marché d’objets d’artisanats locaux. Après quelques emplettes, nous allons manger au Blue lama, un petit restaurant snack très sympa. Après être passé par un cyber café pour réimprimer les billets du Machu Picchu (toute une histoire), nous reprenons un collectivo pour Urubumba, un peu plus loin dans la vallée. Arrivés là, le village n’est malheureusement pas très beau comparé au reste de la vallée. Nous cherchons un moyen d’aller à Maras, tout y passe, taxi sans chauffeur, gare de collectivos introuvable... Nous finissons par tomber sur une moto tricycle taxi qui nous conduit  vaillamment jusqu’à Maras plus haut dans la montagne et nous amène même jusqu’aux Salines. On ne savait pas trop si l’engin à trois roues en serait capable mais si, et sa conductrice a bien géré la piste très impressionnante. Nous voilà à un endroit assez méconnu mais très beau du Pérou, au sein d’une gorge baignée de soleil le matin et en début d’après-midi, se dressent les Salineras de Maras. Le sel provient d’une source d’eau tiède... salée, chauffée par le volcanisme. Cette eau est ensuite acheminée via des canaux dans des petits bassins pour ensuite s’évaporer et laisser le sel. On dirait de la neige. L’endroit est assez magique. Nous descendons ensuite à pied pour 45 min et après avoir traversé un pont pas forcément des plus rassurants, nous arrivons à Tarabamba. ",
+          "img1":"/content/images/IMG_6380.JPG",
+          "img2":"/content/images/IMG_6391.JPG",
+          "img3":"/content/images/IMG_6408.JPG"
+        },
+        {
+          "author":"rom",
+          "paragraph":"Nous attendons sur le bord de la route un collectivo mais c’est finalement en taxi qui nous amène à Ollantaytambo. Nous peinons à trouver l’hôtel mais une fois à l’intérieur celui-ci est plein de charme. Une fois installés, nous allons au restaurant pour déguster une formule traditionnelle péruvienne à base de quinoa, poulet, pommes de terre et cacao. ",
+          "img1":"",
+          "img2":"",
+          "img3":""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Jour 11",
+      "presentation": "Mercredi 20 septembre 2017 22h50",
+      "content": [
+        {
+          "author":"cam",
+          "paragraph": "Cam : réveil à 6h pour se préparer et prendre le petit-déj tranquillement avant d’aller prendre le train pour Aguas Calientes à 8h30. 8h nous voilà partis en direction de la gare, nous embarquons sans problème à bord d’un super train fraîchement rénové. Le trajet est très joli. La végétation est luxuriante. Nous arrivons vers 10h à Aguas Calientes, village ultra touristique du Machu Picchu sans grand intérêt. Nous galérons même à trouver le commencement du chemin montant au site ! Les bizus ! En achetant nos sandwichs à « la Boulangerie de Paris », le gérant français nous indique qu’il faut longer la rivière puis le chemin commence. C’est  parti ! Et au bout de plusieurs marches de tailles différentes, nous comprenons mieux ce qui nous attend... de la grosse montée ! Au bout d’1h20 nous finissons par arriver (exténués !). Nous prenons le temps de souffler et de manger notre casse-croûte. 12h50, nous essayons de rentrer sur le site, le gars nous dit « pas avant 13h... ». Un autre gars nous interpelle vers 12h55 pour nous faire passer et finalement non car « pas avant 13h... », Pointilleux ces Péruviens ! ",
+          "img1": "/content/images/DSCN4141.JPG",
+          "img2": "/content/images/DSCN4142.JPG",
+          "img3": "/content/images/DSCN4153.JPG"
+        },{
+          "author":"cam",
+          "paragraph": "Enfin 13h et c’est parti ! La découverte du site est magique. Ca y est, nous sommes au Machu Picchu ! Étant encore chauds de la montée qui n’en finissait plus, nous décidons de poursuivre notre ascension vers la porte du Soleil. C’est trop beau. Puis nous arpentons au maximum le site. Photos, selfies, 360°, tout y passe pour immortaliser ce moment ici. 17h, le site ferme. Nous rachetons de l’eau et ne voulant pas subir la queue pour les bus, nous reprenons notre cher chemin vers Aguas Calientes. A la descente, c’est nettement moins dur. Au bout d’une heure, nous arrivons et cherchons un resto  pas trop mal pour manger et patienter jusqu’à 20h50 (train pout Ollantaytambo). Ca passe assez vite. Nous voilà à nouveau dans le train face à un couple de L.A qui nous questionne sur notre voyage, notre vie... très sympa ! Rominou est content de parler anglais. 22h30, nous arrivons à Ollantaytambo et filons à notre hôtel pour un dodo amplement mérité !  ",
+          "img1": "/content/images/DSCN4159.JPG",
+          "img2": "/content/images/DSCN4210.JPG",
+          "img3": "/content/images/DSCN4180 (2).JPG"
+        },
+        {
+          "author":"rom",
+          "paragraph": "Romain : Après avoir pris un petit-déj à l’hôtel, nous filons à la gare pour aller prendre le train. Après quelques minutes d’attente, le train arrivant de Cusco est pile à l’heure. Nous embarquons rapidement. Le train se met en route, il ne va pas bien vite, on peut bien apprécier le paysage. Très vite nous sortons de la ville et les maisons sont de plus en plus espacées. Les montagnes autour de nous se font elles plus abruptes. Nous suivons le Rio Urubamba. Plus on avance et plus la végétation se transforme. Désertique au départ, elle devient tropicale, tout devient plus vert, le changement est radical. Plus tard nous arrivons à Aguas Calientes. C’est la ville du Machu Picchu, coincée entre les montagnes et le Rio. Les seuls véhicules présents sont les bus et les trains. On se demande comment les premiers sont arrivés là, il n’y a pas de routes semble-t-il pour arriver ici. Nous cherchons notre chemin puis nous tombons sur la boulangerie de Paris. Elle est tenue par un français avec qui on échange quelques mots. Nous filons ensuite vers le sentier pour se rendre au Machu Picchu. Celui-ci est en fait un très long escalier composé de milliers de marches. Nous finissons par arriver en haut, épuisés, après 1h10 de marche. Nous mangeons notre casse-croute puis nous attendons de pouvoir entrer sur le site.",
+          "img1": "/content/images/IMG_6424.JPG",
+          "img2": "/content/images/IMG_6430.JPG",
+          "img3": ""
+        },
+        {
+          "author":"rom",
+          "paragraph": "13h, ça y est, nos efforts sont récompensés. Nous rentrons dans le Machu Picchu, c’est incroyable, c’est mieux qu’en photo, impossible d’être déçu. On se demande comment des gens ont pu construire quelque chose ici, tellement c’est difficile d’accès, les montagnes autour sont à pic et sont très hautes. Nous commençons par aller à la Puerta del Sol : l’arrivée du trail de l’Inca. Nous avons une vue superbe sur le site, c’est gigantesque ! Puis nous revenons sur les terrasses. En dessous c’est le vide. Les constructions sont impressionnantes avec des pierres de plusieurs tonnes ajustées au millimètre. Il y a aussi des lamas en liberté, pas farouches. Nous continuons vers la pierre sacrée qu’il faut toucher pour sentir les « vibrations » ! Nous nous promenons ensuite parmi des habitations. Nous passons devant le temple du condor. L’architecture est magnifique et très étudiée. Voilà c’est déjà la fin de la visite. Nous redescendons par le même chemin puis nous mangeons à Aguas Calientes en attendant le train. ",
+          "img1": "/content/images/IMG_6452.JPG",
+          "img2": "/content/images/IMG_6437.JPG",
+          "img3": "/content/images/IMG_6486.JPG"
+        },
+        {
+          "author":"rom",
+          "paragraph": "Dans le train, nous tombons sur deux américains très sympathiques avec qui nous discutons pendant le trajet. 22h, arrivée à l’hôtel, nous tombons dans le lit, mort de fatigue mais heureux ! ",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Jour 13",
+      "presentation": "Vendredi 22 septembre 2017 17h20",
+      "content": [
+        {
+          "author":"cam",
+          "paragraph": "Cam : Encore une fois la journée d’hier a eu raison de moi et je me suis endormie sans raconter la journée. Nous voulions dormir un peu hier matin mais le desayuno était jusqu’à 8h alors debout ! Ce n’était pas plus mal car au moins on était dans la forteresse d’Ollantaytambo sans trop de touristes. Encore un site impressionnant avec d’énormes pierres… vraiment forts ces Incas.",
+          "img1": "/content/images/DSCN4220.JPG",
+          "img2": "/content/images/DSCN4239.JPG",
+          "img3": "/content/images/DSCN4248.JPG"
+        },
+        {
+          "author":"cam",
+          "paragraph":"Ensuite nous sommes allés sur la Place des Armes en terrasse. J’ai pris une toute mignonne pizza hawaïenne + une cusqueña, miam ! Nous avons choppé un collectivo direction Urubamba. Nickel, c’est rapide et efficace. C’est plus après qu’on a dû chercher comment aller à Maras, Moray… Nous avons négocié (assez longuement) avec un taxi, résultat : Moray, il nous attend 40 minutes puis Chinchero pour 80S. On accepte pour ne pas perdre trop de temps. Une fois à Moray, nous avons pas mal de temps pour faire le tour de ces surprenantes terrasses circulaires. ",
+          "img1":"/content/images/DSCN4253.JPG",
+          "img2":"/content/images/DSCN4257.JPG",
+          "img3":""
+        },
+        {
+          "author":"cam",
+          "paragraph":"Puis nous enchaînons avec Chinchero, village-ruines Inca, super agréable. Romain se trouve un joli poncho et moi je craque pour une veste. Chinchero est connue pour son textile, parfait ! Nous attrapons un collectivo pour rentrer à Cusco. Rominou est tout chagriné car il a perdu son cache-objectif… le trajet est un peu long. Une fois arrivés à Cusco, on vérifie sous les sièges, rien ! Puis 5-10 minutes plus loin dans les rues de Cusco, Rominou réalise qu’il l’avait sagement rangé dans une petite poche de son sac pour ne pas le perdre… boulet !",
+          "img1":"/content/images/DSCN4270.JPG",
+          "img2":"/content/images/DSCN4271.JPG",
+          "img3":"/content/images/DSCN4277.JPG"
+        },
+        {
+          "author":"cam",
+          "paragraph": "La nuit tombe progressivement et nous arrivons à l’hôtel Mamma Cusco mais Mamma Cusco n’est pas là, c’est sûrement sa fille qui prend le relai. Nous lui refaisons l’histoire et récupérons nos affaires et une chambre, beaucoup mieux qu’au premier séjour. Une fois réorganisés et rangés nos sacs, on part se faire un restau pas loin (jambes qui tirent). Bon restau mais service long et quantité très très copieuse. C’est pour ça, qu’en rentrant je n’ai pas fait long feu !",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        },
+        {
+          "author":"rom",
+          "paragraph": "Romain : Petite journée tranquille en perspective. Tout d’abord, visite des ruines d’Ollantaytambo à deux pas de l’hôtel. C’est une forteresse qui a bien résistée aux espagnols… et ça se sent. La visite commence en grimpant les escaliers parmi les terrasses. Arrivés en haut, on traverse le temple du soleil, les quartiers militaires puis des habitations à flanc de falaise qui leur servaient de casemates pour tirer sur les conquistadors. Nous en traversons plusieurs, c’est assez impressionnant. Puis nous redescendons  pour découvrir un système d’irrigation complexe et très ingénieux avec quelques fontaines finement sculptées. Nous nous arrêtons pour manger des InkaCorns, très bons ! Nous finissons la visite puis nous allons manger et chercher nos sacs.",
+          "img1": "/content/images/IMG_6520.JPG",
+          "img2": "/content/images/IMG_6526.JPG",
+          "img3": ""
+        },
+        {
+          "author":"rom",
+          "paragraph":"Nous galérons ensuite pour trouver un collectivo pour Urubamba. Après en avoir trouvé un et fait le voyage, nous prenons un taxi pour Moray, un laboratoire Inca pour l’agriculture. Les terrasses sont construites dans de grandes cavités et en cercles concentriques. Cela permettait de créer des microclimats et de cultiver des plantes équatoriales à 3500 m d’altitude ! ",
+          "img1":"/content/images/IMG_6574.JPG",
+          "img2":"",
+          "img3":""
+        },
+        {
+          "author":"rom",
+          "paragraph":"Nous continuons avec notre taxi jusqu’à Chinchero, un petit village dans un style très hispanique colonial, c’est très joli. L’église aussi, possède un intérieur peint jusqu’au plafond, c’est remarquable ! Il y a aussi un vaste complexe de terrasses incas parfaitement conservé. Nous en avons profité pour acheter un poncho pour moi et un pull en alpaga pour Camillette. Enfin nous prenons le collectivo pour rentrer à Cusco et dormir !",
+          "img1":"/content/images/IMG_6600.JPG",
+          "img2":"",
+          "img3":""
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Jour 13",
+      "presentation": "Vendredi 22 septembre 2017 21h21",
+      "content": [
+        {
+          "author":"cam",
+          "paragraph": "Cam :  Réveil à 6h pour être à l’heure pour notre bus à 8h direction Puno. Douche tiède pour moi, on se prépare et hop desayuno ! Euh non en fait car la fille de la Mamma Cusco dort encore, nos « hola » la réveille… Elle nous dit que les petit-déj sont qu’à partir de 7h. Nous prenons le choix de partir directement en espérant avoir de quoi grignoter dans le bus. Le taxi nous pose au terminal à 7h, c’est nickel ! Puis c’est parti pour 6h30 de bus. Les paysages sont très beaux. On se demande comment des gens vivent dans ces coins-là. Nous finissons respectivement les films entamés lors de notre trajet Arequipa-Cusco, puis on nous sert un mate de coca, un jus de fruit et un sandwich (de quoi calmer notre faim). Nous arrivons à Puno vers 15h. Nous partons à la recherche de notre hôtel à mi-distance entre le terminal de bus et le centre. C’est folklo ! Nous traversons le marché, la voie de chemin de fer et arrivons enfin à « El Manzano ». Hôtel très sympathique. Nous nous attardons pas et partons découvrir le centre de Puno. A notre grande surprise, c’est jour de fête. Il nous semble voir des étudiants défiler et danser tour à tour… une grande fête d’intégration ? Ça met une sacrée ambiance. Nous passons à la place des Armes, en pleine effervescence, elle aussi. ",
+          "img1": "/content/images/DSCN4294.JPG",
+          "img2": "/content/images/DSCN4300.JPG",
+          "img3": ""
+        },
+        {
+          "author":"cam",
+          "paragraph":"Nous continuons vers le port. Assez sympa, on voit le phare/le lac le plus haut du monde ! Puis petite pause à l’hôtel avant de repartir manger un bout dans un bar repéré sur le routard. Coup de cœur pour ce bar d’ailleurs, super ambiance, super playlist, pizza bonnes et 2 Pisco Sour qui passent tout seul ! 21h, direction hôtel et dodo pour partir assez tôt en Bolivie !",
+          "img1":"/content/images/DSCN4306.JPG",
+          "img2":"/content/images/DSCN4308.JPG",
+          "img3":"/content/images/20170922_192438.jpg"
+        },
+        {
+          "author":"rom",
+          "paragraph": "Romain : La journée commence sur les chapeaux de roues ! Réveil à 6h, on essaye d’être efficace pour se préparer. On arrive à la réception et … personne ! Mamma Cusco n’est pas là et c’est un peu la fête. Donc pas de petit-déj. Tout juste nous arrivons à faire appeler un taxi pour aller au terminal de Cruz del Sur. Notre bus est à 8h donc tout va bien ! Rien de passionnant pendant le trajet. On traverse des pampas et des décors cernés de volcans, c’est très impressionnant !",
+          "img1": "/content/images/IMG_6618.JPG",
+          "img2": "/content/images/IMG_6620.JPG",
+          "img3": "/content/images/IMG_6625.JPG"
+        },
+        {
+          "author":"rom",
+          "paragraph": "Nous arrivons à Puno. La ville, en elle-même n’a pas trop d’intérêt. Si ce n’est que le jour où nous sommes arrivés, il y avait des défilés des écoles supérieures dans la ville. Il n’y a pas à dire, les Péruviens savent mettre l’ambiance. Ensuite petit tour vers le port et ses pédalos aux formes de cygnes, de goélands et Donald (et Minnie pour Camillette). Nous revenons à l’hôtel en passant par le marché et c’est l’occasion d’acheter des bananes (oui on avait super faim à ce moment-là). Nous nous posons un peu, le temps d’écrire un peu. Vient l’heure de manger, et nous nous décidons à aller dans un pub/restaurant. Super choix, l’ambiance est super, de la bonne musique, un décor avec des murs plein de graphitis et un four à pizza à l’entrée. En parlant de graphitis, on a un peu galéré, on avait que la clé de l’hôtel mais on a fini par laisser notre marque ! Nous mangeons deux bonnes pizzas tout en sirotant de très bons Pisco Sour. C’est déjà l’heure de rentrer… allez, une bonne douche et dodo ! ",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Jour 15",
+      "presentation": "Dimanche 24 septembre 2017",
+      "content": [
+        {
+          "author":"cam",
+          "paragraph": "Cam : Hier je n’ai encore pas rempli le carnet car j’étais frigorifiée sur l’Isla del Sol !",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        },{
+          "author":"cam",
+          "paragraph": "Réveil assez tôt encore pour aller chopper un bus ou un collectivo pour aller à Copacabana. Après un petit-déj copieux, un taxi est venu nous chercher. Il nous a emmenés au terminal terrestre mais malheureusement les bus partaient à 6h30 ou 7h30 et il était déjà 8h passée… Nous sommes donc allés au terminal de collectivo. Et hop, nous en avons trouvé un. Le mec a juste mis nos affaires sir le dessus du bus. Ça nous a angoissés au début puis à la fin en arrivant à la frontière car il commençait à pleuvoir. Ça s’est rapidement calmé. On les a surtout récupérés pour passer la frontière à pied. Ciao le Pérou et bonjour la Bolivie. ",
+          "img1": "/content/images/DSCN4314.JPG",
+          "img2": "/content/images/DSCN4320.JPG",
+          "img3": ""
+        },
+        {
+          "author":"cam",
+          "paragraph":"Nous sommes montés à bord d’un autre collectivo direction Copacabana. Hélas, l’heure tournait… On avait en tête les derniers départs pour l’Isla del Sol à 13h30. Allez, vite vite ! Vers 13h30, nous étions à la recherche d’un bateau. Pas évident de choisir entre tous les mecs qui crient « Isla del Sol/Isla flottantes…». Un mec nous propose un départ à 14h. Pas très confiants, on accepte quand même. On a bien fait car vers 14h15 on était à bord du bateau ! 1h30 après nous arrivons au port Sud. L’objectif maintenant est de rejoindre le village Yumani pour trouver un hôtel repéré dans le routard. On est bien chargé, il fait chaud et pour changer, ça grimpe raide ! Nous peinons à y arriver et nous y arrivons. Un hôtel lodge très sympathique. Nous nous installons, buvons la boisson d’accueil et repartons vers un mirador pour avoir une belle vue. C’est le cas, c’est magique ! Nous sommes à +4000 m d’altitude sur une île d’un lac et pas n’importe quel lac… le lac Titicaca ! ",
+          "img1":"/content/images/DSCN4321.JPG",
+          "img2":"/content/images/DSCN4334.JPG",
+          "img3":"/content/images/DSCN4368.JPG"
+        },
+        {
+          "author":"cam",
+          "paragraph":"Nous revenons dans notre chambre avant l’orage. Nous le laissons passer puis partons manger au restau de l’hôtel. Il fait super froid, une bonne soupe de quinoa et une truite à l’orange me réchauffent bien. Mais une fois dans la chambre, j’enfile mes sous-vêtements thermiques et me glisse dans le lit frisquet. Je ne bouge plus ! Bonne nuit !",
+          "img1":"/content/images/DSCN4379.JPG",
+          "img2":"",
+          "img3":""
+        },
+        {
+          "author":"rom",
+          "paragraph": "Romain : Aujourd’hui nous quittons Puno, en combi, pour la Bolivie et Copacabana. Après un (long) trajet, nous arrivons à la frontière en même temps qu’un groupe de touristes, nous les suivons donc pour les procédures de changement de pays. Après une petite heure passée à la frontière, nous continuons vers Copacabana. Les Boliviens ne sont vraiment pas pressés. Le dernier bateau pour l’Isla del Sol (notre destination) part vers 13h30 et nous arrivons à peine. Là, on tombe sur un vendeur de tickets de bateau. On paye (un peu cher), ah aussi c’est un peu galère parce qu’on n’a pas de bolivianos (l’argent local) que des dollars… et donc on attend 14h. A 14h20 on embarque sur un bateau qui est rempli du groupe avec lequel on a passé la frontière ! Après une petite heure de navigation, nous arrivons à bon port. Ensuite pour aller à l’hôtel, il faut grimper un escalier longeant la fontaine de l’Inca, très raide et avec tous les sacs ! Après plus d’une heure d’ascension et une petite marche, nous arrivons enfin à l’hôtel qui est un ensemble de lodge. ",
+          "img1": "/content/images/IMG_6627.JPG",
+          "img2": "",
+          "img3": ""
+        },
+        {
+          "author":"rom",
+          "paragraph":"Une fois posés et après avoir bu la boisson de bienvenue (une citronnade), nous allons nous promener sur les sommets de l’île. Malheureusement, le temps commence à se gâter. Le temps de faire quelques photos qu’il commence à pleuvoir. Il va pleuvoir et avoir de l’orage toute la soirée et la nuit.",
+          "img1":"/content/images/IMG_6628.JPG",
+          "img2":"/content/images/IMG_6634.JPG",
+          "img3":"/content/images/IMG_6641.JPG"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Jour 15",
+      "presentation": "Dimanche 24 septembre 2017 21h55",
+      "content": [
+        {
+          "author":"cam",
+          "paragraph": "Cam : J’enchaîne avec la journée d’aujourd’hui. La veille, la dame de l’hôtel nous avait proposé un retour en bateau privé, départ 10h. Nous avons donc mis un réveil en réfléchissant un moment sur l’heure qu’il fallait mettre avec le décalage d’1h entre le Pérou et la Bolivie. Bref on était réveillé largement dans les temps, surtout qu’au petit-déj, la dame nous dit que le bateau a dû partir plus tôt mais qu’il y a quand même les bateaux publics qui partent à 10h30. OK pour cette solution. On demande un âne pour nous porter les sacs. On attend, attend… attend l’âne et voilà qu’en fait c’est un monsieur qui va nous porter nos 3 sacs (environ 30 kg) ! Nous sommes très gênés d’accepter ça. Il carbure jusqu’au port Sud, nous le suivons… Nous arrivons au port vers 10h10, c’est nickel.",
+          "img1": "/content/images/DSCN4382.JPG",
+          "img2": "/content/images/DSCN4383.JPG",
+          "img3": ""
+        },{
+          "author":"cam",
+          "paragraph": "Nous embarquons avec un léger retard. Le bateau est blindé. C’est surtout une fois partis qu’on s’en rend réellement compte. En plein milieu de l’immense lac Titicaca, notre bateau colle un autre, moteurs éteints… et voilà que 4 personnes de notre bateau migrent sur l’autre, légèrement flippant ! Nous arrivons sur le port de Copacabana vers 12h. Après un peu de recherches, nous finissons par trouver « le café bistrot » avec une dame très sympa parlant français. Des sandwichs et des bananes frits nous requinquent avant les 3h30 de bus pour la Paz.",
+          "img1": "/content/images/DSCN4387.JPG",
+          "img2": "/content/images/DSCN4388.JPG",
+          "img3": "/content/images/DSCN4391.JPG"
+        },{
+          "author":"cam",
+          "paragraph": "Nous montons à bord d’un bus dont le départ semble imminent, du moins dans 20 min d’après le chauffeur. C’est plus au bout de 40 min que nous partons. Nous traversons de beaux paysages, lac Titicaca et montagnes souvent présents. Arrive le passage du bac, nous sortons tous du bus. Celui-ci monte sur une grosse barque et nous, nous prenons un petit bateau pour rejoindre l’autre rive. Ça permet de se dégourdir les jambes. Le reste du trajet est un peu long, nous arrivons à la Paz vers 18h30. Nous avons loupé l’arrêt au terminal mais pas bien grave car un taxi nous récupère. Il galère à trouver notre hôtel, il faut dire que cette ville est monstrueusement immense. On finit par arriver. On re-sort manger dans un english pub. Bières et plat typique bolivien (bœuf, saucisses, oignons, tomates, poivrons, fromage, frites), ça remplit bien ! En rentrant à l’hôtel, on demande des infos sur la sortie « Chacaltaya-valle de la luna ». On fait bien car on prend les 2 dernières places restantes ! Maintenant dodo pour être en forme !",
+          "img1": "/content/images/DSCN4395.JPG",
+          "img2": "/content/images/DSCN4398.JPG",
+          "img3": ""
+        },
+        {
+          "author":"rom",
+          "paragraph": "Romain : Aujourd’hui, il fait beaucoup plus beau que la veille. Nous commençons par prendre le petit-déj, et là l’hôtelière nous informe que le bateau que nous devions avoir n’est pas là et qu’il faut utiliser la liaison régulière, très bien, mais on doit donc partir 1/2h plus tôt ! Je lui demande si nous pouvons avoir un âne pour les bagages. Ok pas de souci. Nous finissons de nous préparer, nous attendons l’âne. L’hôtelière nous fait signe que c’est bon. Allez c’est parti… Heu, en guise d’âne, on se retrouve avec un  porteur, là on est un peu gêné. On lui passe d’abord un sac et là il nous dit que c’est bon pour prendre tous les sacs. On fait le chemin vers le port, on ne s’est vraiment pas senti bien. Le bateau part un peu près à l’heure (bolivienne). Nous commençons la traversée et arrivés au milieu du lac, le pilote nous demande de débarquer 4 personnes sur un autre bateau. Après une manœuvre quelque peu périlleuse, nous repartons sans encombre jusqu’à Copacabana. ",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        },
+        {
+          "author":"rom",
+          "paragraph": "Nous faisons le tour des boutiques et nous mangeons des sandwichs avant de reprendre le bus en direction de La Paz. Après un long voyage comprenant des routes de montagnes et un bac pour traverser un détroit sur le lac Titicaca, nous arrivons enfin à La Paz… et la ville est vraiment dans un trou, c’est impressionnant. Nous prenons enfin un taxi qui galère à trouver l’hôtel mais on finit par y arriver. Nous nous posons un peu puis nous cherchons un premier restaurant indiqué dans le routard… qui n’existe plus. Nous nous rabattons sur un pub anglais (!) où nous mangeons un plat typique à base de saucisses, fromage, bœuf, piment, olives, tomates, sauce secrète. Ça passe bien avec une bonne bière locale. Nous finissons par aller nous coucher.",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Jour 18",
+      "presentation": "Mercredi 27 septembre 2017 17h20",
+      "content": [
+        {
+          "author":"cam",
+          "paragraph": "Cam : réveil pas trop tardif pour prendre le temps de petit déjeuner avant de partir pour le Mont Chacaltaya à 8h-8h20. Le petit-déj est copieux, le chauffeur du van pour l’excursion est à l’heure (pour un bolivien) et hop on est parti pour l’aventure. On parcourt tout La Paz pour récupérer tous les participants. On fait la connaissance de 2 Suisses fraîchement arrivés en Bolivie. Le mec a un peu le mal de l’altitude… qu’est-ce que ça va être à 5435m… en tout cas, ils sont bien sympa. Après environ 2h de route dont l’ascension spectaculaire de notre van/camionnette sur une piste rocailleuse, très pentue et parfois humide, nous arrivons à l’ancienne station de ski du Chacaltaya. La guide nous conseille sur les chemins à emprunter selon notre état avec l’altitude. Un des participants nous dit d’ailleurs, qu’en haut, on sera à 50% d’oxygène pile poil ! Notre ascension se passe bien, c’est magnifique. On est sur le toit du monde. Notre chemin est enneigé, parfois un peu verglacé, on se prend pour des alpinistes en herbe. ",
+          "img1": "/content/images/DSCN4411.JPG",
+          "img2": "/content/images/DSCN4446.JPG",
+          "img3": "/content/images/DSCN4452.JPG"
+        },{
+          "author":"cam",
+          "paragraph": "En retournant au van, on mange nos bananes pour retrouver des forces puis on part en direction de la vallée de la lune. C’est un site géologique fou et surprenant ! Encore une fois, la nature fait des trucs bizarres. Au retour, la guide nous propose de nous poser à la station du téléphérique jaune. De le prendre à la montée pour avoir une vue d’ensemble sur La Paz. Très bon conseil car cela nous permet d’apprécier l’immensité de cette capitale. Puis retour à l’hôtel pour souffler un peu avant de repartir manger dans un super bon restau cubain !!! Tout est trop bon, les mojitos, nos plats, le yucca frit ! Super soirée ! Maintenant dodo car demain retour à Lima.",
+          "img1": "/content/images/DSCN4471.JPG",
+          "img2": "/content/images/DSCN4476.JPG",
+          "img3": "/content/images/DSCN4480.JPG"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Jour 16",
+      "presentation": "Lundi 25 septembre 2017",
+      "content": [
+        {
+          "author":"rom",
+          "paragraph": "Romain : Après un petit-déj avec du quinoa soufflé, nous prenons le bus de l’agence pour partir vers le Chacaltaya. Après avoir ramassé tous les participants, nous commençons l’ascension vers les quartiers plus pauvres de La Paz. Pour ce petit bus 4x4 ^, c’est un vrai exploit vu comment il est chargé ! Après être sorti de la ville dont les « routes » ne sont déjà pas un exemple, nous entamons une piste particulièrement défoncée. Nous finissons par voir le Huayna potosi, magnifique, derrière un lac aux couleurs étranges, dues aux algues, bactéries et aux cristaux présents tels que l’arsenic. Il donne des couleurs changeant en fonction de la luminosité, la température… Nous continuons la piste qui se fait de moins en moins large et de plus en plus défoncée. Après une montée très longue, nous arrivons aux vestiges de la station de ski du Chacaltaya, en son temps la plus haute du monde avec 5300m ! Mais le sommet n’est pas encore là, on doit encore faire environ 150m de dénivelé à pied. Arrivés à 5435m, le voilà le sommet ! Quelle vue, c’est magique ! L’impression d’être sur le toit du monde. En face, le Huayna potosi encore plus haut et dans le fond, le lac Titicaca !",
+          "img1": "/content/images/IMG_6677.JPG",
+          "img2": "/content/images/IMG_6656.JPG",
+          "img3": "/content/images/chacaltaya_pano.jpg"
+        },{
+          "author":"rom",
+          "paragraph": "Nous continuons un peu dans la rocaille et la neige pour avoir un autre point de vue. C’est très beau, on se sent tout petit. On doit repartir en empruntant le même chemin, je me suis demandé si le van n’allait pas se disloquer à cause de la piste ! Nous traversons La Paz vers le sud et donc le bas (en altitude) vers la vallée de la Lune. C’est une formation géologique résultant de l’érosion de couches de terre, poussières et cendres volcaniques. La visite est assez courte mais intéressante. C’est lunaire. Effectivement beaucoup de crevasses, de colonnes… Ensuite le van repart et nous dépose au téléphérique avec lequel nous faisons un aller/retour sur les hauteurs de La Paz, ce qui nous permet d’apprécier l’étendue de la ville ! ",
+          "img1": "/content/images/IMG_6706.JPG",
+          "img2": "/content/images/IMG_6732.JPG",
+          "img3": "/content/images/IMG_6735.JPG"
+        },{
+          "author":"rom",
+          "paragraph": "Nous décidons de finir notre soirée dans un restau cubain où nous prenons des mojitos et des plats typiques. Nous gravons nous initiales sur les murs ! ",
+          "img1": "/content/images/IMG_20170925_183000944.jpg",
+          "img2": "",
+          "img3": ""
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Jour 21",
+      "presentation": "Samedi 30 septembre 2017 23h40",
+      "content": [
+        {
+          "author":"cam",
+          "paragraph": "Cam : Ça fait longtemps qu’on n’a pas complété le carnet alors ce soir, je finis de raconter le voyage. Le mardi (26/09), nous nous sommes réveillés aux aurores et sommes allés petit-déj à l’hôtel du même proprio pas loin dans notre rue. Celui du notre commençait trop tard… enfin après notre départ pour l’aéroport El Alto (vol à 10h30 mais on devait y être 2h avant + le temps des embouteillages).",
+          "img1": "",
+          "img2": "",
+          "img3": ""
+        },{
+          "author":"cam",
+          "paragraph": "Une fois à l’aéroport de La Paz, nous avons eu un petit coup de chaud car un mec est venu nous voir pour nous dire qu’il y avait des soucis sur notre vol et voulait savoir si on était volontaires pour prendre le vol suivant, le soir… bien sûr ! Bref après pas mal d’attente nous avons fini par embarquer et décoller ! Pas pressés nos amis Boliviens. Nous arrivons vers 12h (heure péruvienne) à Lima. Notre cher Gustavo a un peu de retard mais ne tarde pas à arriver. Nous retrouvons Ana, nous nous installons dans une autre chambre que la première fois. Ana nous indique comment nous rendre dans le centre de Lima. On s’exécute et nous voilà dans le bus A23 bondé… Romain manque de se casser la gueule en entrant dedans, entre chercher la monnaie et se tenir, ce n’est pas facile ! Je ne fais pas la maligne car les barres sont en hauteur, ce n’est pas facile de se tenir. J’ai l’impression que je vais soit finir dans le pare-brise soit sur les genoux du conducteur. Et il ne faut pas oublier de regarder la route pour bien descendre au bon endroit… Ana nous a bien expliqué : « la iglesia bleue »… 2 gentilles dames nous voient un peu chamboulés par tout ça, nous demandent où nous allons. Nous essayons de leur expliquer. Elles comprennent qu’on vient pour voir le centre, elles nous disent de descendre en même temps qu’elles. Après le bus va dans des quartiers populaires (Rimac), pas conseillés pour les touristes. Nous voilà à présent sortis pile face à cette iglesia bleue, parfait ! Elles nous indiquent la cathédrale et la playa Mayor. Nous arpentons bien le centre, c’est joli mais très bruyant. Nous avons faim car depuis le petit-déj de La Paz, ça fait long ! On s’arrête dans une sorte de bistrot, très sympathique. Romain ne prend rien finalement et moi j’ai le « malheur » de prendre un énorme pancake à la confiture de lait – pas des plus digeste. On continue notre petit tour puis vient la nuit, on se met en quête de la « fontaine lumineuse ». C’est assez loin. On presse le pas pour arriver à temps pour le spectacle de 19h15. C’est juste mais c’est bon ! Très beau spectacle original et retraçant bien notre circuit. Romain a très faim, on repère un restau « Aires Peruana » et go taxi ! Ce restau-« boîte » est au sous-sol, il y a un orchestre live et un espace danse avec des locaux déchaînés sur les aires latinos. On nous sert des chicharrones mixtes, bonnes mais bien fat aussi. Puis direction dodo car journée crevante. ",
+          "img1": "/content/images/DSCN4494.JPG",
+          "img2": "/content/images/DSCN4495.JPG",
+          "img3": "/content/images/DSCN4511.JPG"
+        },{
+          "author":"cam",
+          "paragraph": "Le lendemain, nous nous réveillons vers 9h car la journée s’annonce longue. Ana est partie pour un rdv, c’est son fils qui nous prépare le petit-déj. Nous faisons la rencontre d’Hélène, une Nantaise fraîchement arrivée à Lima et qui va parcourir l’Amérique du Sud en ayant pour objectif d’être à Buenos Aires à Noël. Très sympa, elle nous briefe sur Miraflores et Barranco. Nous nous mettons en route. Ces 2 quartiers sont les quartiers riches de Lima. A Miraflores, nous longeons la côte remplie de surfeurs (et parapentistes mais ce matin ils ne sont pas nombreux). On fait quelques photos au Parc de l’Amour (So romantic !) et on presse le pas pour rejoindre Barranco. Très beau quartier aussi, coloré et riche en street art. On se trouve un excellent dernier restau « le 73 ». Délicieux ceviche de thon avocat + pisco fruit de la passion. Dernier petit tour et hop taxi. Quand nous arrivons chez Ana, elle nous attendait… le taxi pour l’aéroport aussi ! Adios le Pérou ! ",
+          "img1": "/content/images/DSCN4513.JPG",
+          "img2": "/content/images/DSCN4535.JPG",
+          "img3": "/content/images/DSCN4541.JPG"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Jour 17",
+      "presentation": "Mardi 26 septembre 2017",
+      "content": [
+        {
+          "author":"rom",
+          "paragraph": "Romain : Aujourd’hui nous devons rentrer à Lima. Après avoir pris un petit-déj dans un hôtel voisin au notre, qui le servait plus tôt, nous prenons le taxi pour l’aéroport. Evidemment, c’est compliqué à cause de la circulation. Après être montés sur les hauteurs de La Paz, nous arrivons enfin à l’aéroport. On nous demande si on veut prendre l’avion le soir à cause du surbooking (haha). Après être montés dans l’avion, avec des places vides, nous décollons avec plus d’1h de retard ! Nous arrivons chez Ana et après avoir laissé nos affaires et pris le bus pour un long voyage vers le centre-ville, nous arrivons à la Plaza Mayor. Nous nous promenons dans le centre, nous visitons même la poste ! Arrive le soir et nous allons au Circuito Magico del Agua. C’est déjà la nuit et c’est très bien car il y a un spectacle à base de fontaines lumineuses. Très beau et il résume bien notre séjour ! Nous prenons ensuite le taxi pour « Aires Peruana », un restau où nous avons mangé un chicherron mix (poulet, poisson, fruits de mer), très bon mais copieux ! C’est aussi un super coin pour aller danser la salsa !",
+          "img1": "/content/images/IMG_6760.JPG",
+          "img2": "",
+          "img3": ""
+        },{
+          "author":"rom",
+          "paragraph": "Le lendemain matin nous partons pour Miraflores, le quartier chic de Lima. Nous allons vers le bord de mer qui est une falaise. C’est très beau ! Nous continuons vers le sud, à Barranco. C’est plus ancien, mais plus joli aussi, il y a pas mal de fresques murales. Nous mangeons au 73 et buvons notre dernier Pisco Maracuya. Nous finissons de nous promener et c’est déjà la fin, il faut rentrer en France… ",
+          "img1": "/content/images/IMG_6771.JPG",
+          "img2": "/content/images/IMG_6787.JPG",
+          "img3": ""
         }
       ]
     }
