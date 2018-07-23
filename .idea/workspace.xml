@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db43645c-e25d-4b10-8523-eb00f8de5bde" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/controller/mod.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/template/article.html.hbs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/data/text_content.json" beforeDir="false" afterPath="$PROJECT_DIR$/content/data/text_content.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/content/style/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/template/index.html.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/content/template/index.html.hbs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/template/photo.html.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/content/template/photo.html.hbs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/template/text.html.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/content/template/text.html.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/mod.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/mod.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/data_type/mod.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_type/mod.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
     </list>
@@ -23,56 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.rs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main.rs">
+      <file leaf-file-name="article.html.hbs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/template/article.html.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mod.rs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/controller/mod.rs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="42" selection-start-line="42" selection-end-line="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="show_off.rs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/show_off.rs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mod.rs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data_type/mod.rs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html.hbs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/template/index.html.hbs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="text.html.hbs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/template/text.html.hbs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+            <state relative-caret-position="816">
+              <caret line="48" column="36" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -80,8 +34,17 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/style/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1428">
-              <caret line="84" column="20" selection-start-line="84" selection-start-column="20" selection-end-line="84" selection-end-column="20" />
+            <state relative-caret-position="2839">
+              <caret line="167" selection-start-line="167" selection-end-line="167" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -89,31 +52,62 @@
       <file leaf-file-name="photo.html.hbs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/template/photo.html.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+            <state relative-caret-position="34">
+              <caret line="2" column="91" selection-start-line="2" selection-start-column="91" selection-end-line="2" selection-end-column="91" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="text_content.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/content/data/text_content.json">
+      <file leaf-file-name="main.rs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main.rs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="901" column="40" lean-forward="true" selection-start-line="901" selection-start-column="40" selection-end-line="901" selection-end-column="43" />
-              <folding>
-                <element signature="e#18#4331#0" />
-                <element signature="e#4337#9336#0" />
-                <element signature="e#9342#14808#0" />
-                <element signature="e#14814#18473#0" />
-                <element signature="e#18479#22642#0" />
-                <element signature="e#22648#27764#0" />
-                <element signature="e#27770#33745#0" />
-                <element signature="e#33751#36472#0" />
-                <element signature="e#36478#40008#0" />
-                <element signature="e#40014#47923#0" />
-                <element signature="e#47929#53673#0" />
-                <element signature="e#53679#58626#0" />
-              </folding>
+            <state relative-caret-position="1037">
+              <caret line="61" column="49" selection-start-line="61" selection-start-column="49" selection-end-line="61" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="image.rs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/image.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mod.rs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data_type/mod.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mod.rs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/controller/mod.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html.hbs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/template/index.html.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="text.html.hbs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/template/text.html.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -135,6 +129,17 @@
       <find>/peru/</find>
       <find>6409</find>
       <find>un bar repéré sur le routard. Coup de cœur pour ce bar d’ailleurs, super ambiance, super playlist, pizza bonnes et 2 Pisco Sour qui passent tout seul ! 21h, direction hôtel et dodo pour partir assez tôt en Bolivie !&quot;,</find>
+      <find>serve_index</find>
+      <find>Lire plu</find>
+      <find>img.</find>
+      <find>selec</find>
+      <find>photo-presentation</find>
+      <find>select</find>
+      <find>selected-photo</find>
+      <find>contain</find>
+      <find>photo-presentation-container</find>
+      <find>gallery-container</find>
+      <find>photo-container</find>
     </findStrings>
     <replaceStrings>
       <replace>\'</replace>
@@ -155,14 +160,19 @@
         <option value="$PROJECT_DIR$/src/data_type/data_type.rs" />
         <option value="$PROJECT_DIR$/Rocket.toml" />
         <option value="$PROJECT_DIR$/Cargo.toml" />
-        <option value="$PROJECT_DIR$/content/template/index.html.hbs" />
+        <option value="$PROJECT_DIR$/content/data/text_content.json" />
         <option value="$PROJECT_DIR$/src/main.rs" />
-        <option value="$PROJECT_DIR$/src/controller/mod.rs" />
         <option value="$PROJECT_DIR$/src/data_type/mod.rs" />
         <option value="$PROJECT_DIR$/content/template/text.html.hbs" />
-        <option value="$PROJECT_DIR$/content/template/photo.html.hbs" />
+        <option value="$PROJECT_DIR$/content/js/photoswipe.min.js" />
+        <option value="$PROJECT_DIR$/content/style/photoswipe.css" />
+        <option value="$PROJECT_DIR$/content/js/photoswpie-ui-default.min.js" />
+        <option value="$PROJECT_DIR$/content/template/index.html.hbs" />
         <option value="$PROJECT_DIR$/content/style/style.css" />
-        <option value="$PROJECT_DIR$/content/data/text_content.json" />
+        <option value="$PROJECT_DIR$/content/template/photo.html.hbs" />
+        <option value="$PROJECT_DIR$/content/template/article.html.hbs" />
+        <option value="$PROJECT_DIR$/src/controller/mod.rs" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
       </list>
     </option>
   </component>
@@ -173,16 +183,18 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="670" />
-    <option name="y" value="-2" />
-    <option name="width" value="697" />
-    <option name="height" value="775" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="784" />
+    <option name="height" value="1382" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -200,24 +212,58 @@
               <item name="vision_rs" type="b2602c69:ProjectViewProjectNode" />
               <item name="vision_rs" type="462c0819:PsiDirectoryNode" />
               <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vision_rs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vision_rs" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vision_rs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vision_rs" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="style" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vision_rs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vision_rs" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="vision_rs" type="b2602c69:ProjectViewProjectNode" />
               <item name="vision_rs" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="vision_rs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vision_rs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vision_rs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vision_rs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="data_type" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vision_rs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vision_rs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="SearchEverywhereHistoryKey" value="css&#9;FILE&#9;file://D:/Documents/projets_rust/vision_rs/content/style/style.css" />
+    <property name="SearchEverywhereHistoryKey" value="json&#9;FILE&#9;file://D:/Documents/projets_rust/vision_rs/content/data/text_content.json&#10;css&#9;FILE&#9;file://D:/Documents/projets_rust/vision_rs/content/style/style.css" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -226,14 +272,17 @@
     <property name="node.js.selected.package.tslint" value="" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JSON" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Documents\projets_rust\vision_rs\content\images" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Documents\projets_rust\vision_rs\content\data" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Documents\projets_rust\vision_rs\content\images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -393,16 +442,35 @@
       <workItem from="1527367680152" duration="18000" />
       <workItem from="1531114799990" duration="3489000" />
       <workItem from="1531201600339" duration="2722000" />
-      <workItem from="1531220643254" duration="496000" />
+      <workItem from="1531220643254" duration="1405000" />
+      <workItem from="1531222106065" duration="2255000" />
+      <workItem from="1531309402016" duration="1044000" />
+      <workItem from="1531339677533" duration="1864000" />
+      <workItem from="1531374378700" duration="4134000" />
+      <workItem from="1531395099581" duration="1602000" />
+      <workItem from="1531415419560" duration="3036000" />
+      <workItem from="1531460547522" duration="3745000" />
+      <workItem from="1531479345011" duration="4256000" />
+      <workItem from="1531719662672" duration="3962000" />
+      <workItem from="1531806193166" duration="3943000" />
+      <workItem from="1531825135150" duration="2004000" />
+      <workItem from="1531892548406" duration="2616000" />
+      <workItem from="1531912083129" duration="3367000" />
+      <workItem from="1531979086671" duration="2782000" />
+      <workItem from="1531999473964" duration="2269000" />
+      <workItem from="1532025428827" duration="3491000" />
+      <workItem from="1532068171126" duration="1397000" />
+      <workItem from="1532086924264" duration="882000" />
+      <workItem from="1532324560015" duration="588000" />
+      <workItem from="1532343128536" duration="1433000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129838000" />
+    <option name="totallyTimeSpent" value="181417000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -414,11 +482,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32662538" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4969743" weight="0.32662538" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32662538" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4969743" visible="true" weight="0.32662538" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15355521" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14447807" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -442,66 +510,24 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/content/data/text_content.json">
+    <entry file="file://$PROJECT_DIR$/src/controller/mod.rs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1428">
-          <caret line="726" column="46" selection-start-line="726" selection-start-column="46" selection-end-line="726" selection-end-column="46" />
-          <folding>
-            <element signature="e#18#4331#0" />
-            <element signature="e#4337#9336#0" />
-            <element signature="e#9342#14808#0" />
-            <element signature="e#14814#18473#0" />
-            <element signature="e#18479#22642#0" />
-            <element signature="e#22648#27764#0" />
-            <element signature="e#27770#33745#0" />
-            <element signature="e#33751#36472#0" />
-            <element signature="e#36478#40008#0" />
-            <element signature="e#40014#47923#0" />
-            <element signature="e#47929#53673#0" />
-            <element signature="e#53679#58626#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/template/photo.html.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/data/text_content.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rocket.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.rs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/template/index.html.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        <state relative-caret-position="1462">
+          <caret line="86" column="34" selection-start-line="86" selection-start-column="34" selection-end-line="86" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/template/text.html.hbs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/style/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2142">
+          <caret line="126" column="27" selection-start-line="126" selection-start-column="27" selection-end-line="126" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -685,13 +711,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/handlebars-iron-0.26.2/src/middleware.rs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2278">
@@ -713,13 +732,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/image.rs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/show_off.rs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -727,80 +739,160 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/content/style/photoswipe.css" />
+    <entry file="file://$PROJECT_DIR$/content/js/photoswpie-ui-default.min.js" />
+    <entry file="file://$PROJECT_DIR$/content/style/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2839">
+          <caret line="167" selection-start-line="167" selection-end-line="167" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/js/photoswipe.min.js" />
+    <entry file="file://$PROJECT_DIR$/content/data/text_content.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="903" column="9" lean-forward="true" selection-start-line="903" selection-start-column="9" selection-end-line="903" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main.rs">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="49" selection-start-line="61" selection-start-column="49" selection-end-line="61" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/image.rs">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/controller/mod.rs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_type/mod.rs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/template/index.html.hbs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/template/text.html.hbs">
+    <entry file="file://$PROJECT_DIR$/content/template/article.html.hbs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/style/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1428">
-          <caret line="84" column="20" selection-start-line="84" selection-start-column="20" selection-end-line="84" selection-end-column="20" />
+        <state relative-caret-position="816">
+          <caret line="48" column="36" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/template/photo.html.hbs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+        <state relative-caret-position="34">
+          <caret line="2" column="91" selection-start-line="2" selection-start-column="91" selection-end-line="2" selection-end-column="91" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/data/text_content.json">
+    <entry file="file://$PROJECT_DIR$/content/template/text.html.hbs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="901" column="40" lean-forward="true" selection-start-line="901" selection-start-column="40" selection-end-line="901" selection-end-column="43" />
-          <folding>
-            <element signature="e#18#4331#0" />
-            <element signature="e#4337#9336#0" />
-            <element signature="e#9342#14808#0" />
-            <element signature="e#14814#18473#0" />
-            <element signature="e#18479#22642#0" />
-            <element signature="e#22648#27764#0" />
-            <element signature="e#27770#33745#0" />
-            <element signature="e#33751#36472#0" />
-            <element signature="e#36478#40008#0" />
-            <element signature="e#40014#47923#0" />
-            <element signature="e#47929#53673#0" />
-            <element signature="e#53679#58626#0" />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_type/mod.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/mod.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>vision_rs</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
             <option name="proportions">

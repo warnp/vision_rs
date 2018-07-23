@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <title>Pérou blog</title>
+    <link rel="stylesheet" type="text/css" href="/content/style/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Ubuntu|Dosis" rel="stylesheet">
+</head>
+<body>
+<div class="container">
+    <div class="content text-content all">
+        <h2>{{title}}</h2>
+        {{#each content}}
+            <div class="author-container">
+                <div class="author {{this.author}}">
+                </div>
+                <p class="paragraph">{{this.paragraph}}</p>
+            </div>
+            {{#if this.img1}}
+                {{> photo img1=this.img1 img2=this.img2 img3=this.img3}}
+            {{/if}}
+        {{/each}}
+        <a class="expand" href="/peru">Retour.</a>
+        <a class="expand" href="/peru">Jour suivant.</a>
+    </div>
+</div>
+<div class="gallery-container">
+    <div class="photo-presentation-container">
+        <img class="photo-presentation" src=""></img>
+    </div>
+</div>
+</body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script type="application/javascript">
+    var presenter = $(".photo-presentation");
+
+    $(presenter).on("click", function () {
+        if (presenter.hasClass("selected-photo")) {
+            presenter.removeClass("selected-photo");
+            presenter.parent().removeClass("selected-photo-container");
+
+        }
+
+
+    });
+
+    $(".item").on("click", function () {
+        if (!presenter.hasClass("selected-photo")) {
+            presenter.attr("src", "");
+
+            presenter.addClass("selected-photo");
+            presenter.parent().addClass("selected-photo-container");
+            presenter.attr("src", $(this).attr("orig"));
+        }
+    });
+
+
+    // $(".photo2").on("click", function(){
+    //     if($(this).hasClass("selected-photo")){
+    //         $(this).removeClass("selected-photo");
+    //     }else{
+    //         $(this).addClass("selected-photo");
+    //
+    //     }
+    //     if($(this).hasClass("selected-photo2")){
+    //         $(this).removeClass("selected-photo2");
+    //     }else{
+    //         $(this).addClass("selected-photo2");
+    //
+    //     }
+    // });
+</script>
+</html>

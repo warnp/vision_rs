@@ -1,7 +1,8 @@
 FROM ubuntu:16.04
 
 RUN apt-get update \
-    && apt-get install -y curl file build-essential
+    && apt-get install -y curl file build-essential \
+    && curl https://sh.rustup.rs -sSf | sh
 
 
 ENV PATH "/root/.cargo/bin:$PATH"

@@ -58,6 +58,9 @@ fn main() {
             }
         }
         router!(req,
+            (GET)(/peru/{id : i32}) => {
+                controller::serve_article(&req, &id)
+                },
             (GET)(/peru) => {
                 controller::serve_index(&req)
                 },

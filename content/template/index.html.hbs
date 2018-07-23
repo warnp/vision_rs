@@ -7,27 +7,27 @@
     <link href="https://fonts.googleapis.com/css?family=Ubuntu|Dosis" rel="stylesheet">
 </head>
 <body>
-<div class="sidebar">
+    <div class="sidebar">
 
-</div>
-<div class="container">
-    <div class="content">
-        {{# each data}}
-            {{> text title=this.title paragraph=this.content}}
-        {{/each}}
     </div>
-</div>
+    <div class="container">
+        <div class="content">
+            {{# each data}}
+                {{> text title=this.title paragraph=this.content}}
+            {{/each}}
+        </div>
+    </div>
 <div class="gallery">
 
 
 </div>
 </body>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<script type="application/javascript">
-    $(".expand").click(function(){
-      $(this).siblings(".text-content.all").show();
-      $(this).siblings(".text-content.short").hide();
-      $(this).hide();
-    });
-</script>
+<!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>-->
+<!--<script type="application/javascript">-->
+<!--$(".expand").click(function(){-->
+<!--$(this).siblings(".text-content.all").show();-->
+<!--$(this).siblings(".text-content.short").hide();-->
+<!--$(this).hide();-->
+<!--});-->
+<!--</script>-->
 </html>

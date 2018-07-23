@@ -1,19 +1,19 @@
 {{#if  img3}}
 <div class="photo-container trio">
-    <img class="item photo1 trio" src="{{img1}}"/>
-    <img class="item photo2 trio" src="{{img2}}"/>
-    <img class="item photo3 trio" src="{{img3}}"/>
+    <img class="item photo1 trio" orig="/content/images/{{img1}}" src="/content/images/min/{{img1}}"/>
+    <img class="item photo2 trio" orig="/content/images/{{img2}}" src="/content/images/min/{{img2}}"/>
+    <img class="item photo3 trio" orig="/content/images/{{img3}}" src="/content/images/min/{{img3}}"/>
 </div>
 {{else}}
     {{#if  img2}}
     <div class="photo-container duo">
-        <img class="item photo1 duo" src="{{img1}}"/>
-        <img class="item photo2 duo" src="{{img2}}"/>
+        <img class="item photo1 duo" orig="/content/images/{{img1}}" src="/content/images/min/{{img1}}"/>
+        <img class="item photo2 duo" orig="/content/images/{{img2}}" src="/content/images/min/{{img2}}"/>
     </div>
     {{else}}
         {{#if  img1}}
         <div class="photo-container solo">
-            <img class="item photo1 solo" src="{{img1}}"/>
+            <img class="item photo1 solo" orig="/content/images/{{img1}}" src="/content/images/min/{{img1}}"/>
         </div>
         {{/if}}
     {{/if}}

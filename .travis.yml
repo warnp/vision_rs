@@ -1,5 +1,5 @@
 language: rust
-rust: nightly
+rust: stable
 sudo: false
 
 services:
@@ -11,9 +11,9 @@ before_script:
 script:
   - cargo build --release
 
-after_success:
-  - docker build -t warnp/siteus .
-  - if [ "$TRAVIS_BRANCH" == "master" ]; then
-    docker login -u="$DOCKER_USERNAME" -p="$DOCKER_PASSWORD";
-    docker push warnp/siteus;
-    fi
+#after_success:
+  #- docker build -t warnp/siteus .
+  #- if [ "$TRAVIS_BRANCH" == "master" ]; then
+  #  docker login -u="$DOCKER_USERNAME" -p="$DOCKER_PASSWORD";
+  #  docker push warnp/siteus;
+  #  fi

@@ -9,7 +9,7 @@ pub struct Trip {
     pub data: Vec<DayTemplate>,
 }
 
-#[derive(Serialize, Deserialize, Debug)]
+#[derive(Serialize, Deserialize, Debug, Clone)]
 pub struct DayTemplate {
     pub id: u32,
     pub title: String,
@@ -17,7 +17,7 @@ pub struct DayTemplate {
     pub content: Vec<TemplateContext>,
 }
 
-#[derive(Serialize, Deserialize, Debug)]
+#[derive(Serialize, Deserialize, Debug, Clone)]
 pub struct TemplateContext {
     pub author: String,
     pub paragraph: String,
