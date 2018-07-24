@@ -17,3 +17,15 @@ script:
   #  docker login -u="$DOCKER_USERNAME" -p="$DOCKER_PASSWORD";
   #  docker push warnp/siteus;
   #  fi
+before_deploy:
+  - git config --local user.name "$GW_USERNAME"
+  - git config --local user.email "$GW_USERNAME@gmail.com"
+
+deploy:
+  provider: release
+  file_glob: true
+  file: target/release/*
+  user: $GH_USERNAME
+  password: $GH_PASSWORD
+  skip_cleanup: true
+  overwrite: true
