@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <title>Pérou blog</title>
+    <link rel="stylesheet" type="text/css" href="/content/style/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Ubuntu|Dosis" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+{{> header}}
+<div class="container">
+    <div class="content text-content all">
+        <h2>{{title}}</h2>
+        {{#each content}}
+            <div class="author-container">
+                <div class="author {{this.author}}">
+                    <div class="name">{{this.author}}</div>
+                </div>
+                <p class="paragraph">{{this.paragraph}}</p>
+            </div>
+            {{#if this.img1}}
+                {{> photo img1=this.img1 img2=this.img2 img3=this.img3}}
+            {{/if}}
+        {{/each}}
+        <a class="underline return" href="/peru">Retour.</a>
+        <a class="underline gallery-button" href="#">Galerie.</a>
+        <a class="underline next" href="/peru/{{id}}">Jour suivant.
+            <svg class="lama"
+                 xmlns:dc="http://purl.org/dc/elements/1.1/"
+                 xmlns:cc="http://creativecommons.org/ns#"
+                 xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                 xmlns:svg="http://www.w3.org/2000/svg"
+                 xmlns="http://www.w3.org/2000/svg"
+                 xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+                 xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+                 width="32px"
+                 height="32px"
+                 viewBox="0 0 91.895378 104.42924"
+                 version="1.1"
+                 id="svg8"
+                 inkscape:version="0.92.3 (2405546, 2018-03-11)"
+                 sodipodi:docname="lama.svg">
+                <defs
+                        id="defs2"/>
+                <sodipodi:namedview
+                        id="base"
+                        pagecolor="#ffffff"
+                        bordercolor="#666666"
+                        borderopacity="1.0"
+                        inkscape:pageopacity="0.0"
+                        inkscape:pageshadow="2"
+                        inkscape:zoom="0.35"
+                        inkscape:cx="827.03576"
+                        inkscape:cy="153.27117"
+                        inkscape:document-units="mm"
+                        inkscape:current-layer="layer1"
+                        showgrid="false"
+                        inkscape:window-width="1366"
+                        inkscape:window-height="745"
+                        inkscape:window-x="-8"
+                        inkscape:window-y="-8"
+                        inkscape:window-maximized="1"/>
+                <metadata
+                        id="metadata5">
+                    <rdf:RDF>
+                        <cc:Work
+                                rdf:about="">
+                            <dc:format>image/svg+xml</dc:format>
+                            <dc:type
+                                    rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                            <dc:title/>
+                        </cc:Work>
+                    </rdf:RDF>
+                </metadata>
+                <g
+                        inkscape:label="Calque 1"
+                        inkscape:groupmode="layer"
+                        id="layer1"
+                        transform="translate(-60.647272,-78.518131)">
+                    <path
+                            style="fill:none;stroke:#000000;stroke-width:3.06500006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                            d="m 75.311755,165.74777 v 15.21354 h 8.315476 v -14.83557"
+                            id="path3726"
+                            inkscape:connector-curvature="0"
+                            sodipodi:nodetypes="cccc"/>
+                    <path
+                            style="fill:none;stroke:#000000;stroke-width:3.06500006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                            d="m 78.042701,117.66215 c 13.661792,-2.01242 41.426779,-0.26728 41.426779,-0.26728 l -0.26727,-24.321522 c 0.61187,-2.468738 1.08291,-4.98442 4.81085,-6.414468 l 3.74177,-1.069078 c 0.47236,-1.883323 2.02403,-3.550784 4.27632,-5.078121 0,0 1.89035,1.966265 2.13815,2.672696 0.2478,0.706431 0,1.069078 0,1.069078 0,0 5.01972,-0.758933 8.68626,1.737252 3.66654,2.496185 2.51715,6.647744 3.87541,8.15172 0.66817,0.601356 3.31794,2.028482 4.00904,3.608139 1.01392,3.769104 -0.70843,6.582864 -3.4745,7.617184 -2.24586,0.81311 -10.15624,0 -10.15624,0 v 36.34865 c -2.76179,15.14527 -18.70887,13.36348 -18.70887,13.36348 v 8.28535 c 0.26727,4.8554 -12.16077,4.63267 -12.02713,-0.26727 v -8.55262 l -20.312483,0.26727 -0.267269,9.08716 c -0.125965,4.28281 -12.828939,3.48285 -12.828939,-0.80181 v -8.81989 c 0,0 -7.032501,-4.38529 -8.819893,-11.75986 -1.148952,-4.74044 -0.642177,-8.06985 0,-12.02713 0.225638,-1.39044 1.336346,-4.00904 1.336346,-4.00904 -1.205879,-0.96099 -2.32452,-1.10906 -3.207233,-4.00904 -0.637331,-3.39303 1.587023,-5.25562 5.87993,-6.1472 2.672693,-0.17818 4.454494,0.71271 5.34539,2.67269 0,0 2.98176,-1.10628 4.543582,-1.33634 z"
+                            id="path3724"
+                            inkscape:connector-curvature="0"
+                            sodipodi:nodetypes="sccccczczccccccccccsscssccccs"/>
+                    <path
+                            style="fill:#000000;fill-opacity:0;stroke-width:0.35714287"
+                            d="m 419.69255,629.62205 c -6.33344,-0.98659 -11.08066,-3.11971 -14.13867,-6.3531 -2.96702,-3.13719 -2.94544,-2.96986 -2.94544,-22.83449 v -17.10917 l -11.16071,0.2195 c -6.13839,0.12073 -23.61157,0.38471 -38.82928,0.58661 -15.21771,0.20191 -27.74418,0.44272 -27.8366,0.53513 -0.0924,0.0924 -0.36801,7.11478 -0.61242,15.60525 -0.62092,21.56924 -0.54574,20.57519 -1.70598,22.555 -2.64562,4.51439 -10.76392,6.95856 -21.64072,6.51535 -11.51946,-0.46941 -20.9766,-4.34436 -23.54339,-9.64664 -0.72103,-1.48946 -0.74232,-2.04068 -0.74232,-19.21847 V 582.792 l -2.04602,-1.39865 c -10.65621,-7.28453 -21.57831,-19.75389 -26.87689,-30.68436 -5.43248,-11.20667 -7.96504,-25.91123 -6.82768,-39.64286 0.38009,-4.58884 1.93737,-16.40255 2.41278,-18.30357 l 0.20095,-0.80357 h 137.10415 137.10413 v 21.94892 21.94892 l -1.23708,4.82677 c -6.18083,24.11594 -22.9807,39.20084 -48.76292,43.78506 -3.4059,0.60559 -6.3875,0.83547 -12.57648,0.96962 l -8.1122,0.17583 -0.10209,17.36887 c -0.10009,17.03038 -0.11715,17.39702 -0.87555,18.81349 -3.34447,6.24653 -14.68424,9.62717 -26.24957,7.82558 z"
+                            id="path3728"
+                            inkscape:connector-curvature="0"
+                            transform="scale(0.26458333)"/>
+                    <path
+                            style="fill:none;stroke:#000000;stroke-width:3.06500006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                            d="m 108.29018,165.91786 v 15.49702 h 8.31548 l -0.0945,-15.21355"
+                            id="path3726-8"
+                            inkscape:connector-curvature="0"
+                            sodipodi:nodetypes="cccc"/>
+                </g>
+            </svg>
+
+        </a>
+        {{> footer}}
+    </div>
+</div>
+<div class="gallery-container">
+    <div class="photo-presentation-container">
+        <img class="photo-presentation" src=""></img>
+    </div>
+</div>
+<div class="presentor gallery">
+    <div class="inner-presentor">
+        {{#each gallery}}
+            <a class="super-item">
+                <img class="item-gallery lazy photo-click" data-original="/content/images/{{this}}"
+                     src="/content/images/min/{{this}}"/>
+            </a>
+        {{/each}}
+    </div>
+    <div class="gallery-bottom">
+        <a class="underline gallery-button quit" href="#">Retour.</a>
+    </div>
+</div>
+</body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="/content/js/jquery.lazyload.min.js"></script>
+<script src="/content/js/customloading.js"></script>
+<script type="application/javascript">
+    var presenter = $(".photo-presentation");
+
+    $(presenter).on("click", function () {
+        if (presenter.hasClass("selected-photo")) {
+            presenter.removeClass("selected-photo");
+            presenter.parent().removeClass("selected-photo-container");
+
+        }
+
+    });
+
+    $(".photo-click").on("click", function () {
+        if (!presenter.hasClass("selected-photo")) {
+            presenter.attr("src", "");
+
+            presenter.addClass("selected-photo");
+            presenter.removeClass("landscape");
+            presenter.removeClass("portrait");
+            presenter.parent().addClass("selected-photo-container");
+            presenter.attr("src", $(this).attr("data-original"));
+            if($(this).height() /$(this).width() > 1.0){
+                presenter.addClass("portrait");
+            }else{
+                presenter.addClass("landscape");
+
+            }
+        }
+    });
+
+    $(".gallery-button").on("click", function () {
+        // var lazy = lazyLoad();
+        // lazyload().loadImages();
+        var presentor = $(".presentor");
+        if (presentor.css("left") === "0px") {
+            presentor.css("left", "100%");
+        } else {
+            presentor.css("left", "0%");
+        }
+    });
+
+
+
+</script>
+</html>

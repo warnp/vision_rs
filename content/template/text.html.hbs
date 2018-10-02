@@ -6,17 +6,5 @@
             {{> photo img1=paragraph.0.img1 img2=paragraph.0.img2 img3=paragraph.0.img3}}
         {{/if}}
     </div>
-    <div class="text-content all" style="display: none">
-        {{#each paragraph}}
-            <div class="author-container">
-                <div class="author {{this.author}}">
-                </div>
-                <p class="paragraph">{{this.paragraph}}</p>
-            </div>
-            {{#if this.img1}}
-                {{> photo img1=this.img1 img2=this.img2 img3=this.img3}}
-            {{/if}}
-        {{/each}}
-    </div>
-    <div class="expand" id="{{id}}">Lire plus.</div>
+    <a class="underline" href="peru/{{id}}" id="{{id}}">Lire plus.</a>
 </div>

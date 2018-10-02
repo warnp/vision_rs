@@ -1,0 +1,21 @@
+FROM ubuntu:16.04
+
+RUN apt-get update \
+    && apt-get install -y curl file build-essential \
+    && curl https://sh.rustup.rs -sSf | \
+    sh -s -- --default-toolchain stable -y
+
+
+ENV PATH "/root/.cargo/bin:$PATH"
+
+RUN mkdir -p /rust/app
+ADD src /rust/app/src
+ADD Cargo.toml /rust/app
+WORKDIR /rust/app
+
+EXPOSE 8000
+
+RUN mkdir -p content/images
+#CMD "./target/release/vision"
+CMD cargo run --release
+

@@ -9,15 +9,18 @@ pub struct Trip {
     pub data: Vec<DayTemplate>,
 }
 
-#[derive(Serialize, Deserialize, Debug)]
+#[derive(Serialize, Deserialize, Debug, Clone)]
 pub struct DayTemplate {
     pub id: u32,
+    pub url: String,
     pub title: String,
     pub presentation: String,
     pub content: Vec<TemplateContext>,
+    pub gallery: Vec<String>
+
 }
 
-#[derive(Serialize, Deserialize, Debug)]
+#[derive(Serialize, Deserialize, Debug, Clone)]
 pub struct TemplateContext {
     pub author: String,
     pub paragraph: String,

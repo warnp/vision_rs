@@ -1,2 +1,7 @@
 target
 content/images
+content/data
+.idea
+.idea/workspace.xml
+build
+*.tar
