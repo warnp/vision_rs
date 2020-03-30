@@ -1,12 +1,12 @@
 [package]
 name = "vision"
-version = "0.1.0"
-authors = ["romain <romain.assie@supinfo.com>"]
+version = "0.1.0" #peru version
+authors = ["romain <romain.assie@gmail.com>"]
 
 [dependencies]
-serde = "1.0"
-serde_derive = "1.0"
-serde_json = "1.0"  # just for the example, not required in general
-handlebars = "0.32.*"
-rouille = "2.1.0"
+serde = "1.0.105"
+serde_derive ="1.0.105"
+serde_json = "1.0.50"  # just for the example, not required in general
+handlebars = "3.0.1"
+rouille = {path = "vendor/rouille"}
 
