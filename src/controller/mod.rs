@@ -39,6 +39,7 @@ pub fn serve_article(req: &Request, id : &i32) -> Response {
     reg.register_template_file("article", &Path::new("./content/template/article.html.hbs")).unwrap();
     reg.register_template_file("footer", &Path::new("./content/template/footer.html.hbs")).unwrap();
     reg.register_template_file("header", &Path::new("./content/template/header.html.hbs")).unwrap();
+    reg.register_template_file("galley", &Path::new("./content/template/galley.html.hbs")).unwrap();
 
     let article_page = reg.render("article", &generate_article_content(id)).unwrap();
     rouille::Response::html(article_page )
