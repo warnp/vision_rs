@@ -794,7 +794,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 
 [[package]]
 name = "vision"
-version = "0.1.0"
+version = "0.2.0"
 dependencies = [
  "handlebars 3.0.1 (registry+https://github.com/rust-lang/crates.io-index)",
  "rouille 3.0.0",

@@ -16,8 +16,8 @@ use handlebars::Handlebars;
 use data_type::{TemplateContext, DayTemplate, TemplateWrapper, Trip};
 
 
-const HOST : &'static str = "0.0.0.0:8000";
-//const HOST : &'static str = "127.0.0.1:8000";
+//const HOST : &'static str = "0.0.0.0:8000";
+const HOST : &'static str = "127.0.0.1:8000";
 
 fn main() {
     println!("Server is running on {}", HOST);
@@ -30,10 +30,10 @@ fn main() {
             }
         }
         router!(req,
-            (GET)(/peru/{id : i32}) => {
+            (GET)(/ny/{id : i32}) => {
                 controller::serve_article(&req, &id)
                 },
-            (GET)(/peru) => {
+            (GET)(/ny) => {
                 controller::serve_index(&req)
                 },
                 _ => rouille::Response::empty_404()
