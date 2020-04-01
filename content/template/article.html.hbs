@@ -134,6 +134,16 @@
 <script type="application/javascript">
     var presenter = $(".photo-presentation");
 
+    var presenterContainer = $(".photo-presentation-container")
+
+    $(presenterContainer).on('click', function(){
+        if (presenter.hasClass("selected-photo")) {
+            presenter.removeClass("selected-photo");
+            presenter.parent().removeClass("selected-photo-container");
+
+        }
+    })
+
     $(presenter).on("click", function () {
         if (presenter.hasClass("selected-photo")) {
             presenter.removeClass("selected-photo");

@@ -8,5 +8,5 @@ serde = "1.0.105"
 serde_derive ="1.0.105"
 serde_json = "1.0.50"  # just for the example, not required in general
 handlebars = "3.0.1"
-rouille = {path = "vendor/rouille"}
+rouille = "3.0.0" #{path = "vendor/rouille"}
 
