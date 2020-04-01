@@ -9,8 +9,8 @@
         {
           "author": "cam",
           "paragraph": "",
-          "img1": "20190607_105951.jpg",
-          "img2": "20190608_144029.jpg",
+          "img1": "IMG_20190612_112633.jpg",
+          "img2": "",
           "img3": ""
         }
       ],
@@ -47,8 +47,8 @@
         {
           "author": "cam",
           "paragraph": "",
-          "img1": "20190607_192619.jpg",
-          "img2": "20190608_205152.jpg",
+          "img1": "IMG_20190610_200337.jpg",
+          "img2": "",
           "img3": ""
         }
       ],
@@ -76,8 +76,8 @@
         {
           "author": "cam",
           "paragraph": "",
-          "img1": "DSCN5943.JPG",
-          "img2": "DSCN5950.JPG",
+          "img1": "IMG_20190606_141007.jpg",
+          "img2": "",
           "img3": ""
         }
       ],
@@ -192,7 +192,7 @@
         {
           "author": "cam",
           "paragraph": "",
-          "img1": "DSCN6021.JPG",
+          "img1": "DSCN6068.JPG",
           "img2": "",
           "img3": ""
         }
@@ -239,7 +239,6 @@
         "IMG_8193.jpg",
         "IMG_8197.jpg",
         "IMG_8200.jpg",
-        "IMG_8200.jpg",
         "IMG_20190607_153147.jpg"
       ]
     },
@@ -252,7 +251,7 @@
         {
           "author": "cam",
           "paragraph": "",
-          "img1": "DSCN6010.JPG",
+          "img1": "DSCN6016.JPG",
           "img2": "",
           "img3": ""
         }
@@ -344,7 +343,7 @@
         {
           "author": "cam",
           "paragraph": "",
-          "img1": "DSCN6414.JPG",
+          "img1": "IMG_8262.jpg",
           "img2": "",
           "img3": ""
         }
@@ -365,7 +364,6 @@
         "IMG_8271.jpg",
         "IMG_8272.jpg",
         "IMG_8275.jpg",
-        "IMG_8272.jpg",
         "IMG_20190611_104308.jpg",
         "IMG_20190611_104402.jpg",
         "IMG_20190611_105545.jpg"
@@ -390,7 +388,6 @@
         "DSCN6272.JPG",
         "DSCN6274.JPG",
         "DSCN6278.JPG",
-        "DSCN6278.JPG",
         "DSCN6286.JPG",
         "DSCN6287.JPG",
         "DSCN6288.JPG",
@@ -412,12 +409,11 @@
         "IMG_8172.jpg",
         "IMG_8174.jpg",
         "IMG_8175.jpg",
-        "IMG_8176.jpg",
         "IMG_8176.jpg"
       ]
     },
     {
-      "id": 12,
+      "id": 11,
       "url": "",
       "title": "Harlem",
       "presentation": "",
@@ -425,7 +421,7 @@
         {
           "author": "cam",
           "paragraph": "",
-          "img1": "DSCN6228.JPG",
+          "img1": "IMG_8136.jpg",
           "img2": "",
           "img3": ""
         }
@@ -443,7 +439,7 @@
       ]
     },
     {
-      "id": 13,
+      "id": 12,
       "url": "",
       "title": "Musées",
       "presentation": "",
@@ -524,7 +520,7 @@
       ]
     },
     {
-      "id": 14,
+      "id": 13,
       "url": "",
       "title": "NY by night",
       "presentation": "",
@@ -572,7 +568,7 @@
         {
           "author": "cam",
           "paragraph": "",
-          "img1": "DSCN6469.JPG",
+          "img1": "DSCN6524.JPG",
           "img2": "",
           "img3": ""
         }
@@ -595,6 +591,27 @@
         "DSCN6548.JPG",
         "IMG_20190612_131104.jpg",
         "IMG-20190612-WA0000.jpg"
+      ]
+    },
+    {
+      "id": 15,
+      "url": "",
+      "title": "Métro",
+      "presentation": "",
+      "content": [
+        {
+          "author": "cam",
+          "paragraph": "",
+          "img1": "IMG_20190612_151549.jpg",
+          "img2": "",
+          "img3": ""
+        }
+      ],
+      "gallery": [
+        "IMG_20190612_151549.jpg",
+        "IMG_20190607_094201.jpg",
+        "IMG_20190605_201624.jpg",
+        "IMG_20190605_194020.jpg"
       ]
     }
   ]
