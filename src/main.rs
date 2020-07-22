@@ -30,10 +30,7 @@ fn main() {
             }
         }
         router!(req,
-            (GET)(/ny/{id : i32}) => {
-                controller::serve_article(&req, &id)
-                },
-            (GET)(/ny) => {
+            (GET)(/) => {
                 controller::serve_index(&req)
                 },
                 _ => rouille::Response::empty_404()
